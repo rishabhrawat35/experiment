@@ -9,7 +9,7 @@ Work for the TalentFlow product exercise. All files are inside the [`talentflow/
 | 1 | Memo, roadmap, and metric spec (one document) | [Analysis Dashboard](https://claude.ai/code/artifact/0afe2e6c-80b1-479e-beb9-45153188ab46) — click "Case Solution" (also saved as [`talentflow-q3-roadmap.md`](talentflow/docs/talentflow-q3-roadmap.md)) | Dashboard, or `talentflow/docs/` |
 | 2 | Findings table (claim, metric, value, method, confidence) | [`findings.md`](talentflow/findings.md) | `talentflow/` |
 | 3 | Code and queries | [`talentflow/analysis/`](talentflow/analysis/) folder | `talentflow/analysis/` |
-| 4 | Claude Code session transcript | [`session-transcript.jsonl`](session-transcript.jsonl) | repo root |
+| 4 | Claude Code session transcript | [`session-transcript.jsonl`](talentflow/session-transcript.jsonl) | `talentflow/` |
 
 **Note on #4:** this is the raw session log (JSONL — one event per line), copied directly from Claude Code's local session storage. It's the complete, authentic record, but not light reading. If the Claude Code app offers a cleaner export (e.g. a readable markdown transcript) from its own menu, feel free to swap that in instead — this file is a safe fallback either way.
 
