@@ -92,7 +92,10 @@ withdrawn vs. both) that the pipeline had not itself flagged as a defined term.
 ## 3. For you to answer
 
 - What did I get wrong first, and what made me notice?
+Looking at data by establishing relation between 2 tables at a time, but when i deep dived cases from one table to another i found multi table relation of the data and so i planned views and instructed LLM to run those cases for data.
 
 - Which of my numbers would I least like to defend, and why?
+The process seems manual in most places, the conversion of a candidate is broken in multiple places, and there are further data deepd ive that can help us build a better case for projects to be picked; so I'd push back on focussing on the volume of canddiates coming from a source before fixing the leaky bucket & identifying all the leaks/reasons for the leaks.
 
 - What would I have asked the hiring manager if I could?
+How is does the users of this platform(or tables) edit the data in the table, is that automated, when do they make the change, how do they do it, what happens if they dont or can't.
