@@ -60,6 +60,7 @@ docs/
 findings.md             every quantitative claim used anywhere in this project, with its
                          source file and a confidence label
 session-transcript.jsonl  Claude Code session log for this exercise (raw JSONL)
+PROCESS.md              readable summary of the session: prompt timeline, direction changes, decisions
 fetch_data.sh           pulls Departments/People/Job Openings/Candidates/Applications/
                          Interviews/Offers/Findings from Airtable into data/*.json
 build_viewer_data.py    builds viewer_data.json for the raw data browser (optional, separate
