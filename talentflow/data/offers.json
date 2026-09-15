@@ -1,0 +1,582 @@
+[
+  {
+    "id": "rec0bHaqPWKwbh666",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 100000,
+      "Proposed Start Date": "2026-07-02",
+      "Application": [
+        "recmXb8MbeTw1s5yg"
+      ],
+      "Base CTC": 1910000,
+      "Offer ID": "OFF-00021",
+      "Status": "Pending",
+      "Offered On": "2026-05-02"
+    }
+  },
+  {
+    "id": "rec2ZqFzKtzyRhiRw",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-07-12",
+      "Application": [
+        "recx0Lu59vy664xAT"
+      ],
+      "Base CTC": 2430000,
+      "Decision On": "2026-06-17",
+      "Offer ID": "OFF-00024",
+      "Status": "Accepted",
+      "Offered On": "2026-06-01"
+    }
+  },
+  {
+    "id": "rec4IxCFtlh2fUaYZ",
+    "createdTime": "2026-08-27T16:40:02.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-07-01",
+      "Application": [
+        "recGBuBnWhJkCTNIm"
+      ],
+      "Base CTC": 3920000,
+      "Decision On": "2026-05-03",
+      "Offer ID": "OFF-00033",
+      "Status": "Accepted",
+      "Offered On": "2026-04-25"
+    }
+  },
+  {
+    "id": "rec5A8pPd3Az1BUkn",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-08-07",
+      "Application": [
+        "rec5EHcqYRoWmEZKL"
+      ],
+      "Base CTC": 480000,
+      "Decision On": "2026-07-21",
+      "Offer ID": "OFF-00027",
+      "Status": "Accepted",
+      "Offered On": "2026-07-05"
+    }
+  },
+  {
+    "id": "rec5GeU3frNNkZrws",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-09-20",
+      "Application": [
+        "rechzU39BX1VZbMQu"
+      ],
+      "Base CTC": 3760000,
+      "Decision On": "2026-08-15",
+      "Offer ID": "OFF-00020",
+      "Status": "Pending",
+      "Offered On": "2026-08-04"
+    }
+  },
+  {
+    "id": "rec9zR8IYJSOcp70l",
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Joining Bonus": 100000,
+      "Proposed Start Date": "2025-12-16",
+      "Application": [
+        "recsf6EmTqvMtB5m9"
+      ],
+      "Base CTC": 2258706,
+      "Decision On": "2026-01-01",
+      "Offer ID": "OFF-00003",
+      "Status": "Accepted",
+      "Offered On": "2025-12-13"
+    }
+  },
+  {
+    "id": "recC08X4FeIURnTSC",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Decline Reason": "Counter Offer",
+      "Proposed Start Date": "2026-05-27",
+      "Application": [
+        "recpTfLaxtqwd6Zml"
+      ],
+      "Base CTC": 2430000,
+      "Decision On": "2026-05-13",
+      "Offer ID": "OFF-00012",
+      "Status": "Declined",
+      "Offered On": "2026-04-30"
+    }
+  },
+  {
+    "id": "recJ0AWDZSiO7mxXQ",
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-06-23",
+      "Application": [
+        "rec0yM3MdyWBDkjXA"
+      ],
+      "Base CTC": 470000,
+      "Decision On": "2026-07-17",
+      "Offer ID": "OFF-00005",
+      "Status": "Accepted",
+      "Offered On": "2026-07-05"
+    }
+  },
+  {
+    "id": "recMJLFhIqQcUh6A9",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-07-25",
+      "Application": [
+        "recwCbFOqNVF09X1Y"
+      ],
+      "Base CTC": 3180000,
+      "Decision On": "2026-07-05",
+      "Offer ID": "OFF-00013",
+      "Status": "Pending",
+      "Offered On": "2026-06-19"
+    }
+  },
+  {
+    "id": "recNeOhJnVRDl1ePH",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-05-19",
+      "Application": [
+        "reclvmFsKkhQ8xGyW"
+      ],
+      "Base CTC": 680000,
+      "Decision On": "2026-03-24",
+      "Offer ID": "OFF-00014",
+      "Status": "Accepted",
+      "Offered On": "2026-03-09"
+    }
+  },
+  {
+    "id": "recP8nDvozvssXYIz",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-08-03",
+      "Application": [
+        "recuAEYSg32syGYNn"
+      ],
+      "Base CTC": 2110000,
+      "Decision On": "2026-07-22",
+      "Offer ID": "OFF-00028",
+      "Status": "Accepted",
+      "Offered On": "2026-07-13"
+    }
+  },
+  {
+    "id": "recQGiR6TBTGb9v40",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-06-05",
+      "Application": [
+        "recCUNIerZyc7XBWv"
+      ],
+      "Base CTC": 2570000,
+      "Decision On": "2026-05-26",
+      "Offer ID": "OFF-00023",
+      "Status": "Accepted",
+      "Offered On": "2026-05-11"
+    }
+  },
+  {
+    "id": "recQmK7bhmt2EAguh",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 100000,
+      "Proposed Start Date": "2026-07-27",
+      "Application": [
+        "recOhPAo3U9UBylfw"
+      ],
+      "Base CTC": 610000,
+      "Decision On": "2026-06-28",
+      "Offer ID": "OFF-00022",
+      "Status": "Accepted",
+      "Offered On": "2026-06-16"
+    }
+  },
+  {
+    "id": "recQq6ghz7ksCfsKV",
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-09-04",
+      "Application": [
+        "recteo4spjSG5Kgwd"
+      ],
+      "Base CTC": 440000,
+      "Decision On": "2026-08-20",
+      "Offer ID": "OFF-00007",
+      "Status": "Pending",
+      "Offered On": "2026-08-07"
+    }
+  },
+  {
+    "id": "recSCvGZZ0IpBjqt5",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 100000,
+      "Proposed Start Date": "2026-05-03",
+      "Application": [
+        "reclkeeZCve9HMAWx"
+      ],
+      "Base CTC": 900000,
+      "Decision On": "2026-03-29",
+      "Offer ID": "OFF-00030",
+      "Status": "Accepted",
+      "Offered On": "2026-03-20"
+    }
+  },
+  {
+    "id": "recSz6g6gyqkXsMhe",
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-06-07",
+      "Application": [
+        "rec3do5Lr0vNEt35R"
+      ],
+      "Base CTC": 880000,
+      "Decision On": "2026-06-25",
+      "Offer ID": "OFF-00004",
+      "Status": "Accepted",
+      "Offered On": "2026-06-23"
+    }
+  },
+  {
+    "id": "recTD5beFbLZItf39",
+    "createdTime": "2026-08-27T16:40:02.000Z",
+    "fields": {
+      "Joining Bonus": 50000,
+      "Proposed Start Date": "2025-12-30",
+      "Application": [
+        "recUTm4vFe46Ns02w"
+      ],
+      "Base CTC": 500000,
+      "Decision On": "2025-11-17",
+      "Offer ID": "OFF-00032",
+      "Status": "Accepted",
+      "Offered On": "2025-11-06"
+    }
+  },
+  {
+    "id": "recUzh2Vj5NyAPwRO",
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Joining Bonus": 100000,
+      "Proposed Start Date": "2026-04-06",
+      "Application": [
+        "reckLPXA8xRgWsC1l"
+      ],
+      "Base CTC": 440000,
+      "Decision On": "2026-02-02",
+      "Offer ID": "OFF-00002",
+      "Status": "Pending",
+      "Offered On": "2026-01-17"
+    }
+  },
+  {
+    "id": "recXLjOhQeRS6ds3g",
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Joining Bonus": 50000,
+      "Decline Reason": "Counter Offer",
+      "Proposed Start Date": "2026-06-22",
+      "Application": [
+        "recRAyDBrdQqQOVyP"
+      ],
+      "Base CTC": 2850000,
+      "Decision On": "2026-05-06",
+      "Offer ID": "OFF-00006",
+      "Status": "Declined",
+      "Offered On": "2026-04-20"
+    }
+  },
+  {
+    "id": "recY88MFVZmfpXKhv",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 50000,
+      "Decline Reason": "Location",
+      "Proposed Start Date": "2026-02-24",
+      "Application": [
+        "recwP2FumcSYmnZP8"
+      ],
+      "Base CTC": 2680000,
+      "Decision On": "2026-01-07",
+      "Offer ID": "OFF-00019",
+      "Status": "Declined",
+      "Offered On": "2025-12-31"
+    }
+  },
+  {
+    "id": "recYKkt6k6hHTt6Qt",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-07-31",
+      "Application": [
+        "recmQozSPHQsfsGLa"
+      ],
+      "Base CTC": 4180000,
+      "Decision On": "2026-06-08",
+      "Offer ID": "OFF-00016",
+      "Status": "Accepted",
+      "Offered On": "2026-06-02"
+    }
+  },
+  {
+    "id": "reca4WglLHfgswBug",
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Joining Bonus": 100000,
+      "Decline Reason": "Counter Offer",
+      "Proposed Start Date": "2026-07-28",
+      "Application": [
+        "recCPGIfZwJpFdhnM"
+      ],
+      "Base CTC": 1230000,
+      "Decision On": "2026-06-23",
+      "Offer ID": "OFF-00010",
+      "Status": "Declined",
+      "Offered On": "2026-06-06"
+    }
+  },
+  {
+    "id": "recbd2PLIv6QZxIx2",
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-03-26",
+      "Application": [
+        "recrCOYOF6KWpUmqW"
+      ],
+      "Base CTC": 1620000,
+      "Decision On": "2026-02-03",
+      "Offer ID": "OFF-00008",
+      "Status": "Accepted",
+      "Offered On": "2026-02-01"
+    }
+  },
+  {
+    "id": "reccQC9VH02L1Jobf",
+    "createdTime": "2026-08-27T16:40:02.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-02-12",
+      "Application": [
+        "recMBzp7YysYXWeKE"
+      ],
+      "Base CTC": 2750000,
+      "Decision On": "2026-01-15",
+      "Offer ID": "OFF-00036",
+      "Status": "Accepted",
+      "Offered On": "2026-01-02"
+    }
+  },
+  {
+    "id": "recg8Zm1zfplQE1Hd",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 50000,
+      "Proposed Start Date": "2026-10-01",
+      "Application": [
+        "recLDjEcOw0gL5Ew0"
+      ],
+      "Base CTC": 1790000,
+      "Decision On": "2026-07-29",
+      "Offer ID": "OFF-00017",
+      "Status": "Accepted",
+      "Offered On": "2026-07-27"
+    }
+  },
+  {
+    "id": "recgaQea5mqnAKiQS",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2025-11-07",
+      "Application": [
+        "recOQKvwlqxac6vRX"
+      ],
+      "Base CTC": 2620000,
+      "Decision On": "2025-10-17",
+      "Offer ID": "OFF-00029",
+      "Status": "Accepted",
+      "Offered On": "2025-10-14"
+    }
+  },
+  {
+    "id": "rechC6yLXnUv4oXCD",
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2025-11-29",
+      "Application": [
+        "reciNqlMlx5mYgt5N"
+      ],
+      "Base CTC": 1093624,
+      "Decision On": "2025-12-22",
+      "Offer ID": "OFF-00001",
+      "Status": "Accepted",
+      "Offered On": "2025-12-02"
+    }
+  },
+  {
+    "id": "rechyDHcenrqs3jIB",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 50000,
+      "Proposed Start Date": "2026-07-31",
+      "Application": [
+        "recZuz7sr2fpSPd5U"
+      ],
+      "Base CTC": 1850000,
+      "Decision On": "2026-06-18",
+      "Offer ID": "OFF-00026",
+      "Status": "Accepted",
+      "Offered On": "2026-06-08"
+    }
+  },
+  {
+    "id": "recj59o8FcTyBEVws",
+    "createdTime": "2026-08-27T16:40:02.000Z",
+    "fields": {
+      "Joining Bonus": 100000,
+      "Proposed Start Date": "2026-03-03",
+      "Application": [
+        "recCeQ8EDYbkRp312"
+      ],
+      "Base CTC": 2390000,
+      "Decision On": "2025-12-24",
+      "Offer ID": "OFF-00031",
+      "Status": "Accepted",
+      "Offered On": "2025-12-20"
+    }
+  },
+  {
+    "id": "recjSHe6DAoPr9X8t",
+    "createdTime": "2026-08-27T16:40:02.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2025-11-24",
+      "Application": [
+        "recaFt6waPJsgv4Ct"
+      ],
+      "Base CTC": 730000,
+      "Decision On": "2025-10-24",
+      "Offer ID": "OFF-00034",
+      "Status": "Accepted",
+      "Offered On": "2025-10-16"
+    }
+  },
+  {
+    "id": "recqEzIx5OSWVuwUh",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-07-29",
+      "Application": [
+        "recbNY3B2mWPRFPdB"
+      ],
+      "Base CTC": 790000,
+      "Decision On": "2026-06-28",
+      "Offer ID": "OFF-00018",
+      "Status": "Accepted",
+      "Offered On": "2026-06-13"
+    }
+  },
+  {
+    "id": "recqSQGDhvKAm9p6E",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-03-27",
+      "Application": [
+        "recOw5S3niDaulLoE"
+      ],
+      "Base CTC": 710000,
+      "Decision On": "2026-02-09",
+      "Offer ID": "OFF-00025",
+      "Status": "Accepted",
+      "Offered On": "2026-02-07"
+    }
+  },
+  {
+    "id": "recrbx0808vIR0axx",
+    "createdTime": "2026-08-27T16:40:02.000Z",
+    "fields": {
+      "Joining Bonus": 50000,
+      "Proposed Start Date": "2026-09-02",
+      "Application": [
+        "recF6Nq4dyCozd9Cs"
+      ],
+      "Base CTC": 2270000,
+      "Decision On": "2026-07-23",
+      "Offer ID": "OFF-00035",
+      "Status": "Accepted",
+      "Offered On": "2026-07-06"
+    }
+  },
+  {
+    "id": "recuvzZDRm9zKIkuA",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-01-16",
+      "Application": [
+        "recr6RgGJM6mh14gM"
+      ],
+      "Base CTC": 1110000,
+      "Decision On": "2025-12-14",
+      "Offer ID": "OFF-00015",
+      "Status": "Accepted",
+      "Offered On": "2025-12-04"
+    }
+  },
+  {
+    "id": "recv2V6Cfju1dWKmd",
+    "createdTime": "2026-08-27T16:40:01.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Proposed Start Date": "2026-08-21",
+      "Application": [
+        "recxs6FshN7Ughb5b"
+      ],
+      "Base CTC": 670000,
+      "Decision On": "2026-07-30",
+      "Offer ID": "OFF-00011",
+      "Status": "Accepted",
+      "Offered On": "2026-07-20"
+    }
+  },
+  {
+    "id": "recy4ucf1kN35a7zu",
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Joining Bonus": 0,
+      "Decline Reason": "Compensation",
+      "Proposed Start Date": "2026-07-31",
+      "Application": [
+        "rec8n7ktHYBuzeY1h"
+      ],
+      "Base CTC": 720000,
+      "Decision On": "2026-05-28",
+      "Offer ID": "OFF-00009",
+      "Status": "Declined",
+      "Offered On": "2026-05-22"
+    }
+  }
+]

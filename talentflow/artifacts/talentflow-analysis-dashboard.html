@@ -1,0 +1,651 @@
+<meta charset="utf-8">
+<title>TalentFlow Analysis Dashboard</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+  :root {
+    --bg: #f6f4ef; --surface: #ffffff; --surface-raised: #fbfaf7;
+    --border: #e3e0d6; --border-strong: #cfcabb;
+    --ink: #23221d; --ink-dim: #6f6c5f; --ink-faint: #a8a394;
+    --accent: #2f6e6a; --accent-ink: #ffffff; --accent-tint: #e4efee;
+    --good-bg: #e3efe0; --good-ink: #3a6b32;
+    --warn-bg: #f7ecd9; --warn-ink: #8a5f14;
+    --bad-bg: #f6e2df; --bad-ink: #9c3b2e;
+    --neutral-bg: #eceae3; --neutral-ink: #5c5950;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #17181a; --surface: #1e2023; --surface-raised: #24262a;
+      --border: #33353a; --border-strong: #45484f;
+      --ink: #eae8e2; --ink-dim: #a3a099; --ink-faint: #706d66;
+      --accent: #5fb3ac; --accent-ink: #10201f; --accent-tint: #1f2f2d;
+      --good-bg: #223224; --good-ink: #8fcf85;
+      --warn-bg: #372f1c; --warn-ink: #e3b95c;
+      --bad-bg: #3a2420; --bad-ink: #e79185;
+      --neutral-bg: #2a2c30; --neutral-ink: #b7b4ac;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #17181a; --surface: #1e2023; --surface-raised: #24262a;
+    --border: #33353a; --border-strong: #45484f;
+    --ink: #eae8e2; --ink-dim: #a3a099; --ink-faint: #706d66;
+    --accent: #5fb3ac; --accent-ink: #10201f; --accent-tint: #1f2f2d;
+    --good-bg: #223224; --good-ink: #8fcf85;
+    --warn-bg: #372f1c; --warn-ink: #e3b95c;
+    --bad-bg: #3a2420; --bad-ink: #e79185;
+    --neutral-bg: #2a2c30; --neutral-ink: #b7b4ac;
+  }
+
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 400 14px/1.5 "IBM Plex Sans", system-ui, sans-serif; }
+  .shell { display: flex; min-height: 100vh; }
+  .rail { flex: 0 0 230px; max-width: 230px; border-right: 1px solid var(--border); background: var(--surface-raised); padding: 20px 12px; display: flex; flex-direction: column; gap: 16px; }
+  .brand .mark { font-family: "IBM Plex Mono", monospace; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); font-weight: 500; }
+  .brand h1 { margin: 4px 0 0; font-size: 16px; font-weight: 600; text-wrap: balance; }
+  .brand p { margin: 4px 0 0; font-size: 12px; color: var(--ink-dim); }
+  nav.views { display: flex; flex-direction: column; gap: 1px; overflow-y: auto; }
+  .nav-group { margin-top: 10px; font-size: 10px; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-faint); padding: 4px 10px; }
+  .tab-btn { display: block; width: 100%; padding: 6px 10px; border: none; background: transparent; color: var(--ink-dim); font: 500 12.5px "IBM Plex Sans", sans-serif; text-align: left; border-radius: 6px; cursor: pointer; }
+  .tab-btn:hover { background: var(--border); color: var(--ink); }
+  .tab-btn.active { background: var(--accent); color: var(--accent-ink); }
+
+  .main { flex: 1; min-width: 0; overflow-y: auto; }
+  .topbar { padding: 18px 28px; border-bottom: 1px solid var(--border); background: var(--surface); }
+  .topbar h2 { margin: 0; font-size: 17px; font-weight: 600; }
+  .topbar .sub { color: var(--ink-faint); font-size: 12px; font-family: "IBM Plex Mono", monospace; margin-top: 3px; }
+  .content { padding: 22px 28px 40px; }
+
+  .summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; margin-bottom: 26px; }
+  .stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; }
+  .stat-card .label { font-size: 11px; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-faint); margin-bottom: 6px; }
+  .stat-card .value { font-family: "IBM Plex Mono", monospace; font-size: 24px; font-weight: 500; font-variant-numeric: tabular-nums; }
+  .stat-card .ci { font-family: "IBM Plex Mono", monospace; font-size: 11px; color: var(--ink-faint); margin-top: 2px; }
+  .stat-card .note { font-size: 12px; color: var(--ink-dim); margin-top: 8px; line-height: 1.4; }
+  .stat-card.flag { border-color: var(--bad-ink); }
+  .stat-card.flag .value { color: var(--bad-ink); }
+
+  h3.section-title { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-dim); margin: 22px 0 12px; }
+  h3.section-title:first-child { margin-top: 0; }
+  h4.table-title { font-size: 13px; font-weight: 600; margin: 20px 0 8px; }
+  h4.table-title:first-child { margin-top: 0; }
+  p.lede { max-width: 680px; color: var(--ink-dim); font-size: 13.5px; line-height: 1.6; margin: 0 0 20px; }
+  p.lede code { font-family: "IBM Plex Mono", monospace; font-size: 12px; background: var(--surface-raised); padding: 1px 5px; border-radius: 4px; }
+
+  .questions-box { max-width: 680px; background: var(--accent-tint); border: 1px solid var(--accent); border-radius: 10px; padding: 16px 20px; margin-bottom: 26px; }
+  .questions-box-label { font-size: 11px; text-transform: uppercase; letter-spacing: .04em; color: var(--accent); font-weight: 600; margin-bottom: 8px; }
+  .questions-box ol { margin: 0; padding-left: 20px; }
+  .questions-box li { margin-bottom: 6px; font-size: 13.5px; line-height: 1.5; }
+  .questions-box-note { margin-top: 10px; font-size: 12.5px; color: var(--ink-dim); }
+
+  .kv { max-width: 680px; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 4px 20px; margin-bottom: 14px; }
+  .kv h4 { margin: 14px 0 6px; font-size: 13px; font-weight: 600; }
+  .kv dl { display: grid; grid-template-columns: max-content 1fr; gap: 4px 16px; margin: 0 0 14px; }
+  .kv dt { font-size: 12px; color: var(--ink-faint); white-space: nowrap; }
+  .kv dd { margin: 0; font-size: 13px; color: var(--ink); }
+  .kv code { font-family: "IBM Plex Mono", monospace; font-size: 12px; background: var(--surface-raised); padding: 1px 5px; border-radius: 4px; }
+
+  .legend { max-width: 780px; background: var(--surface-raised); border: 1px solid var(--border); border-radius: 8px; padding: 10px 16px; margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 4px 22px; font-size: 12px; color: var(--ink-dim); }
+  .legend b { color: var(--ink); font-weight: 600; }
+
+  .insight-box { max-width: 780px; background: var(--surface-raised); border-left: 3px solid var(--accent); border-radius: 0 8px 8px 0; padding: 10px 16px; margin-bottom: 12px; font-size: 13.5px; line-height: 1.5; color: var(--ink); }
+
+  .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); margin-bottom: 22px; }
+  table { border-collapse: collapse; width: max-content; min-width: 100%; font-size: 12.5px; }
+  thead th { position: sticky; top: 0; background: var(--surface-raised); text-align: left; padding: 8px 12px; font-weight: 600; font-size: 11px; letter-spacing: .03em; text-transform: uppercase; color: var(--ink-dim); border-bottom: 1px solid var(--border-strong); white-space: nowrap; }
+  tbody td { padding: 6px 12px; border-bottom: 1px solid var(--border); white-space: normal; max-width: 420px; overflow-wrap: break-word; vertical-align: top; }
+  tbody tr:hover td { background: var(--accent-tint); }
+  td.num { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; text-align: right; }
+
+  .pill { display: inline-block; padding: 2px 8px; border-radius: 100px; font-size: 11px; font-weight: 500; }
+  .pill.yes { background: var(--bad-bg); color: var(--bad-ink); }
+  .pill.no { background: var(--good-bg); color: var(--good-ink); }
+
+  .case-list { max-width: 780px; margin: 0 0 16px; padding-left: 20px; }
+  .case-list li { margin-bottom: 6px; font-size: 13.5px; line-height: 1.5; color: var(--ink); }
+  .case-callout { max-width: 780px; background: var(--accent-tint); border-left: 3px solid var(--accent); border-radius: 0 8px 8px 0; padding: 10px 16px; margin-bottom: 16px; font-size: 13.5px; line-height: 1.5; color: var(--ink); }
+</style>
+
+<div class="shell">
+  <aside class="rail">
+    <div class="brand">
+      <div class="mark">Analysis · appYePRAI75PMbQNQ</div>
+      <h1>TalentFlow Analysis Dashboard</h1>
+      <p>The data behind the Q3 roadmap, one table at a time</p>
+    </div>
+    <nav class="views" id="nav"></nav>
+  </aside>
+  <main class="main">
+    <div class="topbar">
+      <h2 id="title">Summary</h2>
+      <div class="sub" id="sub"></div>
+    </div>
+    <div class="content" id="content"></div>
+  </main>
+</div>
+
+<script>
+// Each view can render one table (dataKey) or several stacked tables (tables: [...]).
+// Related tables are grouped into one tab on purpose -- fewer clicks to see the
+// full picture of one question.
+const VIEW_GROUPS = [
+  { group: "Start here", views: [
+    { key: "__case_solution__", label: "Case Solution" },
+    { key: "__summary__", label: "Summary" },
+    { key: "__method__", label: "Method & data issues" },
+  ]},
+  { group: "VP questions", views: [
+    { key: "job_board", label: "Q1 — Job Board source" },
+    { key: "offer_acceptance", label: "Q2 — Offer acceptance" },
+  ]},
+  { group: "Findings", views: [
+    { key: "funnel", label: "Who applies, who gets hired" },
+    { key: "interviews", label: "Interviews" },
+    { key: "referrals_pay", label: "Referrals, rejections, pay" },
+  ]},
+];
+
+// Multi-table views: key -> list of {title, dataKey, insight}
+const MULTI_VIEWS = {
+  job_board: [
+    { title: "Hires and hire rate, by source", dataKey: "q1_source_summary",
+      insight: `Job Board has the highest Hire Share (33.3% of all hires, once 2 duplicate candidate records are fixed — was a tied 26.9%) but the lowest Hire Rate (3.0%, versus 9.7%+ everywhere else). Share and Rate answer different questions — see Terms on the Method page for the exact formulas.` },
+    { title: "Department x Source", dataKey: "department_x_source",
+      insight: `Sales: 50 Job Board applications, 0 hires. Sales: 8 LinkedIn applications, 3 hires (37.5%) — best department/source pair with a real sample. Engineering hired 0 from any source.` },
+  ],
+  offer_acceptance: [
+    { title: "Acceptance rate, two ways to count it", dataKey: "q2_offer_acceptance_two_ways",
+      insight: `72.2% and 83.9% are both valid reads of the same 36 offers — the difference is how "still pending" offers get counted. 36 offers is too few to prefer one over the other; the roadmap's metric spec fixes this with a rolling 3-month window.` },
+  ],
+  funnel: [
+    { title: "By department", dataKey: "department_funnel",
+      insight: `Engineering: 0 hires from 30 applications — traced to a specific cause below, not bad luck. Columns: "Still Active" = not yet closed either way. "Closed - Not Hired" = Rejected + Withdrawn combined. Hired (%) = Hired ÷ Applications.` },
+    { title: "By level", dataKey: "level_funnel", insight: "" },
+    { title: "Withdrawals, by level", dataKey: "withdrawn_by_level",
+      insight: `Senior/Lead withdraw ~6x more than Junior (6.2% vs 1.0%). Not pay — withdrawn Senior candidates asked for a smaller raise than the ones who got hired (see Expected Raise in Terms). Not process length either (Lead's process is the shortest). Only 13 withdrawals total — too few to find the real cause; a competing offer is the likely story but this data doesn't capture that. Mid shows no figure because Mid had zero withdrawals.` },
+    { title: "By recruiter", dataKey: "recruiter_funnel",
+      insight: `9.7%–5.2% hire rate across 4 recruiters, on 23–113 applications each — a spread, not big enough to call anyone under- or over-performing.` },
+  ],
+  interviews: [
+    { title: "By round", dataKey: "round_summary",
+      insight: `Technical 1 rejects more (65.2%, n=69) than Screen (52.7%, n=74) — the real bottleneck is technical, not the initial screen.` },
+    { title: "By interviewer", dataKey: "interviewer_calibration",
+      insight: `Rakesh Sethi: avg score 1.59 vs 2.67-3.34 for everyone else, and never once said Hire or Strong Hire. The last 4 columns show what actually happened to the people he said no to — 10 of his 28 "no" calls (7 Hired + 3 still active at Offer) didn't hold. Sorted worst-first by score.` },
+    { title: "Same-department vs. cross-department", dataKey: "affinity_quality_check",
+      insight: `Cross-department interviews score lower and don't happen as scheduled more often than same-department ones (see Non-Completion in Terms) — the mismatch problem correlates with worse outcomes, not just messier scheduling.` },
+    { title: "Non-completion rate", dataKey: "interview_noncompletion_rate",
+      insight: `Data dept. (21.7%, n=23) and Referral source (30%, n=10) run highest; Technical 2 and Engineering had zero no-shows, on small samples.` },
+  ],
+  referrals_pay: [
+    { title: "Referral signal comparison", dataKey: "referral_signal_comparison",
+      insight: `Self-reported Source = Referral hires at 53.8% — that's the "referral converts 8x better" number. The real internal-referrer field tells a smaller story: 11.1% vs 7.1% for everyone else. The roadmap's referral-tooling call is based on the real field, not the self-report.` },
+    { title: "Source vs. real referrer, crosstab", dataKey: "referral_source_vs_referredby_crosstab",
+      insight: `Only 3 of 13 self-reported "Referral" applications also carry a real internal referrer. The two signals barely overlap.` },
+    { title: "Rejection reasons", dataKey: "rejection_reasons",
+      insight: `Skills Mismatch + Culture Fit + Better Candidate = 69% of all rejections ("All" rows). The Job Board rows split the same reasons by whether a formal Interview was logged — Job Board only, because that's the channel the not-building call in the roadmap depends on. "No Formal Interview Logged" doesn't mean no human contact: 76.2% of those applications (64 of 84) still had a recruiter screening call logged, just not in the Interviews table — so a reason like Culture Fit there is a recruiter's read from that call, not a guess from a resume.` },
+    { title: "Offers vs. salary band", dataKey: "offer_vs_band_summary",
+      insight: `29 of 36 offers (80.6%) land inside the posted band. 7 outside (4 above, 3 below) — not a systemic pay-banding problem, but see the 2 extreme outliers below.` },
+    { title: "Offers furthest outside their band", dataKey: "offer_vs_band_outliers",
+      insight: `Only offers over 2x their band max are listed. OFF-00016 (accepted): 161% over. OFF-00006 (declined): 256% over. Worth asking Acme if these are data-entry errors or approved exceptions.` },
+  ],
+};
+
+const REFERRAL_KV = `
+  <div class="kv">
+    <h4>The two "referral" signals, exactly</h4>
+    <dl>
+      <dt>Signal A</dt><dd>Candidate self-reported <code>Source = Referral</code></dd>
+      <dt>Table / field</dt><dd><code>Candidates.Source</code></dd>
+      <dt>Signal B</dt><dd>Application has a real internal employee referrer</dd>
+      <dt>Table / field</dt><dd><code>Applications.Referred By</code> — separate field, separate table</dd>
+      <dt>"Hired" means</dt><dd><code>Applications.Stage = Hired</code>, in both signals</dd>
+      <dt>Overlap</dt><dd>3 of 13 Signal-A applications also have a Signal-B referrer</dd>
+      <dt>Why it matters</dt><dd>Signal A gives 53.8% hire rate; Signal B gives 11.1%. Different fields, different answers — use Signal B for the "does referral tooling work" call.</dd>
+    </dl>
+  </div>`;
+
+let DATA = null;
+
+function esc(s) { return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+function renderNav(active) {
+  const nav = document.getElementById('nav');
+  nav.innerHTML = '';
+  VIEW_GROUPS.forEach(g => {
+    const label = document.createElement('div');
+    label.className = 'nav-group';
+    label.textContent = g.group;
+    nav.appendChild(label);
+    g.views.forEach(v => {
+      const btn = document.createElement('button');
+      btn.className = 'tab-btn' + (v.key === active ? ' active' : '');
+      btn.textContent = v.label;
+      btn.addEventListener('click', () => selectView(v.key, v.label));
+      nav.appendChild(btn);
+    });
+  });
+}
+
+function selectView(key, label) {
+  document.getElementById('title').textContent = label;
+  renderNav(key);
+  const content = document.getElementById('content');
+  document.getElementById('sub').textContent = '';
+  if (key === '__summary__') { content.innerHTML = renderSummary(); return; }
+  if (key === '__method__') { content.innerHTML = renderMethod(); return; }
+  if (key === '__case_solution__') { content.innerHTML = renderCaseSolution(); return; }
+
+  const blocks = MULTI_VIEWS[key];
+  let html = '';
+  let totalRows = 0;
+  blocks.forEach(b => {
+    const rows = DATA[b.dataKey] || [];
+    totalRows += rows.length;
+    html += `<h4 class="table-title">${esc(b.title)}</h4>`;
+    if (b.insight) html += `<div class="insight-box">${esc(b.insight)}</div>`;
+    if (key === 'referrals_pay' && b.dataKey === 'referral_signal_comparison') html += REFERRAL_KV;
+    html += renderTable(rows);
+  });
+  document.getElementById('sub').textContent = `${totalRows} rows across ${blocks.length} tables`;
+  content.innerHTML = html;
+}
+
+function statCard(label, value, note, flag) {
+  return `<div class="stat-card${flag ? ' flag' : ''}">
+    <div class="label">${esc(label)}</div>
+    <div class="value">${esc(value)}</div>
+    ${note ? `<div class="note">${esc(note)}</div>` : ''}
+  </div>`;
+}
+
+function renderMethod() {
+  return `
+  <div class="kv">
+    <h4>Terms used on this page</h4>
+    <dl>
+      <dt>Score</dt><dd>1-5 scale. 5 = strongest.</dd>
+      <dt>Dedup</dt><dd>After merging the 6 duplicate candidate pairs into one person each.</dd>
+      <dt>Raw</dt><dd>Before that merge — every record counted separately.</dd>
+      <dt>n=</dt><dd>Sample size. Read it next to the rate it belongs to.</dd>
+      <dt>Hired (%)</dt><dd>Hired applications, divided by all applications in that row. Not divided by interviews held.</dd>
+      <dt>Hire Rate (%)</dt><dd>For a Source: that source's Hired applications, divided by that source's total applications. "Out of everyone from this source, what share got hired."</dd>
+      <dt>Hire Share (%)</dt><dd>For a Source: that source's Hired applications, divided by the Hired total across ALL sources. "Out of everyone hired, what share came from this source."</dd>
+      <dt>Expected Raise (%)</dt><dd>Expected CTC minus Current CTC, divided by Current CTC, times 100. Positive means the candidate asked for more than they currently earn.</dd>
+      <dt>Non-Completion (%)</dt><dd>Interviews whose Outcome is not "Completed" (that is: No Show, Cancelled, or Rescheduled), divided by all interviews in that row.</dd>
+      <dt>Closed - Not Hired</dt><dd>Count of applications now at Rejected plus Withdrawn, added together. Not a ratio.</dd>
+      <dt>Same Dept (%)</dt><dd>For an Interviewer: share of their interviews held for a job opening in their own department, versus a different one.</dd>
+    </dl>
+  </div>
+  <div class="kv">
+    <h4>How duplicate people were matched</h4>
+    <dl>
+      <dt>Match key</dt><dd>Phone number + full name (not email — people use different emails on purpose)</dd>
+      <dt>Found</dt><dd>6 pairs, 12 of 300 candidate records</dd>
+      <dt>Which record counts</dt><dd>Earliest-created of the pair = their real source (standard first-touch convention)</dd>
+    </dl>
+    <h4>Application ID problem (separate issue)</h4>
+    <dl>
+      <dt>Found</dt><dd>4 Application IDs each reused across two different application records</dd>
+      <dt>Fix</dt><dd>Every join on this page uses Airtable's internal record ID, never the human-readable Application ID</dd>
+    </dl>
+    <h4>Other integrity checks (100% of records, not sampled)</h4>
+    <dl>
+      <dt>Declined offers, app still says Stage=Offer</dt><dd>5 of 5 declined offers (100%)</dd>
+      <dt>Roles marked Filled, no Hired application</dt><dd>2 of 8 — see Findings tabs</dd>
+      <dt>Interviews completed before they were scheduled</dt><dd>4</dd>
+      <dt>Offers with a start date before the offer date</dt><dd>3</dd>
+    </dl>
+  </div>
+  <h4 class="table-title">Every data problem found, by size</h4>
+  ${renderTable(DATA.materiality_summary)}
+  <h4 class="table-title">Requisitions marked "Filled" — checked against hires</h4>
+  ${renderTable(DATA.requisition_status_integrity)}`;
+}
+
+function caseTable(headers, rows) {
+  let html = '<div class="table-wrap"><table><thead><tr>';
+  headers.forEach(h => html += `<th>${h}</th>`);
+  html += '</tr></thead><tbody>';
+  rows.forEach(r => {
+    html += '<tr>';
+    r.forEach(c => html += `<td>${c}</td>`);
+    html += '</tr>';
+  });
+  html += '</tbody></table></div>';
+  return html;
+}
+
+function caseList(items) {
+  return `<ul class="case-list">${items.map(i => `<li>${i}</li>`).join('')}</ul>`;
+}
+
+function renderCaseSolution() {
+  let html = '';
+
+  // ---- D5 ----
+  html += '<h3 class="section-title">D5 — One-Page Memo (Executive Summary)</h3>';
+  html += '<h4 class="table-title">What we found</h4>';
+  html += caseTable(
+    ['Claim', 'VP said', 'Data shows', 'The number that decides it'],
+    [
+      ['Job boards', '26.9% of hires, biggest channel, wide margin', 'Job Board is #1 at 33.3% of hires once duplicates are fixed, but converts worst of any channel', '3.0% hire rate (7/236 applications), worst of 5 channels'],
+      ['Offer acceptance', '~72%, needs to move', '72.2%-83.9% depending on how Pending is counted; sample too thin to pick a "real" number', 'n = 36 offers total'],
+    ]
+  );
+
+  html += '<h4 class="table-title">One problem the VP didn\'t ask about, bigger than either claim</h4>';
+  html += caseList([
+    '34 of 892 records (3.8%) have wrong information because a status field wasn\'t updated when it should have been. This includes the offer records the 72% number was built from — see D2 build #1.',
+  ]);
+  html += '<div class="case-callout">Note: 91% of open job requisitions (10 of 11) are also already past their target close date. This is already covered by D2 build #2, so it isn\'t a separate open problem — flagging it here only for visibility.</div>';
+
+  html += '<h4 class="table-title">What we\'re doing about it (6 eng-weeks, see D2)</h4>';
+  html += `<ol class="case-list">
+    <li>Data Accuracy Program: fix the fields every other number depends on.</li>
+    <li>Offer & Requisition Lifecycle Automation: stale-offer and overdue-req alerting.</li>
+    <li>Governed Recruiting Metrics Dashboard: acceptance rate (per D3) plus funnel drop-off, by department and level.</li>
+  </ol>`;
+
+  html += '<h4 class="table-title">What we\'re explicitly not building this cycle (see D2)</h4>';
+  html += caseList([
+    'AI-assisted technical screening: real opportunity, not scoped yet.',
+    'Cross-department interviewer quality audit via feedback text: data can\'t support it yet.',
+    'Notice-period leverage study: directionally interesting, n too small to act on.',
+  ]);
+
+  html += '<h4 class="table-title">What we\'d look at next</h4>';
+  html += caseList([
+    'Scope "smarter technical screening" with Eng, and define what it screens on before sizing it.',
+    'Fix the feedback-capture process so text is real, not templated. That unlocks idea #7 and #8 from the pool below.',
+    'Run a handful of structured exit conversations with withdrawn Senior/Lead candidates. It\'s the cheapest way to get at a cause that quant analysis already narrowed to two ruled-out hypotheses.',
+    'Re-pull Referral attribution using <code>Applications.Referred By</code> (11.1%, n=27) instead of self-reported <code>Candidates.Source</code> (53.8%, n=13). The self-report field is the one that produced the "referral converts 8x better" story, and it\'s the less trustworthy of the two.',
+  ]);
+
+  // ---- D1 ----
+  html += '<h3 class="section-title">D1 — Verdict on the VP\'s Two Claims</h3>';
+  html += '<h4 class="table-title">Claim 1: "Job boards bring 26.9% of our hires, biggest channel by a wide margin"</h4>';
+  html += '<div class="case-callout"><strong>Verdict:</strong> Build something different. Don\'t scale Job Board spend; fix Job Board\'s screening instead.</div>';
+  html += caseTable(
+    ['Fact', 'Number', 'Source'],
+    [
+      ['Raw reading (as VP saw it)', '26.9% Job Board = 26.9% Referral, a tie', 'Pre-dedup count'],
+      ['Corrected reading', 'Job Board 33.3%, Referral 16.7%', 'Post-dedup, first-touch attribution'],
+      ['<strong>The number that decides the verdict</strong>', '<strong>Job Board hire rate = 3.0% (7/236), worst of every channel</strong>', 'Referral 53.8%, Career Site 16.1%, Agency 11.4%, LinkedIn 9.7%, Campus 0%'],
+    ]
+  );
+  html += caseList([
+    'Job Board is the biggest channel by hire <em>volume</em>. VP is right on that point.',
+    'Leads on volume, not conversion: 236 applications to get 7 hires.',
+    'Targeting problem, not a channel problem: Sales got 50 Job Board applications, 0 hires. Sales got 8 LinkedIn applications, 3 hires (37.5%) — best department/source pair with a real sample.',
+    '58% of all rejections (116/200) happen with zero interview logged.',
+    'Of Job Board\'s pre-interview rejections, 76.2% (64/84) had a real recruiter screening call logged (<code>jobboard_screening_check.csv</code>, SQL-verified) — not captured in the Interviews table, but a real conversation happened.',
+    'Reading: recruiters are making judgment calls on real conversations, not blind-rejecting resumes off Culture Fit/Comp Expectation labels.',
+    '<strong>Bottom line:</strong> don\'t cut Job Board spend — top volume source, screening already works as designed.',
+    '<strong>Bottom line:</strong> don\'t scale it blind either — 3.0% conversion is the worst in the portfolio.',
+    '<strong>Next step:</strong> close the Application-Stage data gap so screening calls show up as logged interviews, then re-measure whether Job Board\'s funnel health is under-counted by a data gap or genuinely this weak.',
+  ]);
+
+  html += '<h4 class="table-title">Claim 2: "Offer acceptance is ~72%, needs to move"</h4>';
+  html += '<div class="case-callout"><strong>Verdict:</strong> Don\'t build a "move the number" initiative this cycle. Build the measurement first (D3), because the current denominator is unstable.</div>';
+  html += caseTable(
+    ['Counting method', 'Result', 'Source'],
+    [
+      ['Pending counted as "no"', '72.2% (26/36)', ''],
+      ['Pending excluded', '83.9% (26/31)', ''],
+      ['<strong>The number that decides the verdict</strong>', '<strong>n = 36 offers total. An 11.7-point swing on one counting choice is bigger than any realistic intervention effect</strong>', ''],
+    ]
+  );
+  html += caseList([
+    '5 of the offers in question sat Pending 20-222 days with zero follow-up. Those aren\'t "still deciding," they\'re an ops failure counted as ambiguous signal.',
+    'Historical monthly offer volume ranges 1-8/month, too thin for a monthly trend line to mean anything. That\'s why D3 specifies a rolling 3-month window, not monthly.',
+    '<strong>Bottom line:</strong> VP\'s instinct is directionally reasonable — 72% isn\'t stable enough to set a target against.',
+    '<strong>Next step:</strong> ship the governed metric spec (D3) and the stale-offer fix (D2 #2) before committing to any target.',
+  ]);
+
+  // ---- D2 ----
+  html += '<h3 class="section-title">D2 — The 6 Engineer-Weeks</h3>';
+  html += '<h4 class="table-title">Full ranking: all 8 ideas, one framework</h4>';
+  html += '<div class="insight-box"><strong>Decision rule:</strong> rank by Impact x Confidence, gate by Effort fitting inside 6 weeks, gate again by whether current data quality actually supports the build. An idea that\'s high-impact but marked "not buildable against current data" in the Data Support column is disqualified this cycle regardless of score.</div>';
+  html += caseTable(
+    ['#', 'Idea', 'Pool', 'Impact', 'Effort', 'Confidence', 'Data Support', 'Verdict'],
+    [
+      ['1', 'Data Accuracy Program (ID collisions, dedup detection, Stage/Status auto-derive, Filled-status validation, backfill of 34 broken records)', 'A', 'High: every other metric in this doc depends on it', 'Medium', 'High', 'Every sub-fix traces to a confirmed defect (34/892 records, 3.8%)', '<strong>BUILD</strong>'],
+      ['2', 'Offer & Requisition Lifecycle Automation (stale-offer flag, req-overdue digest)', 'A', 'High: 91% of reqs (10/11) already breached target; all 5 currently-Pending offers are aged 20-222 days with no follow-up', 'Low-Medium', 'High', 'Both figures are exact counts, not samples', '<strong>BUILD</strong>'],
+      ['3', 'Governed Recruiting Metrics Dashboard (acceptance rate + funnel drop-off by department/level)', 'A', 'High: VP is already asking about acceptance rate, but the same "one shaky number" problem applies to every stage of the funnel, not just offers', 'Low-Medium', 'High', 'Full acceptance-rate spec in D3; funnel/department/level views already built and verified in this analysis, this build makes them a live, ongoing dashboard instead of a one-off', '<strong>BUILD</strong>'],
+      ['6', 'Smarter/agentic technical-round screening', 'B', 'High: Technical 1 rejects 65.2% (45/69) post-screen, the single biggest filter in the process, bigger than Screen itself (52.7%)', 'Unknown, scope undefined', 'Medium', 'Problem is real and quantified; solution shape is not defined', '<strong>NOT NOW</strong>, needs a scoping conversation before it can be sized'],
+      ['4', 'Senior/Lead withdrawal qualitative follow-up', 'B', 'Medium: 13 withdrawals total, but withdrawal rate 6x Junior\'s', 'Low (recruiter/PM time, not eng)', 'Medium, two hypotheses already ruled out', 'Comp-mismatch ruled out (withdrawn asked for <em>less</em>, 25.3% vs 30.3%); slow-process ruled out (Lead has shortest median cycle, 14 days)', '<strong>NOT BUILD (this cycle)</strong>, right next step, wrong list (no eng build required)'],
+      ['5', 'Notice-period-vs-acceptance leverage study', 'B', 'Low-Medium: pattern exists but thin', 'Low', 'Low', 'n=36 total, smallest bucket n=7; 0-15 day bucket accepts at 57.1% (4/7), which undercuts rather than supports a "leverage" story', '<strong>NOT BUILD</strong>, insufficient signal to justify effort at any size'],
+      ['7', 'Cross-department interviewer quality audit via feedback text', 'B', 'Medium: cross-dept gap is real (lower scores, higher non-completion)', 'Medium', 'Low', 'Feedback field has only 12 distinct strings across 142 records, templated; 0/121 cross-dept entries show unfamiliarity language', '<strong>NOT BUILD</strong>, data disqualifies the near-term form; fix capture process first'],
+      ['8', 'L2/L3 rejection disposition taxonomy', 'B', 'Medium: only 6 flat rejection categories today', 'Low (manual) / Medium (auto)', 'Low (auto) / Medium (manual)', 'Only 36.5% of rejections (73/200) have any linked feedback at all; what exists is templated', '<strong>NOT BUILD (auto version)</strong>, manual-tagging version is a process change, not an eng build, can start independently'],
+    ]
+  );
+
+  html += '<h4 class="table-title">The 3 builds (6 engineer-weeks, in order)</h4>';
+  html += caseTable(
+    ['Order', 'Build', 'Size', 'The number that justifies it'],
+    [
+      ['1', '<strong>Data Accuracy Program</strong>: auto-derive Stage/Status from Interview/Offer events, validate "Filled" requires a real Hired application, prevent Application ID collisions, one-time backfill/cleanup of the 34 already-broken records, phone-based duplicate-candidate flagging at intake (flag only, no auto-merge)', '2.5 weeks', '34 of 892 records (3.8%) already broken; 100% of Declined offers (5/5) still show Stage=Offer; 2/8 Filled openings have no Hired application'],
+      ['2', '<strong>Offer & Requisition Lifecycle Automation</strong>: stale-offer auto-flag past a decision window, requisition-overdue alerts, one shared "aged past threshold, notify once" mechanism, 10 already-overdue reqs batched into a single day-one digest', '2 weeks', '91% of open reqs (10/11) past target close by 97-422 days; all 5 currently-Pending offers are aged 20-222 days with no follow-up'],
+      ['3', '<strong>Governed Recruiting Metrics Dashboard</strong>: implements the D3 acceptance-rate spec exactly (all 3 reporting layers), plus makes the funnel drop-off, department, and level views in this analysis a live dashboard instead of a one-time report. Cheap to add: the underlying numbers are already computed by this project\'s analysis code, this build wires them up as a maintained, refreshing dashboard', '1.5 weeks', '11.7-point swing (72.2% vs 83.9%) on the same 36 offers depending on one counting choice; the current number can\'t be trusted to set a target. Same instability risk applies wherever else a rate is read off a small, ungoverned count'],
+    ]
+  );
+  html += '<div class="case-callout"><strong>Total: 6 engineer-weeks.</strong></div>';
+  html += '<div class="case-callout"><strong>Scope note:</strong> build #2 fixes stuck offers and overdue requisitions. It does not mean these are the only broken stages. The technical interview round rejects 65.2% of candidates who already passed screening — the single biggest drop-off point in the whole process, bigger than screening itself. That problem is real and sized (see the ranking table above, idea #6), it\'s just not scoped yet, so it\'s on the not-build list this cycle, not silently ignored.</div>';
+
+  html += '<h4 class="table-title">One real risk on build #1</h4>';
+  html += caseList([
+    'Airtable can fix bad data fast once it\'s saved, but build #1 can\'t stop bad data from being entered in the first place.',
+  ]);
+
+  html += '<h4 class="table-title">The 3 not-builds (this cycle)</h4>';
+  html += caseTable(
+    ['Idea', 'Why not'],
+    [
+      ['Smarter/agentic technical-round screening', 'Real problem (65.2% post-screen rejection, the biggest filter in the pipeline), but "AI screening" has no defined scope: what it screens on (resume? take-home? JD match?) isn\'t decided. Sizing this now would be a guess dressed as an estimate. Needs a scoping conversation with Eng first, not a blind 2-week slot.'],
+      ['Cross-department interviewer quality audit (feedback-text mining)', 'The quantitative gap is real: cross-dept interviews score lower and have higher non-completion. But the Feedback field can\'t support text-mining today: only 12 distinct strings across 142 non-empty records, 0/121 cross-dept entries show unfamiliarity language, cross-dept and same-dept feedback average the same word count (9.7 vs 10.1). Mining what we have would produce a confident, wrong conclusion. Fix feedback capture first, then revisit the audit once real free text exists.'],
+      ['Notice-period-vs-acceptance leverage study', 'Directionally the opposite of the "trapped candidate accepts" story (0-15 day bucket accepts <em>least</em>, 57.1%), but every bucket sits at single digits to low teens (n=36 total). Not enough volume for the study to change any decision this cycle, and no eng build is implied by the idea itself; it\'s an analysis task, not a roadmap item.'],
+    ]
+  );
+
+  html += '<h4 class="table-title">Also lost, for the record (good ideas, no room)</h4>';
+  html += caseTable(
+    ['Idea', 'Why it lost, not why it\'s bad'],
+    [
+      ['Senior/Lead withdrawal qualitative follow-up', 'It\'s the right next step (two quant hypotheses already ruled out), but it\'s recruiter/PM time, not an engineering build, so it doesn\'t compete for the 6 eng-weeks. Recommend starting this in parallel, outside this budget.'],
+      ['L2/L3 rejection taxonomy, manual-tagging version', 'Same logic: a cheap process change, not an eng build. Can start now independent of this roadmap; the auto-extraction version waits on feedback-capture quality.'],
+    ]
+  );
+
+  // ---- D3 ----
+  html += '<h3 class="section-title">D3 — Metrics Spec: Offer Acceptance Rate</h3>';
+  html += caseTable(
+    ['Field', 'Definition'],
+    [
+      ['<strong>Numerator</strong>', 'Count of offers with status = Accepted, within the window'],
+      ['<strong>Denominator</strong>', 'Count of offers with status in {Accepted, Declined, Lapsed}, within the window'],
+      ['<strong>Lapsed (new status, must be added)</strong>', 'Offer status = Pending for &gt; 45 days with no candidate response'],
+      ['<strong>Excluded from numerator and denominator, shown separately</strong>', 'Offers currently Pending and &lt; 45 days old: "still deciding," not yet a rate input'],
+      ['<strong>Time window</strong>', 'Rolling 3 months, not calendar-month. Justification: historical monthly volume ranges 1-8 offers/month, so a single-month rate is noise, not signal'],
+    ]
+  );
+
+  html += '<h4 class="table-title">Edge cases</h4>';
+  html += caseTable(
+    ['Case', 'Rule'],
+    [
+      ['Multiple offers on one application', 'Not observed in current data. If it occurs: use whichever offer has a final decision (Accepted or Declined). Only if more than one is still Pending, use the newest one'],
+      ['Acme-rescinded offer', 'Not observed in current data. If it occurs, track in a separate status, don\'t count as Declined'],
+      ['Offer extended near the end of the reporting window', 'Don\'t mark Lapsed prematurely. The 45-day Pending clock must fully elapse inside or after the window before Lapsed applies'],
+    ]
+  );
+
+  html += '<h4 class="table-title">Reporting layers — not just one number</h4>';
+  html += '<p class="lede">A single company-wide rate hides where the problem actually is. Report it at three levels, same formula each time, just filtered narrower.</p>';
+  html += caseTable(
+    ['Layer', 'What it shows', 'Example'],
+    [
+      ['1. Company-wide', 'The one headline number', '"Acceptance rate: 72% (26 offers)"'],
+      ['2. By department', 'Same formula, filtered to one department', '"Engineering: 80% (5 offers)"'],
+      ['3. By department + level', 'Same formula, filtered to one department AND one level (Junior/Mid/Senior/Lead)', '"Engineering, Senior: 100% (2 offers)"'],
+    ]
+  );
+  html += caseList([
+    'Layers 2 and 3 use the exact same numerator/denominator/window rules above — only the filter changes.',
+    'This is what lets someone go from "the number moved" to "it moved because of X department" or "X level" without a separate analysis.',
+  ]);
+
+  html += '<h4 class="table-title">Dashboard display rules</h4>';
+  html += caseList([
+    'Always show rate with n, e.g. "72% (26 offers)," never a bare percentage.',
+    'If n &lt; 20 in the 3-month window, auto-expand to a 2-quarter window and label the expansion.',
+    'Still-deciding count (Pending &lt; 45 days) shown as its own tile, never folded into the acceptance rate.',
+    'Any breakdown (by department, by level, by source) with fewer than 10 offers is labeled small-sample directly on the tile, not in a footnote.',
+  ]);
+
+  // ---- D4 ----
+  html += '<h3 class="section-title">D4 — What Would We Not Trust? (Systematic Data Audit)</h3>';
+  html += '<h4 class="table-title">What\'s wrong, and how much of it</h4>';
+  html += caseTable(
+    ['#', 'Problem', 'Count', 'Base', '%'],
+    [
+      ['1', 'Same person listed as two separate candidates (matched by phone number + name)', '12 records (6 pairs)', '300 candidates', '4.0%'],
+      ['2', 'One application ID number was reused for two unrelated applications', '8 records (4 IDs)', '350 applications', '2.3%'],
+      ['3', 'Candidate declined the offer, but their record still says the offer is open, not rejected', '5', '36 offers', '13.9% of offers'],
+      ['4', 'Job is marked "filled," but no candidate record ever shows a hire for it', '2', '8 filled openings', '25% of filled openings'],
+      ['5', 'Interview\'s "completed" date is earlier than its "scheduled" date', '4', '160 interviews', '2.5%'],
+      ['6', 'Job\'s start date is earlier than the date the offer was made', '3', '36 offers', '8.3% of offers'],
+      ['', '<strong>Total (any of the above)</strong>', '<strong>34 records touched</strong>', '<strong>892 total records</strong>', '<strong>3.8%</strong>'],
+    ]
+  );
+
+  html += '<h4 class="table-title">How that changes the answers above</h4>';
+  html += caseTable(
+    ['Data issue', 'What it would have corrupted if unfixed', 'What we did about it'],
+    [
+      ['Duplicate candidates', 'Counting the same person twice under "Referral" is why Job Board and Referral looked tied for most hires in Claim 1', 'We merged duplicate people (matched by phone + name) and counted each person under their first source only. With that fix, Job Board really is ahead: 33.3% vs 16.7%'],
+      ['Application ID reuse', 'Looking up records by the visible application ID number can quietly mix up two different people', 'Every lookup in this project uses Airtable\'s hidden internal ID instead, which is always unique'],
+      ['Declined-offer status lag', 'This makes the "rejected" count look smaller than it really is, and makes it look like more candidates are still active than actually are', 'We\'re fixing this in the Data Accuracy Program (D2, build #1). Going forward, the acceptance-rate calculation (D3) checks the offer\'s own record, not this outdated field'],
+      ['"Filled" with no matching hire', 'This makes Engineering look like it hired nobody (0 of 30 applications), not true. Its one filled role is just missing its "Hired" record', 'We added a check for this to D2\'s build #1. Until it\'s fixed, don\'t take department hire-rate comparisons at face value, Engineering\'s included'],
+    ]
+  );
+
+  html += '<h4 class="table-title">Signals that looked promising, and what checking them found</h4>';
+  html += caseTable(
+    ['Signal', 'Looked like', 'Data check', 'Verdict'],
+    [
+      ['Cross-department interviewer feedback text', 'Might explain <em>why</em> interviews across departments score lower', 'None of the 121 cross-department feedback notes mention being unfamiliar with the role. The notes are also the same length either way (9.7 words vs 10.1 words)', 'The score and no-show gap is real and confirmed by the numbers, but the feedback text doesn\'t explain why. Don\'t say interviewers "admit" they\'re out of their depth. They don\'t, in this data.'],
+      ['Interview feedback notes in general', 'Looked like a good source for the real reasons behind rejections and screening decisions', 'Only 12 different sentences appear across 142 filled-in records. One of them repeats word-for-word 3 or more times. This looks copy-pasted, not written by a real person each time. Only 36.5% of rejections (73/200) have any feedback linked at all', 'Worth doing eventually, but not with this data. Needs checking against Acme\'s live system, where people type their own notes.'],
+      ['Candidate-reported referral source ("referral converts 8x better")', 'Candidates who said they came from a referral got hired 53.8% of the time (7 of 13), versus 7-11% for everyone else. Looked like a big win for referrals', 'Acme also tracks the actual employee who referred someone, in a separate field. That field tells a different story: 11.1% hired (3 of 27) with a named referrer vs 7.1% (23 of 323) without one, barely different. The two fields only agree on 3 of the 13 self-reported cases', 'Don\'t trust the self-reported number. Use the actual-referrer field (<code>Applications.Referred By</code>) for any decision about the referral program, not the self-reported one (<code>Candidates.Source</code>).'],
+      ['Senior/Lead withdrawal, pay theory', 'Theory: candidates withdraw because the pay offered was too low', 'Candidates who withdrew actually asked for a <em>smaller</em> raise (25.3% on average) than the ones who got hired (30.3% on average), the opposite of what the pay theory predicts', 'Ruled out'],
+      ['Senior/Lead withdrawal, slow-process theory', 'Theory: candidates withdraw because hiring takes too long', 'Lead-level hiring is actually the <em>fastest</em> of any level (14 days, the shortest median), yet Lead has a high withdrawal rate', 'Ruled out'],
+      ['Notice period as leverage ("a long notice period lets candidates shop competing offers")', 'People who accepted offers had a longer notice period on average (47.3 days) than people who declined (30.0 days), which seemed to support the theory', 'Split by notice length: people with 0-15 days notice accepted <em>least</em> often (57.1%, 4 of 7). People with 16-90 days notice accepted 80-100% of the time. That\'s the opposite of "a long notice period traps you into accepting." Only 36 offers total, and the smallest group is just 7 people', 'Not solid enough to act on. Don\'t build a story around a group of 7 people'],
+      ['Offer pay vs. posted salary band', 'Could mean pay is routinely set outside the approved range', '29 of 36 offers (80.6%) fall inside the approved range. 7 fall outside (4 above, 3 below). 2 are extreme: 161% and 256% over the top of the range', 'Worth asking about those 2 extreme cases directly. This isn\'t a company-wide pattern, so no fix needs to be built'],
+    ]
+  );
+
+  html += '<h4 class="table-title">Structural data-quality problems, independent of any single metric</h4>';
+  html += caseTable(
+    ['Problem', 'Number', 'What it means for trust'],
+    [
+      ['How often the interviewer works in the same department as the job', '14% (22/160)', 'Interviewers, recruiters, and hiring managers are mostly assigned to jobs outside their own department. It looks close to random. Because of this, don\'t compare one department\'s hiring quality to another\'s using these fields — the mismatch itself could be the reason for any difference you see'],
+      ['How often the recruiter works in the same department as the job', '23% (80/350)', 'Same as above'],
+      ['How often the hiring manager works in the same department as the job', '12.5% (3/24)', 'Same as above'],
+      ['How often the recruiter and interviewer are the same person on one application', '0% (0/160)', 'Recruiter and interviewer are always two different people, by design, not a data-entry error'],
+    ]
+  );
+
+  html += '<h4 class="table-title">Bottom line for D1/D2/D3</h4>';
+  html += caseList([
+    'Every number behind Claim 1 and Claim 2 holds up, because we recalculated them after fixing duplicates and using unique internal IDs. The raw, unfixed numbers (the 26.9% tie, the unadjusted 72%) would not have held up.',
+    'The acceptance-rate calculation (D3) checks the offer\'s own record, not the application\'s separate progress field — we confirmed that progress field is wrong on 100% of declined offers.',
+    'D2\'s first build item exists because 34 of 892 records (3.8%) is the minimum we found here. A live, growing dataset would likely show more problems, not fewer.',
+  ]);
+
+  return html;
+}
+
+function renderSummary() {
+  const shareRows = DATA.q1_source_summary;
+  const offerRows = DATA.q2_offer_acceptance_two_ways;
+
+  const jbShare = shareRows.find(r => r.Source === 'Job Board');
+  const pFail = offerRows.find(r => r.Method === 'Pending = No');
+  const pExcl = offerRows.find(r => r.Method === 'Pending Excluded');
+  const mat = DATA.materiality_summary.find(r => r.Issue.startsWith('TOTAL'));
+  const reqOverview = DATA.requisition_overview[0];
+  const rakesh = DATA.interviewer_calibration.find(r => r.Interviewer === 'Rakesh Sethi');
+  const noHireCount = Number(rakesh['No Hire']) + Number(rakesh['Strong No Hire']);
+  const laterHired = Number(rakesh['Said No, Later Hired']);
+  const stillActive = Number(rakesh['Said No, Still Active At Offer']);
+  const laterRejected = Number(rakesh['Said No, Later Rejected']);
+  const stillMidProcess = Number(rakesh['Said No, Still Mid-Process']);
+  const mismatch = DATA.requisition_status_integrity.filter(r => r['Has Hired App'] === 'No');
+
+  let html = '';
+  html += `<div class="questions-box">
+    <div class="questions-box-label">Acme's VP of People asked two questions by email</div>
+    <ol>
+      <li><strong>Question 1:</strong> "Job boards bring in 26.9% of our hires — biggest channel by a wide margin. I want that integration work brought forward."</li>
+      <li><strong>Question 2:</strong> "Our offer acceptance rate is around 72%. The board is asking about it. I need that number moving."</li>
+    </ol>
+    <div class="questions-box-note">Below: the real answer to each, plus problems the data turned up that nobody asked about.</div>
+  </div>`;
+
+  html += '<h3 class="section-title">Q1 — Job Board</h3>';
+  html += '<div class="summary-grid">';
+  html += statCard('Job Board share of hires', jbShare['Hire Share Dedup (%)'] + '%', '26.9% before fixing 2 duplicate records. Not a tie with Referral — Job Board leads.');
+  html += statCard('But its hire rate is worst', jbShare['Hire Rate (%)'] + '%', 'Every other source converts at 9.7%+.');
+  html += '</div>';
+  html += `<p class="lede">Job Board wins on volume, loses on quality — most of what it sends in gets filtered before an interview. Sending it more candidates without fixing that first won't move the number.</p>`;
+
+  html += '<h3 class="section-title">Q2 — Offer acceptance</h3>';
+  html += '<div class="summary-grid">';
+  html += statCard('Pending counted as "no"', pFail['Rate (%)'] + '%', `${pFail['Total Counted']} offers.`);
+  html += statCard('Pending left out', pExcl['Rate (%)'] + '%', `${pExcl['Total Counted']} offers.`);
+  html += '</div>';
+  html += `<p class="lede">Both numbers are legitimate reads of the same 36 offers. At this volume neither is "more correct" — that's a data limit, not something more analysis fixes. See the roadmap for the recommended metric going forward.</p>`;
+
+  html += '<h3 class="section-title">Problems nobody asked about</h3>';
+  html += '<div class="summary-grid">';
+  html += statCard('Overdue open requisitions', reqOverview.Overdue + ' of ' + reqOverview['Open Requisitions'], 'Biggest single problem in this data.', true);
+  html += statCard('"Filled" roles, no recorded hire', mismatch.length + ' of 8', "Includes Engineering's only filled role — why Engineering shows 0% hired.", true);
+  html += statCard('Interviewer whose calls miss the outcome', 'Rakesh Sethi', `${noHireCount} of ${rakesh.Interviews} candidates told "no" or "strong no." Of those: ${laterHired} were hired anyway, ${stillActive} more are still active at offer stage, ${laterRejected} were rejected (agreeing with him), ${stillMidProcess} are still mid-process.`, true);
+  html += statCard('Records touched by a data problem', mat['Records Affected'] + ' of ' + mat['Table Size'], `${mat['Share Affected (%)']}% of everything pulled — small, but concentrated where both questions above depend on it.`);
+  html += '</div>';
+
+  html += `<h3 class="section-title">More detail</h3><p class="lede">Full write-up: <code>talentflow/docs/talentflow-q3-roadmap.md</code> and <code>talentflow/docs/talentflow-data-quality-audit.md</code>.</p>`;
+  return html;
+}
+
+function renderTable(rows) {
+  if (!rows.length) return '<div style="padding:40px;color:var(--ink-faint)">No rows.</div>';
+  const cols = Object.keys(rows[0]);
+  let html = '<div class="table-wrap"><table><thead><tr>';
+  cols.forEach(c => html += `<th>${esc(c)}</th>`);
+  html += '</tr></thead><tbody>';
+  rows.forEach(r => {
+    html += '<tr>';
+    cols.forEach(c => {
+      let v = r[c];
+      const vLower = String(v).toLowerCase();
+      const isNum = v !== '' && !isNaN(v) && v !== null;
+      // Only color-code Yes/No where the direction actually means something
+      // (a missing hired application is the problem case). Elsewhere Yes/No
+      // is just a fact, not good or bad, so it renders as plain text.
+      if (c === 'Has Hired App' && (vLower === 'yes' || vLower === 'no')) {
+        const norm = vLower === 'yes' ? 'no' : 'yes'; // reuse .pill.no=green for the good case
+        html += `<td><span class="pill ${norm}">${esc(v)}</span></td>`;
+      } else {
+        html += `<td class="${isNum ? 'num' : ''}">${esc(v ?? '')}</td>`;
+      }
+    });
+    html += '</tr>';
+  });
+  html += '</tbody></table></div>';
+  return html;
+}
+
+fetch('dashboard_data.json').then(r => r.json()).then(json => {
+  DATA = json;
+  selectView('__summary__', 'Summary');
+});
+</script>

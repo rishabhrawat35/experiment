@@ -1,0 +1,1024 @@
+[
+  {
+    "id": "rec1hXVrOPLSyiC6Y",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2025-08-10",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Opened On": "2025-05-20",
+      "Applications": [
+        "rec6oxWqPzJRqyVdg",
+        "recnPKdhvQjakaFXo",
+        "recIk3vpbSowGSQVI",
+        "receDhoBOhG7nhCmz",
+        "recKopXFAihwvSumv",
+        "recWIthKyUBxG1Iw2",
+        "recsXHlBWuLQDcVQC",
+        "rect8WSJg6q077Ujw",
+        "reczMtSCSFBNKrqB5",
+        "recr9pwKyMqCoD9fm",
+        "recZhULRett5ltIvH",
+        "recsf6EmTqvMtB5m9"
+      ],
+      "Salary Band Max": 1600000,
+      "Hiring Manager": [
+        "recpccWvvQSp0BPb4"
+      ],
+      "Salary Band Min": 800000,
+      "Location": "Bengaluru",
+      "Status": "Filled",
+      "Level": "Mid",
+      "Department": [
+        "rec3xI4BGz8OW6TDz"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2025-013",
+      "Title": "Finance Manager"
+    }
+  },
+  {
+    "id": "rec38ScPLVzASwBYL",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2025-12-06",
+      "Employment Type": "Contract",
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Opened On": "2025-10-30",
+      "Applications": [
+        "recCdljIHamvPiU2p",
+        "recKf6QR0hCR0JH7k",
+        "recafuUSU75bcGv78",
+        "recEVH7oDto8NcjXa",
+        "recwP2FumcSYmnZP8",
+        "recwAXxaCZ1UKt60k",
+        "recCeQ8EDYbkRp312"
+      ],
+      "Salary Band Max": 3000000,
+      "Hiring Manager": [
+        "recSmhAn12okM8IqT"
+      ],
+      "Salary Band Min": 1600000,
+      "Location": "Bengaluru",
+      "Status": "Cancelled",
+      "Level": "Senior",
+      "Department": [
+        "rec3xI4BGz8OW6TDz"
+      ],
+      "Headcount": 2,
+      "Req ID": "REQ-2025-005",
+      "Title": "Financial Analyst"
+    }
+  },
+  {
+    "id": "rec5ZjMzbr1BDZscz",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-01-25",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Opened On": "2025-11-27",
+      "Applications": [
+        "recteo4spjSG5Kgwd",
+        "recQNbHZfvfDfzy1U",
+        "rec2JLvjQ4AD5wtZb",
+        "recwpRyd6IVVpmjpL",
+        "recVKZzX2XFyw8zOA",
+        "recaUIrW2aIU4QY0h",
+        "recwQvsOOtVNFtfd6",
+        "recOw5S3niDaulLoE",
+        "recceue60IpVHFgqR",
+        "rec7RSA6x0xeuO3o2",
+        "rec1ssUJMqmmaxhpZ",
+        "rec5wIXqujmTJTRDz"
+      ],
+      "Salary Band Max": 800000,
+      "Hiring Manager": [
+        "recWgT7813zjD5bTB"
+      ],
+      "Salary Band Min": 400000,
+      "Location": "Mumbai",
+      "Status": "Open",
+      "Level": "Junior",
+      "Department": [
+        "reco6QBxRfbzEuPsb"
+      ],
+      "Headcount": 2,
+      "Req ID": "REQ-2025-004",
+      "Title": "Junior Content Marketer"
+    }
+  },
+  {
+    "id": "rec810iCfuNrOnIYU",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2025-09-22",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Opened On": "2025-07-23",
+      "Applications": [
+        "recRAyDBrdQqQOVyP",
+        "recfdsNqShSkDpMw7",
+        "reclvmFsKkhQ8xGyW",
+        "recxWAKEkpJ1IL4qg",
+        "recw9UmkHJe1DeHAY",
+        "recZX0JdwUU14z5kJ",
+        "recYRQvQj9F8HaAxC",
+        "recr1FjDoXlTNKcpl",
+        "recuxyKz0iwJXR7pB",
+        "recyET1rOj1gPmIkT",
+        "rec6towTNzRkmKpCB",
+        "reco35zsSjc2VUwWd",
+        "recfTaOlRbflMgEDZ",
+        "recWmki3TDt0I68sB",
+        "recaFt6waPJsgv4Ct",
+        "reciNqlMlx5mYgt5N"
+      ],
+      "Salary Band Max": 800000,
+      "Hiring Manager": [
+        "recWgT7813zjD5bTB"
+      ],
+      "Salary Band Min": 400000,
+      "Location": "Noida",
+      "Status": "Cancelled",
+      "Level": "Junior",
+      "Department": [
+        "recDASo0u2CmangBD"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2025-015",
+      "Title": "Junior Associate Product Manager"
+    }
+  },
+  {
+    "id": "recDWPyPdsjzjzYEx",
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Target Close": "2025-07-23",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Opened On": "2025-05-09",
+      "Applications": [
+        "recGmP6tLajPeKMGj",
+        "recCPGIfZwJpFdhnM",
+        "recHCW92od1abvBX5",
+        "rec4ll7eaOYuZhPak",
+        "rect4WxvR2TvMdhxV",
+        "recmpmJRqVU7AMHJ2",
+        "recv6eHiU4xrWC2zh",
+        "rec9fiFjA17ZXZmlT",
+        "recXD3bchspEJMPgF",
+        "recmQozSPHQsfsGLa",
+        "recQp4f5XGxaRr4JX",
+        "rec42NcT9OGY8NOQC",
+        "recdU1YZ0aiKIlL0K",
+        "recjfFVstbeasHk24",
+        "recMioqGRdCfPs4jI",
+        "recpZYuX5EuNkP6KX",
+        "reckCcrFYbLgERpDO",
+        "rec4iYmQoziFjJ9fL",
+        "reclkeeZCve9HMAWx"
+      ],
+      "Salary Band Max": 1600000,
+      "Hiring Manager": [
+        "recSmhAn12okM8IqT"
+      ],
+      "Salary Band Min": 800000,
+      "Location": "Bengaluru",
+      "Status": "Filled",
+      "Level": "Mid",
+      "Department": [
+        "recRTXPBmuEYZDGIi"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2025-024",
+      "Title": "Data Engineer"
+    }
+  },
+  {
+    "id": "recGF2PfXhqx2M1QC",
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Target Close": "2026-05-22",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Opened On": "2026-03-26",
+      "Applications": [
+        "recPA80lrTW7Zbfa4",
+        "recGT7c3ISkPwUCXK"
+      ],
+      "Salary Band Max": 1600000,
+      "Hiring Manager": [
+        "recYShpGj81ML92G1"
+      ],
+      "Salary Band Min": 800000,
+      "Location": "Remote",
+      "Status": "Open",
+      "Level": "Mid",
+      "Department": [
+        "recFqQ09yONZFSRdI"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2026-022",
+      "Title": "HR Generalist"
+    }
+  },
+  {
+    "id": "recM0u1crri2cum3o",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2025-07-17",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Opened On": "2025-05-05",
+      "Applications": [
+        "recDYP2CZcx7nuGNm",
+        "reccPhC7vgbocR943",
+        "recBa6uZPp6qFpub1",
+        "recmyjffFgYrNv4aR",
+        "recXmd9qCH1puDGaE",
+        "recKtJZtnIkqZ5GIc",
+        "recuN0WgaKWYNJIrS",
+        "recrctja21PuZSaCN",
+        "recBrVoPmb3lGS9RD",
+        "recWZy57TjJYkmsOT",
+        "reckSqJuXoisAAC9h",
+        "recOQKvwlqxac6vRX",
+        "recGWXPKFf1e4y3wV",
+        "recMBzp7YysYXWeKE"
+      ],
+      "Salary Band Max": 3000000,
+      "Hiring Manager": [
+        "recSmhAn12okM8IqT"
+      ],
+      "Salary Band Min": 1600000,
+      "Location": "Mumbai",
+      "Status": "Open",
+      "Level": "Senior",
+      "Department": [
+        "reco6QBxRfbzEuPsb"
+      ],
+      "Headcount": 3,
+      "Req ID": "REQ-2025-020",
+      "Title": "Brand Manager"
+    }
+  },
+  {
+    "id": "recMQPbjDBoBakTk9",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-01-08",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Opened On": "2025-09-24",
+      "Applications": [
+        "receoLsZYU1qm4tPS",
+        "recXJEKMnH7RABgyV",
+        "recq2BWf9QUTLKL72",
+        "recf4k6ym9Cl8Cz6O",
+        "recY5fy2hGQT06YVz",
+        "recLnQGV8yGxclzmQ",
+        "recMgwlyGZU1qnkFh",
+        "rec2Pe5ybeqwR9GMi",
+        "rec0rE99hlKy4ijv9",
+        "rec7I3mPH5xXVdXgH",
+        "recTHBLAPFfk9476y",
+        "recAbEYagijPpEDEY",
+        "reclcNbf9SnO98Vbi",
+        "recsdeVhzRIUksTkR",
+        "recMQNh6TlP4ciHoT",
+        "rec2c4sgybwf7r9Xy",
+        "recpFoECf76f8X1K3",
+        "recOzmo9c4MVbxT7E",
+        "recrBwdVmntyzIwtK",
+        "recUGi7o6GyGhSDwG",
+        "recVOaqH7l4n3vlCj",
+        "recCUNIerZyc7XBWv",
+        "rec3i7ITN6mp8GS8P",
+        "recWi8p4AWAdYNPYQ",
+        "recpHm6CNOw9qgIfd",
+        "recbREVW4oalJ8QXB",
+        "rec2boXJI2mO6NvdL",
+        "recyxlSQULfaakULY",
+        "recT3q7hCKZ3uIIFj",
+        "rec3do5Lr0vNEt35R"
+      ],
+      "Salary Band Max": 3000000,
+      "Hiring Manager": [
+        "recYShpGj81ML92G1"
+      ],
+      "Salary Band Min": 1600000,
+      "Location": "Mumbai",
+      "Status": "Open",
+      "Level": "Senior",
+      "Department": [
+        "recDASo0u2CmangBD"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2025-007",
+      "Title": "Associate Product Manager"
+    }
+  },
+  {
+    "id": "recN2CRitgJbTxrMs",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-04-07",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Opened On": "2026-02-23",
+      "Applications": [
+        "recwwFHgFJVvqXjbl",
+        "recPKXgzmuoBaSLui",
+        "recvrpsc9DxJc1Aem",
+        "rec5dBaXOqisOsG0J",
+        "recjFFqK9KHos3R03",
+        "recRH8DAS5RSerTzr",
+        "reccFP4j1zyMydygx",
+        "recLkeaaxIpCVp0oV",
+        "recjYDboyd1p56Gx1",
+        "rec8Lca2OO74RaGOk",
+        "recmp9OGqDBkzjCDx",
+        "recGx1pbjZZ6qQkDI",
+        "recALxp1paVzlSzaX",
+        "reckINb6DMDSmbe2Y",
+        "recgBIfd9Cs8a3WsD",
+        "recjqevDefQTd1YgU",
+        "recgQKatztTQFAtLe"
+      ],
+      "Salary Band Max": 4500000,
+      "Hiring Manager": [
+        "recSmhAn12okM8IqT"
+      ],
+      "Salary Band Min": 2800000,
+      "Location": "Remote",
+      "Status": "Filled",
+      "Level": "Lead",
+      "Department": [
+        "recl1TDWjsAlV8OHH"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2026-017",
+      "Title": "Lead QA Engineer"
+    }
+  },
+  {
+    "id": "recRf0sg8Gga7o7w9",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-04-25",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Opened On": "2026-03-03",
+      "Applications": [
+        "rechnInK82XF4MJmq",
+        "rec8n7ktHYBuzeY1h",
+        "recpQl3R8bicv29dH",
+        "recWW3UtH3mzTAYgU",
+        "rec3EfhNQoL3td1wH",
+        "recRwuf2cADpE3C96",
+        "recsaQK77orZxyElt",
+        "reco1dBPY3V06iepx",
+        "rec5jKN0CODSFEjKe",
+        "rec4TRT6skp8ob47R",
+        "rec03mm1CQItRpbin",
+        "recg6iNZK2tnZpzPv",
+        "recJ9qRWl1tCTNUjR",
+        "recOhPAo3U9UBylfw",
+        "recqNTRxap8Wr4Gm6",
+        "recf8O1BQgvvjHp8D",
+        "recUmLNLg8ijNksvd",
+        "recpBfTMRAETV6Oxa",
+        "rec0BoZNmntCLQMr2",
+        "rec0jKr0UStsg9iLQ",
+        "rec0yM3MdyWBDkjXA"
+      ],
+      "Salary Band Max": 800000,
+      "Hiring Manager": [
+        "recWgT7813zjD5bTB"
+      ],
+      "Salary Band Min": 400000,
+      "Location": "Bengaluru",
+      "Status": "Filled",
+      "Level": "Junior",
+      "Department": [
+        "recRTXPBmuEYZDGIi"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2026-008",
+      "Title": "Junior Data Analyst"
+    }
+  },
+  {
+    "id": "recV2H1SKNmiSgGah",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-01-02",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Opened On": "2025-10-13",
+      "Applications": [
+        "recxPVkspAJrZQp25",
+        "recZtyzN0mSmVl67k",
+        "recF1jRC5ahg9RccD",
+        "recj7PAXWCs9DN0f7",
+        "rechzVTcYuPj1B76S",
+        "rec5arpfOsmmEwk3V"
+      ],
+      "Salary Band Max": 800000,
+      "Hiring Manager": [
+        "recYShpGj81ML92G1"
+      ],
+      "Salary Band Min": 400000,
+      "Location": "Remote",
+      "Status": "Open",
+      "Level": "Junior",
+      "Department": [
+        "recl1TDWjsAlV8OHH"
+      ],
+      "Headcount": 3,
+      "Req ID": "REQ-2025-001",
+      "Title": "Junior QA Engineer"
+    }
+  },
+  {
+    "id": "recVwQPU98RDxJM0q",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2025-07-01",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Opened On": "2025-05-03",
+      "Applications": [
+        "recP47ZJ2xJ54FFWg",
+        "recwWJd2EICQGDxSK",
+        "recyfzPZDXEhRDbzu",
+        "recApf5fwVoDJ3yJb",
+        "recZKgvnqrieblhZ8",
+        "recwPtTP9SQOM03cl",
+        "recL8moeE29ECbYtl",
+        "recwtxdtzuuo5yxW6",
+        "reckKPw0f6RVy2xyO",
+        "recu5mYbm4uMVFE2O",
+        "recCO5yevFXWAyTBW",
+        "recjENzuhpcxqL4ud",
+        "recbNY3B2mWPRFPdB",
+        "recU7X60PAopuJfji",
+        "recAZDvBQUn2kFZGn",
+        "recEuaFfA6nJGwXel",
+        "recUTm4vFe46Ns02w",
+        "reclMghrkElLbrFAk",
+        "rectkjxsh4uGWNykj"
+      ],
+      "Salary Band Max": 800000,
+      "Hiring Manager": [
+        "recpccWvvQSp0BPb4"
+      ],
+      "Salary Band Min": 400000,
+      "Location": "Bengaluru",
+      "Status": "Open",
+      "Level": "Junior",
+      "Department": [
+        "reco6QBxRfbzEuPsb"
+      ],
+      "Headcount": 2,
+      "Req ID": "REQ-2025-012",
+      "Title": "Junior Content Marketer"
+    }
+  },
+  {
+    "id": "recXjrSsLdnbn00zJ",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2025-09-27",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Opened On": "2025-08-03",
+      "Applications": [
+        "recKWSoAgLTGK1MB1",
+        "recp4qmI5WoemWcKL",
+        "rec7fsjA7HOFYsxUr",
+        "rec2o2XqwHfynJUAS",
+        "rech4jLUzvzTgROFK",
+        "recii4XbhYCb37Hvn",
+        "recpgUKDzHrCaSRdv",
+        "recFWL62cHiMjCN1w",
+        "recgpzPd3FeSLRSpw",
+        "rech159sdjSC54aSA",
+        "rec6M0WIvxnaajd9e",
+        "recrExbwNJXiaDN4b",
+        "rectk8gojzZ37ZG0g",
+        "rec0W4wqiME84NbOB",
+        "reck4USSuCcjq355n",
+        "recaTn55f9iTinexu",
+        "recnwsgD6X7kfOw6F",
+        "reck8WjCRyGgD71rs",
+        "recR1niNYMyJyqA66",
+        "recEGvJIm1pJTL2sQ",
+        "recGBuBnWhJkCTNIm",
+        "recWkQURRyBHR5rjj",
+        "recJApodnyMN0npnS"
+      ],
+      "Salary Band Max": 4500000,
+      "Hiring Manager": [
+        "recpccWvvQSp0BPb4"
+      ],
+      "Salary Band Min": 2800000,
+      "Location": "Mumbai",
+      "Status": "Open",
+      "Level": "Lead",
+      "Department": [
+        "recddMO9ef7TSCLEo"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2025-003",
+      "Title": "Lead Support Specialist"
+    }
+  },
+  {
+    "id": "recZHFjeFl5dHlCgF",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-05-06",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Opened On": "2026-04-01",
+      "Applications": [
+        "recwtKmNj2n1Xe36T",
+        "rec7aXx5LQEHZqz2w",
+        "rec8S8GRWVL3TNIfA",
+        "recMJeC1woaF55azF",
+        "recrrfZqvvgi2GjpB",
+        "reck6Q8cKZCFcG1dx",
+        "recs01tp6SviaKp8S",
+        "rec0PaJV3hGNinKGA",
+        "recAJ4UHBf4E69J8q",
+        "reczWAGMInjJYvmsk",
+        "recvSPJU1KTV2Ym79",
+        "reclRucrAH5sJJpTb",
+        "recHDyuTBwroN2WBm",
+        "rec3SdIWP8PRb7Yi9",
+        "recpGNJZsc5f2jetO",
+        "recVDJutcT64hUFk4",
+        "recvYxw0fYaudKGlO",
+        "recZYhkHKu9pWgPhM",
+        "recY4SWOsQMbijTsg",
+        "recRmWbRbxcPOUxrC",
+        "rec9LySCYvRL5UsNU",
+        "recVtnBaKjmrOhGtm",
+        "reciuG6OiDYMSnuRd",
+        "recd2eVyZHDSLJj2f",
+        "recHlHHOMl1lKNj9P",
+        "recpM4mTuHZO6rsoO",
+        "recehLHHRQFMedbRJ",
+        "recWxgJFdyMJoe101",
+        "recupenJ77lfvWBqr",
+        "rec83d2sSp0QjaeWt",
+        "recfIzMbPJUFmMG8U",
+        "recTAML9ojeuFSdoF",
+        "rec5EuZuQoEcDIkEd",
+        "recyxSeDwnDBZoxrI",
+        "rec67UuualnJrrfMz",
+        "recShkIbK2nW4OAU1",
+        "recEeu1ygTcF6jkNl",
+        "recEJYlOyPBSjZb3p",
+        "recx0Lu59vy664xAT",
+        "recstdMclxUXIqGEF",
+        "reclknN0dV51IQY7K",
+        "recVsaVVlqFDz06hx",
+        "recJlSS5dXchVubxO",
+        "recuAEYSg32syGYNn",
+        "rec7P8n64xirmpzen",
+        "recPbK7TgsHhA1YyW",
+        "recpeZdjBUH64D1fV",
+        "recMPnksVuLfh6zI6",
+        "recCSHD8xCQBZ5QXA",
+        "recygkO8Y6gYVRXcj",
+        "recjFOcJfpRHNvxTY",
+        "recWSyX6zpp2z2jeU",
+        "recCzw9CidMQTjaJ4"
+      ],
+      "Salary Band Max": 3000000,
+      "Hiring Manager": [
+        "recWgT7813zjD5bTB"
+      ],
+      "Salary Band Min": 1600000,
+      "Location": "Noida",
+      "Status": "Filled",
+      "Level": "Senior",
+      "Department": [
+        "recxdKcFxPXlYKCHw"
+      ],
+      "Headcount": 2,
+      "Req ID": "REQ-2026-002",
+      "Title": "Enterprise AE"
+    }
+  },
+  {
+    "id": "recamYDoZyTqXNmoE",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-01-16",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Opened On": "2025-10-25",
+      "Applications": [
+        "reckLPXA8xRgWsC1l",
+        "recZyltYQdEnLuCjY",
+        "rec7TW2biYaaoP5nW",
+        "recr6RgGJM6mh14gM",
+        "rec60lCyiFJIdOumn"
+      ],
+      "Salary Band Max": 1600000,
+      "Hiring Manager": [
+        "recWgT7813zjD5bTB"
+      ],
+      "Salary Band Min": 800000,
+      "Location": "Mumbai",
+      "Status": "Open",
+      "Level": "Mid",
+      "Department": [
+        "recRTXPBmuEYZDGIi"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2025-016",
+      "Title": "Data Analyst"
+    }
+  },
+  {
+    "id": "recfHWdP7FhYmzOhw",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-08-03",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Opened On": "2026-04-09",
+      "Applications": [
+        "recsWENinZHkh9BBS",
+        "recspd5m3Ua7jScMR",
+        "reckvX05sMDvHHmGd",
+        "recVYakzO3k2eH1q8",
+        "recaG6zbaZR0e3cG1",
+        "rec6peHh5DoungjGv",
+        "recyX8935MkVr7qxt",
+        "recJfZ72KW3jKtN1F",
+        "recBnvAesasu7ckJ8",
+        "recmxYppqpVBvVxmV",
+        "recYd9lQ2uQpvtNqo",
+        "recM987VNlQ0cKbu3",
+        "recTv8A8ZyAHi3TAa"
+      ],
+      "Salary Band Max": 800000,
+      "Hiring Manager": [
+        "recYShpGj81ML92G1"
+      ],
+      "Salary Band Min": 400000,
+      "Location": "Noida",
+      "Status": "Filled",
+      "Level": "Junior",
+      "Department": [
+        "recddMO9ef7TSCLEo"
+      ],
+      "Headcount": 2,
+      "Req ID": "REQ-2026-011",
+      "Title": "Junior Technical Support Engineer"
+    }
+  },
+  {
+    "id": "recfo8MJvxipPru33",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2025-08-04",
+      "Employment Type": "Contract",
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Opened On": "2025-05-26",
+      "Applications": [
+        "rec3yWsIrN6Fqqidv",
+        "recryJuaBpPNMp6I6",
+        "recGiyWJy2C8lOufo",
+        "recwPtZ7oX9IMA4xq",
+        "recoQ4eljmgHiNlaT",
+        "reclcw4IRlbRnh0j2"
+      ],
+      "Salary Band Max": 1600000,
+      "Hiring Manager": [
+        "recYShpGj81ML92G1"
+      ],
+      "Salary Band Min": 800000,
+      "Location": "Noida",
+      "Status": "On Hold",
+      "Level": "Mid",
+      "Department": [
+        "recxdKcFxPXlYKCHw"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2025-018",
+      "Title": "Sales Development Rep"
+    }
+  },
+  {
+    "id": "recjRbE4mAhXi7Q6P",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-04-14",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Opened On": "2026-02-27",
+      "Applications": [
+        "recwCbFOqNVF09X1Y",
+        "recxHugnjgy4jtR0H",
+        "rec6W1jdOjlvcdpG5",
+        "recaajg01IcH6IEZM",
+        "rectAG2A6SMPWH8Wk",
+        "recY65PmkuY7qx3uA",
+        "rechzU39BX1VZbMQu",
+        "recrNeLrrH4vGNQAe"
+      ],
+      "Salary Band Max": 4500000,
+      "Hiring Manager": [
+        "recYShpGj81ML92G1"
+      ],
+      "Salary Band Min": 2800000,
+      "Location": "Bengaluru",
+      "Status": "On Hold",
+      "Level": "Lead",
+      "Department": [
+        "recFqQ09yONZFSRdI"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2026-006",
+      "Title": "Lead HR Generalist"
+    }
+  },
+  {
+    "id": "recmpkDQ1pbmq0mWx",
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Target Close": "2026-09-04",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Opened On": "2026-05-14",
+      "Applications": [
+        "recH5dTJ9BzdKYvc1",
+        "recaH7FTE4qfk0vtR",
+        "recvfUmmps3AJ0JXg",
+        "rec5EHcqYRoWmEZKL"
+      ],
+      "Salary Band Max": 800000,
+      "Hiring Manager": [
+        "recYShpGj81ML92G1"
+      ],
+      "Salary Band Min": 400000,
+      "Location": "Bengaluru",
+      "Status": "Open",
+      "Level": "Junior",
+      "Department": [
+        "rec3xI4BGz8OW6TDz"
+      ],
+      "Headcount": 3,
+      "Req ID": "REQ-2026-021",
+      "Title": "Junior Accountant"
+    }
+  },
+  {
+    "id": "recolz9ocG5Wv9YGc",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-07-01",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Opened On": "2026-03-31",
+      "Applications": [
+        "rec8YT2zzqA4mIguO",
+        "recxs6FshN7Ughb5b",
+        "recGdC91TC4ICTdyu",
+        "recCg355T7dWJq5wC",
+        "recPpd93vTUyron7j",
+        "recWuMiP1az688KUe",
+        "rece8czyn8bH6nvZO",
+        "recLDjEcOw0gL5Ew0",
+        "rechMutCGiow0kYsV",
+        "recpvsRrkR3AdZL76",
+        "recFnaFpEhCywsWwl",
+        "recmdsFvBgi2bOtiB",
+        "recAPXttrVNTlnYZm",
+        "recpKJZQnjVow01jU",
+        "rec0Niixi0wuN3K1M",
+        "recVRICfbNWTgRfnw",
+        "recnbPvxEbyi8T3cy",
+        "recCBinek7jNABwCa"
+      ],
+      "Salary Band Max": 3000000,
+      "Hiring Manager": [
+        "recYShpGj81ML92G1"
+      ],
+      "Salary Band Min": 1600000,
+      "Location": "Noida",
+      "Status": "Filled",
+      "Level": "Senior",
+      "Department": [
+        "recFqQ09yONZFSRdI"
+      ],
+      "Headcount": 2,
+      "Req ID": "REQ-2026-014",
+      "Title": "HR Generalist"
+    }
+  },
+  {
+    "id": "recpCBZeXgyxZLpiR",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-02-26",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Opened On": "2025-12-19",
+      "Applications": [
+        "recdrBzbvcakTvKmH",
+        "recSviugwQ3oGfCf1",
+        "reccN3z84lRYFX3HM",
+        "recFik2u72cHAviXt",
+        "rec1VdEJeKJcPDrha",
+        "rec4tIAjfR9uo9mk7",
+        "recZuz7sr2fpSPd5U",
+        "recGTDvp2zzBM7qHY",
+        "recLPgOyLL4AYm7cH",
+        "recMqSRAMZjteipsn"
+      ],
+      "Salary Band Max": 3000000,
+      "Hiring Manager": [
+        "recWgT7813zjD5bTB"
+      ],
+      "Salary Band Min": 1600000,
+      "Location": "Remote",
+      "Status": "Open",
+      "Level": "Senior",
+      "Department": [
+        "recxdKcFxPXlYKCHw"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2025-010",
+      "Title": "Enterprise AE"
+    }
+  },
+  {
+    "id": "recsz6wxHxrxGkre3",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2026-02-03",
+      "Employment Type": "Full-time",
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Opened On": "2025-12-24",
+      "Applications": [
+        "recsR2Y6HZo9GiSb7",
+        "receTg6LaCev39dRp",
+        "recT8sPMEmWR2Jw3h",
+        "recUG5BEPoPgyzx34",
+        "recpTfLaxtqwd6Zml",
+        "rechjveyMBOFeKDr3",
+        "recb3UBJcTBRHpdui",
+        "receq8MaHCS7ccJ6p",
+        "rec3HAogsxyQTaTQ9",
+        "recgrME10OXKxRXqT",
+        "rec62MQD4nY797Ajk",
+        "recMLNhmKjNLJiJ2F",
+        "rec7YBqlMxYExhaB2",
+        "recR6FwMI5fDU7lxu",
+        "recxsYtqn7jeurtz2",
+        "recTvWfsyXelUDsiC",
+        "recNgih4faJbKDtQE",
+        "recOALDnO1WuE6WpN",
+        "recTuo7BwM8gORZ7a",
+        "recrCOYOF6KWpUmqW",
+        "recRJlOzMRsQxa9lV",
+        "recLNdKwi9zNyzj65",
+        "recF6Nq4dyCozd9Cs"
+      ],
+      "Salary Band Max": 3000000,
+      "Hiring Manager": [
+        "recWgT7813zjD5bTB"
+      ],
+      "Salary Band Min": 1600000,
+      "Location": "Mumbai",
+      "Status": "Filled",
+      "Level": "Senior",
+      "Department": [
+        "recddMO9ef7TSCLEo"
+      ],
+      "Headcount": 2,
+      "Req ID": "REQ-2025-019",
+      "Title": "Support Specialist"
+    }
+  },
+  {
+    "id": "recyPRmJP1t1CyDer",
+    "createdTime": "2026-08-27T16:39:11.000Z",
+    "fields": {
+      "Target Close": "2025-07-29",
+      "Employment Type": "Contract",
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Opened On": "2025-06-28",
+      "Applications": [
+        "recGSUwByKNRw5ugN",
+        "recnLNeX29cpXbGAQ",
+        "recRzgmLBhnZfiQgx",
+        "rec1r2xysZJTTbjhM",
+        "recUbsYKcVPEqayT9",
+        "recCi3OfSgp7XgpUP",
+        "recmXb8MbeTw1s5yg"
+      ],
+      "Salary Band Max": 3000000,
+      "Hiring Manager": [
+        "recYShpGj81ML92G1"
+      ],
+      "Salary Band Min": 1600000,
+      "Location": "Mumbai",
+      "Status": "Open",
+      "Level": "Senior",
+      "Department": [
+        "recl1TDWjsAlV8OHH"
+      ],
+      "Headcount": 1,
+      "Req ID": "REQ-2025-009",
+      "Title": "Backend Engineer"
+    }
+  },
+  {
+    "id": "reczcf1vpwP842uKy",
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Target Close": "2025-07-06",
+      "Employment Type": "Contract",
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Opened On": "2025-03-19",
+      "Applications": [
+        "recMHJDflYx9jlHv8",
+        "recDfVyRO74zcRaUv",
+        "recxk4AzL8ntHG13g",
+        "recGLKpHZ7KVqssTG",
+        "recdRVWLR1wpfKcGW"
+      ],
+      "Salary Band Max": 800000,
+      "Hiring Manager": [
+        "recWgT7813zjD5bTB"
+      ],
+      "Salary Band Min": 400000,
+      "Location": "Mumbai",
+      "Status": "On Hold",
+      "Level": "Junior",
+      "Department": [
+        "recDASo0u2CmangBD"
+      ],
+      "Headcount": 2,
+      "Req ID": "REQ-2025-023",
+      "Title": "Junior Product Designer"
+    }
+  }
+]

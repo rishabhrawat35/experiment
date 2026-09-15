@@ -1,0 +1,8258 @@
+[
+  {
+    "id": "rec03mm1CQItRpbin",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-06-12",
+      "Candidate": [
+        "recF8kNQraCKnPcn2"
+      ],
+      "Closed On": "2026-06-29",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00222",
+      "Screened On": "2026-06-20",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec0BoZNmntCLQMr2",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-06-11",
+      "Candidate": [
+        "recYBZ7f5H1rG3LzK"
+      ],
+      "Closed On": "2026-07-01",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00308",
+      "Screened On": "2026-06-19",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec0Niixi0wuN3K1M",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-21",
+      "Candidate": [
+        "recME9wyuFKIpcTSU"
+      ],
+      "Closed On": "2026-05-26",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00287",
+      "Screened On": "2026-05-24",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec0PaJV3hGNinKGA",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-21",
+      "Candidate": [
+        "recBr13y8pvFyuYMG"
+      ],
+      "Application ID": "APP-00055",
+      "Interviews": [
+        "recx473Od1ZpfXv3f"
+      ],
+      "Screened On": "2026-04-30",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-05-11",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec0W4wqiME84NbOB",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-03-25",
+      "Candidate": [
+        "recIl5pjcw3kTbUDq"
+      ],
+      "Closed On": "2026-03-29",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00249",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec0jKr0UStsg9iLQ",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-06-25",
+      "Candidate": [
+        "recWEvwyjqwO73vq6"
+      ],
+      "Closed On": "2026-06-30",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00313",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec0rE99hlKy4ijv9",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-12-05",
+      "Candidate": [
+        "recXfA6s09PybHU5N"
+      ],
+      "Application ID": "APP-00070",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec0yM3MdyWBDkjXA",
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-05-19",
+      "Candidate": [
+        "recykIELP765EIWgr"
+      ],
+      "Final Interview On": "2026-06-26",
+      "Closed On": "2026-07-13",
+      "Application ID": "APP-00015",
+      "Offers": [
+        "recJ0AWDZSiO7mxXQ"
+      ],
+      "Offered On": "2026-07-05",
+      "Interviews": [
+        "rec4zFi7LaW1LvjPZ"
+      ],
+      "Screened On": "2026-05-23",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "First Interview On": "2026-06-05",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec1VdEJeKJcPDrha",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-21",
+      "Candidate": [
+        "recvKErLUjJgR7sY4"
+      ],
+      "Final Interview On": "2026-04-19",
+      "Closed On": "2026-04-20",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00147",
+      "Interviews": [
+        "recDJ661cqkffF4ar"
+      ],
+      "Screened On": "2026-03-24",
+      "Opening": [
+        "recpCBZeXgyxZLpiR"
+      ],
+      "First Interview On": "2026-04-05",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec1r2xysZJTTbjhM",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-09-22",
+      "Candidate": [
+        "recTf2aBxzPWT6zXB"
+      ],
+      "Closed On": "2025-10-02",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00032",
+      "Screened On": "2025-09-29",
+      "Opening": [
+        "recyPRmJP1t1CyDer"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec1ssUJMqmmaxhpZ",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-08-03",
+      "Candidate": [
+        "recY7EDMfEJM8NrJq"
+      ],
+      "Application ID": "APP-00322",
+      "Screened On": "2026-08-09",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec2JLvjQ4AD5wtZb",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-03-11",
+      "Candidate": [
+        "recXsWYtVNtweYWqg"
+      ],
+      "Closed On": "2026-03-21",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00097",
+      "Screened On": "2026-03-18",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec2Pe5ybeqwR9GMi",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-10-28",
+      "Candidate": [
+        "recLhZ9e1CQmGUwo9"
+      ],
+      "Final Interview On": "2025-11-26",
+      "Closed On": "2025-12-02",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00066",
+      "Interviews": [
+        "recCnGdxfsf5m9HpY"
+      ],
+      "Screened On": "2025-10-30",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2025-11-13",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec2boXJI2mO6NvdL",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-10-29",
+      "Candidate": [
+        "recCHwuvmFEnREk0M"
+      ],
+      "Closed On": "2025-11-19",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00311",
+      "Screened On": "2025-11-07",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec2c4sgybwf7r9Xy",
+    "createdTime": "2026-08-27T16:39:39.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-12-30",
+      "Candidate": [
+        "recp2CUbik2DsAwNu"
+      ],
+      "Closed On": "2026-01-22",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00157",
+      "Screened On": "2026-01-08",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec2o2XqwHfynJUAS",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-07",
+      "Candidate": [
+        "recG3xkbALjw80QrM"
+      ],
+      "Closed On": "2026-06-16",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00131",
+      "Screened On": "2026-06-09",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec3EfhNQoL3td1wH",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-06-22",
+      "Candidate": [
+        "rectZj8LAjj9jzTch"
+      ],
+      "Application ID": "APP-00127",
+      "Screened On": "2026-07-02",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec3HAogsxyQTaTQ9",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-23",
+      "Candidate": [
+        "reckmNpPYVFeWtDBZ"
+      ],
+      "Application ID": "APP-00135",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec3SdIWP8PRb7Yi9",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-07-11",
+      "Candidate": [
+        "recfNgxyVjZtrWPdC"
+      ],
+      "Application ID": "APP-00117",
+      "Screened On": "2026-07-18",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec3do5Lr0vNEt35R",
+    "createdTime": "2026-08-27T16:39:50.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-17",
+      "Candidate": [
+        "recbcICkKL6Tyqt1h"
+      ],
+      "Final Interview On": "2026-06-18",
+      "Closed On": "2026-06-30",
+      "Application ID": "APP-00014",
+      "Offers": [
+        "recSz6g6gyqkXsMhe"
+      ],
+      "Offered On": "2026-06-23",
+      "Interviews": [
+        "recSdGEuTsriCZXgs"
+      ],
+      "Screened On": "2026-05-23",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2026-06-06",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec3i7ITN6mp8GS8P",
+    "createdTime": "2026-08-27T16:39:45.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-11",
+      "Candidate": [
+        "recffWhyVekA2kiUh"
+      ],
+      "Closed On": "2026-05-20",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00268",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec3yWsIrN6Fqqidv",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-06-02",
+      "Candidate": [
+        "recxIC0hGD9S3tgpO"
+      ],
+      "Closed On": "2026-06-20",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00031",
+      "Interviews": [
+        "rec0vt56b6EWNplhN"
+      ],
+      "Screened On": "2026-06-03",
+      "Opening": [
+        "recfo8MJvxipPru33"
+      ],
+      "First Interview On": "2026-06-10",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec42NcT9OGY8NOQC",
+    "createdTime": "2026-08-27T16:39:42.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-10-04",
+      "Candidate": [
+        "recIj7jXiHfRK6CpF"
+      ],
+      "Application ID": "APP-00206",
+      "Referred By": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Screened On": "2025-10-06",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec4TRT6skp8ob47R",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-06-19",
+      "Candidate": [
+        "recEGM0inq9v8d0rY"
+      ],
+      "Closed On": "2026-07-02",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00198",
+      "Screened On": "2026-06-23",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec4iYmQoziFjJ9fL",
+    "createdTime": "2026-08-27T16:39:50.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-10-09",
+      "Candidate": [
+        "recA0eouL811yPUtC"
+      ],
+      "Closed On": "2025-11-02",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00349",
+      "Referred By": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Interviews": [
+        "recX6nXDl6svNZTu0"
+      ],
+      "Screened On": "2025-10-19",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "First Interview On": "2025-10-29",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec4ll7eaOYuZhPak",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-05-29",
+      "Candidate": [
+        "recNga2QqJYToEVkh"
+      ],
+      "Closed On": "2026-06-11",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00074",
+      "Interviews": [
+        "recU9RJQ0r0AtNLLk",
+        "recd2wrilRtWQ5LNT"
+      ],
+      "Screened On": "2026-06-06",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "First Interview On": "2026-06-09",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec4tIAjfR9uo9mk7",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-15",
+      "Candidate": [
+        "recrk9H0JNl8TO3Ro"
+      ],
+      "Closed On": "2026-06-06",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00226",
+      "Interviews": [
+        "recGUDnUCjQZBbYeO"
+      ],
+      "Screened On": "2026-05-22",
+      "Opening": [
+        "recpCBZeXgyxZLpiR"
+      ],
+      "First Interview On": "2026-06-03",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec5EHcqYRoWmEZKL",
+    "createdTime": "2026-08-27T16:39:47.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-06",
+      "Candidate": [
+        "recq8SyrXVa88Ac0Z"
+      ],
+      "Final Interview On": "2026-06-29",
+      "Closed On": "2026-07-13",
+      "Application ID": "APP-00293",
+      "Offers": [
+        "rec5A8pPd3Az1BUkn"
+      ],
+      "Offered On": "2026-07-05",
+      "Referred By": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Interviews": [
+        "recN0zmfdmpuIwm6S",
+        "recRW0l7bmea10ide"
+      ],
+      "Screened On": "2026-06-16",
+      "Opening": [
+        "recmpkDQ1pbmq0mWx"
+      ],
+      "First Interview On": "2026-06-22",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec5EuZuQoEcDIkEd",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-03",
+      "Candidate": [
+        "recoMW2fBxE9WaqG3"
+      ],
+      "Application ID": "APP-00241",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec5arpfOsmmEwk3V",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-11-16",
+      "Candidate": [
+        "rec3fhVn1WvgnFYY7"
+      ],
+      "Closed On": "2025-11-21",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00282",
+      "Screened On": "2025-11-20",
+      "Opening": [
+        "recV2H1SKNmiSgGah"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec5dBaXOqisOsG0J",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-07-26",
+      "Candidate": [
+        "recY7EDMfEJM8NrJq"
+      ],
+      "Application ID": "APP-00022",
+      "Screened On": "2026-08-03",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec5jKN0CODSFEjKe",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-03-17",
+      "Candidate": [
+        "recK1fmW5G0tZYzy7"
+      ],
+      "Closed On": "2026-03-27",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00196",
+      "Screened On": "2026-03-22",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec5wIXqujmTJTRDz",
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-01-11",
+      "Candidate": [
+        "recyRCSer7xBH1pe3"
+      ],
+      "Closed On": "2026-02-04",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00302",
+      "Interviews": [
+        "recAILRzZAdYkye5y"
+      ],
+      "Screened On": "2026-01-14",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "First Interview On": "2026-01-28",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec60lCyiFJIdOumn",
+    "createdTime": "2026-08-27T16:39:47.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-01-25",
+      "Candidate": [
+        "recTJcOAIH7pOkFdh"
+      ],
+      "Closed On": "2026-03-06",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00290",
+      "Screened On": "2026-02-24",
+      "Opening": [
+        "recamYDoZyTqXNmoE"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec62MQD4nY797Ajk",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-07-27",
+      "Candidate": [
+        "rec2xnNIqnkaijV7R"
+      ],
+      "Closed On": "2026-08-02",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00199",
+      "Screened On": "2026-07-31",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec67UuualnJrrfMz",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-03",
+      "Candidate": [
+        "rechzN7w6LBurc3lY"
+      ],
+      "Closed On": "2026-07-02",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00252",
+      "Interviews": [
+        "recZRXcMrqdHEKGKO"
+      ],
+      "Screened On": "2026-06-07",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-06-21",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec6M0WIvxnaajd9e",
+    "createdTime": "2026-08-27T16:39:42.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-02-10",
+      "Candidate": [
+        "reca31rlA75FqTTqK"
+      ],
+      "Final Interview On": "2026-04-08",
+      "Closed On": "2026-04-18",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00215",
+      "Interviews": [
+        "rec0sok5dEvDk8RXw"
+      ],
+      "Screened On": "2026-03-18",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "First Interview On": "2026-03-31",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec6W1jdOjlvcdpG5",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-04-21",
+      "Candidate": [
+        "recRW51QFFNlPtskK"
+      ],
+      "Application ID": "APP-00136",
+      "Referred By": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Screened On": "2026-04-26",
+      "Opening": [
+        "recjRbE4mAhXi7Q6P"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec6oxWqPzJRqyVdg",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-03-22",
+      "Candidate": [
+        "recC5DkWhivR3MlEW"
+      ],
+      "Closed On": "2026-04-01",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00034",
+      "Screened On": "2026-03-30",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec6peHh5DoungjGv",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-07-31",
+      "Candidate": [
+        "recueJ1H8RmdcFUTx"
+      ],
+      "Closed On": "2026-08-06",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00202",
+      "Screened On": "2026-08-02",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec6towTNzRkmKpCB",
+    "createdTime": "2026-08-27T16:39:47.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-24",
+      "Candidate": [
+        "reczXCXFHFKSTMfFg"
+      ],
+      "Closed On": "2026-05-17",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00292",
+      "Interviews": [
+        "recKdUPLv39e6A7OL"
+      ],
+      "Screened On": "2026-05-04",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "First Interview On": "2026-05-16",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec7I3mPH5xXVdXgH",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-23",
+      "Candidate": [
+        "recZeR11jymYXvbQb"
+      ],
+      "Closed On": "2026-06-15",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00081",
+      "Interviews": [
+        "reco5Gi69GKyu1bP7"
+      ],
+      "Screened On": "2026-05-31",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2026-06-06",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec7P8n64xirmpzen",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-25",
+      "Candidate": [
+        "receRD4gcMlpZEG0W"
+      ],
+      "Application ID": "APP-00318",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec7RSA6x0xeuO3o2",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-07-08",
+      "Candidate": [
+        "recLjmGxXiilpV6n8"
+      ],
+      "Application ID": "APP-00307",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec7TW2biYaaoP5nW",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-02-14",
+      "Candidate": [
+        "recRds38G21c5cqmC"
+      ],
+      "Application ID": "APP-00057",
+      "Screened On": "2026-02-19",
+      "Opening": [
+        "recamYDoZyTqXNmoE"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec7YBqlMxYExhaB2",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-01",
+      "Candidate": [
+        "recOz2Uy1scxkY0Ir"
+      ],
+      "Closed On": "2026-05-15",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00243",
+      "Interviews": [
+        "rectDJh9JlmgsCf60"
+      ],
+      "Screened On": "2026-05-10",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "First Interview On": "2026-05-13",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec7aXx5LQEHZqz2w",
+    "createdTime": "2026-08-27T16:39:32.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-27",
+      "Candidate": [
+        "recp3mu35HkRrtqeK"
+      ],
+      "Closed On": "2026-05-12",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00037",
+      "Screened On": "2026-05-07",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec7fsjA7HOFYsxUr",
+    "createdTime": "2026-08-27T16:39:35.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-03-12",
+      "Candidate": [
+        "recBzdFRivETxpjGz"
+      ],
+      "Application ID": "APP-00086",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec83d2sSp0QjaeWt",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-28",
+      "Candidate": [
+        "reckaU4Q3ZEKyjvtH"
+      ],
+      "Application ID": "APP-00234",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec8Lca2OO74RaGOk",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-08",
+      "Candidate": [
+        "recDeKfSHY8kR3ys6"
+      ],
+      "Application ID": "APP-00146",
+      "Interviews": [
+        "recYoIMoqjHG4D5XH",
+        "recmhD0JwM8KMUlxX"
+      ],
+      "Screened On": "2026-04-13",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "First Interview On": "2026-04-21",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec8S8GRWVL3TNIfA",
+    "createdTime": "2026-08-27T16:39:32.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-30",
+      "Candidate": [
+        "recpKr9uys7j0KSm8"
+      ],
+      "Closed On": "2026-07-19",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00040",
+      "Screened On": "2026-07-05",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec8YT2zzqA4mIguO",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-21",
+      "Candidate": [
+        "rec6wroezIrPNFObb"
+      ],
+      "Final Interview On": "2026-07-19",
+      "Closed On": "2026-07-26",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00058",
+      "Interviews": [
+        "recyaD7DwKysVgWqi"
+      ],
+      "Screened On": "2026-06-27",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "First Interview On": "2026-07-07",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec8n7ktHYBuzeY1h",
+    "createdTime": "2026-08-27T16:39:32.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-04-21",
+      "Candidate": [
+        "recGnS8OuDu3Q1GS1"
+      ],
+      "Final Interview On": "2026-05-16",
+      "Closed On": "2026-05-30",
+      "Application ID": "APP-00039",
+      "Offers": [
+        "recy4ucf1kN35a7zu"
+      ],
+      "Offered On": "2026-05-22",
+      "Interviews": [
+        "recpNpQNnP4M4xtC1"
+      ],
+      "Screened On": "2026-04-24",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "First Interview On": "2026-05-04",
+      "Stage": "Offer",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rec9LySCYvRL5UsNU",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-04",
+      "Candidate": [
+        "recjMF8nSQCJWFGBo"
+      ],
+      "Application ID": "APP-00185",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rec9fiFjA17ZXZmlT",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-08-13",
+      "Candidate": [
+        "recZQS8UHuJgYLrsF"
+      ],
+      "Application ID": "APP-00139",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recAJ4UHBf4E69J8q",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-03",
+      "Candidate": [
+        "recSCYqvaz5HoCVAq"
+      ],
+      "Closed On": "2026-06-16",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00065",
+      "Screened On": "2026-06-08",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recALxp1paVzlSzaX",
+    "createdTime": "2026-08-27T16:39:45.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-21",
+      "Candidate": [
+        "recaxkFJswhdCN6Tp"
+      ],
+      "Closed On": "2026-05-06",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00259",
+      "Screened On": "2026-04-24",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recAPXttrVNTlnYZm",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-25",
+      "Candidate": [
+        "recSTLfKla13lc5dt"
+      ],
+      "Closed On": "2026-06-09",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00285",
+      "Screened On": "2026-05-26",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recAZDvBQUn2kFZGn",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-28",
+      "Candidate": [
+        "reckwmMYk3bA7LhP7"
+      ],
+      "Application ID": "APP-00233",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recAbEYagijPpEDEY",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-06-27",
+      "Candidate": [
+        "rec7vIUDfUOndtXHZ"
+      ],
+      "Application ID": "APP-00100",
+      "Interviews": [
+        "rec4FG9GzQviyNErb"
+      ],
+      "Screened On": "2026-07-07",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2026-07-14",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recApf5fwVoDJ3yJb",
+    "createdTime": "2026-08-27T16:39:35.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-08-22",
+      "Candidate": [
+        "recWfb5tzK3WGJ5QR"
+      ],
+      "Application ID": "APP-00092",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recBa6uZPp6qFpub1",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-05-25",
+      "Candidate": [
+        "recy5urd3WnYOBfkd"
+      ],
+      "Closed On": "2025-05-27",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00099",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recBnvAesasu7ckJ8",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-07-03",
+      "Candidate": [
+        "rec2bPXUI1noehNfU"
+      ],
+      "Closed On": "2026-07-10",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00276",
+      "Screened On": "2026-07-05",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recBrVoPmb3lGS9RD",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-07-11",
+      "Candidate": [
+        "rec9EDFJJptB6Mu0a"
+      ],
+      "Closed On": "2026-07-18",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00148",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recCBinek7jNABwCa",
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-01",
+      "Candidate": [
+        "recIBdfI6BsGjK0o5"
+      ],
+      "Closed On": "2026-04-12",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00256",
+      "Referred By": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Interviews": [
+        "rec6u0SNmvSL4HRlv"
+      ],
+      "Screened On": "2026-04-02",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "First Interview On": "2026-04-11",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recCO5yevFXWAyTBW",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-03",
+      "Candidate": [
+        "recXIYqIXMiDyNdBF"
+      ],
+      "Closed On": "2026-05-05",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00191",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recCPGIfZwJpFdhnM",
+    "createdTime": "2026-08-27T16:39:32.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-23",
+      "Candidate": [
+        "recViHlqNtpFnokLM"
+      ],
+      "Final Interview On": "2026-05-30",
+      "Closed On": "2026-06-10",
+      "Application ID": "APP-00043",
+      "Offers": [
+        "reca4WglLHfgswBug"
+      ],
+      "Offered On": "2026-06-06",
+      "Interviews": [
+        "recDOvFu4nVne6F58",
+        "recAgYOr7M9ijPcuK"
+      ],
+      "Screened On": "2026-04-29",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "First Interview On": "2026-05-10",
+      "Stage": "Offer",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recCSHD8xCQBZ5QXA",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-27",
+      "Candidate": [
+        "recGnS8OuDu3Q1GS1"
+      ],
+      "Closed On": "2026-06-16",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00339",
+      "Interviews": [
+        "recOROl49QMaytwBj"
+      ],
+      "Screened On": "2026-06-04",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-06-13",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recCUNIerZyc7XBWv",
+    "createdTime": "2026-08-27T16:39:45.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-04-01",
+      "Candidate": [
+        "rech6QlyZjjFPXZji"
+      ],
+      "Final Interview On": "2026-05-09",
+      "Closed On": "2026-05-18",
+      "Application ID": "APP-00260",
+      "Offers": [
+        "recQGiR6TBTGb9v40"
+      ],
+      "Offered On": "2026-05-11",
+      "Interviews": [
+        "recaRx9jLJp1CcPpn",
+        "reccNafswoMSNoWrx"
+      ],
+      "Screened On": "2026-04-11",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2026-04-23",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recCdljIHamvPiU2p",
+    "createdTime": "2026-08-27T16:39:32.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2025-12-12",
+      "Candidate": [
+        "recee1S9HfzJwmhxp"
+      ],
+      "Closed On": "2026-01-14",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00045",
+      "Interviews": [
+        "rec2ZE3AbCeLUHXwP"
+      ],
+      "Screened On": "2025-12-22",
+      "Opening": [
+        "rec38ScPLVzASwBYL"
+      ],
+      "First Interview On": "2025-12-31",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recCeQ8EDYbkRp312",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2025-11-14",
+      "Candidate": [
+        "recIPZ2h6RA4Asws8"
+      ],
+      "Final Interview On": "2025-12-16",
+      "Closed On": "2025-12-22",
+      "Application ID": "APP-00319",
+      "Offers": [
+        "recj59o8FcTyBEVws"
+      ],
+      "Offered On": "2025-12-20",
+      "Interviews": [
+        "recPSCPhsRA44Uk30",
+        "recTD5qADIMSLF3rn"
+      ],
+      "Screened On": "2025-11-17",
+      "Opening": [
+        "rec38ScPLVzASwBYL"
+      ],
+      "First Interview On": "2025-11-30",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recCg355T7dWJq5wC",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-07",
+      "Candidate": [
+        "rec0RmkT1oaf3v2IZ"
+      ],
+      "Closed On": "2026-05-21",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00080",
+      "Referred By": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Screened On": "2026-05-08",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recCi3OfSgp7XgpUP",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-07-12",
+      "Candidate": [
+        "recMagSODTEZLQJte"
+      ],
+      "Application ID": "APP-00183",
+      "Opening": [
+        "recyPRmJP1t1CyDer"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recCzw9CidMQTjaJ4",
+    "createdTime": "2026-08-27T16:39:50.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-10",
+      "Candidate": [
+        "rec7ub2gLlx36RBCC"
+      ],
+      "Closed On": "2026-05-26",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00348",
+      "Interviews": [
+        "reck8A8FrvgHsHTuK"
+      ],
+      "Screened On": "2026-05-15",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-05-23",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recDYP2CZcx7nuGNm",
+    "createdTime": "2026-08-27T16:39:32.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-06-09",
+      "Candidate": [
+        "recGWvjruBnYbjrYa"
+      ],
+      "Application ID": "APP-00041",
+      "Interviews": [
+        "recLc4q6VnXMH4q3x"
+      ],
+      "Screened On": "2026-06-19",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "First Interview On": "2026-06-23",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recDfVyRO74zcRaUv",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-07-15",
+      "Candidate": [
+        "recdmoj0xteekxiaX"
+      ],
+      "Closed On": "2026-08-13",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00138",
+      "Interviews": [
+        "recCCYrNgXTci8TjZ"
+      ],
+      "Screened On": "2026-07-24",
+      "Opening": [
+        "reczcf1vpwP842uKy"
+      ],
+      "First Interview On": "2026-08-06",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recEGvJIm1pJTL2sQ",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-12",
+      "Candidate": [
+        "recaqZqEsFF2ghvn5"
+      ],
+      "Closed On": "2026-06-21",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00326",
+      "Screened On": "2026-06-20",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recEJYlOyPBSjZb3p",
+    "createdTime": "2026-08-27T16:39:45.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-04",
+      "Candidate": [
+        "recUYZFwLvkOQcZub"
+      ],
+      "Closed On": "2026-06-19",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00264",
+      "Screened On": "2026-06-06",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recEVH7oDto8NcjXa",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-29",
+      "Candidate": [
+        "recMhNK7BT2gNPDJw"
+      ],
+      "Closed On": "2026-07-12",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00166",
+      "Interviews": [
+        "recjQtmHyiUpKT5cq"
+      ],
+      "Screened On": "2026-07-05",
+      "Opening": [
+        "rec38ScPLVzASwBYL"
+      ],
+      "First Interview On": "2026-07-09",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recEeu1ygTcF6jkNl",
+    "createdTime": "2026-08-27T16:39:45.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-08-01",
+      "Candidate": [
+        "recp6Ez9dlOduiEPr"
+      ],
+      "Closed On": "2026-08-16",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00261",
+      "Screened On": "2026-08-08",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recEuaFfA6nJGwXel",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-06-26",
+      "Candidate": [
+        "recQjaHutWos14npj"
+      ],
+      "Application ID": "APP-00320",
+      "Interviews": [
+        "rec3rhEiv7h1tIiTd"
+      ],
+      "Screened On": "2026-06-27",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2026-07-02",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recF1jRC5ahg9RccD",
+    "createdTime": "2026-08-27T16:39:35.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-01",
+      "Candidate": [
+        "reckJqoEcTZKr1ctL"
+      ],
+      "Closed On": "2026-03-22",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00093",
+      "Screened On": "2026-03-12",
+      "Opening": [
+        "recV2H1SKNmiSgGah"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recF6Nq4dyCozd9Cs",
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-13",
+      "Candidate": [
+        "rec4TPTco4kDfU2DJ"
+      ],
+      "Final Interview On": "2026-06-29",
+      "Closed On": "2026-07-09",
+      "Application ID": "APP-00335",
+      "Offers": [
+        "recrbx0808vIR0axx"
+      ],
+      "Offered On": "2026-07-06",
+      "Interviews": [
+        "reci3fVL8MdK9tbLk"
+      ],
+      "Screened On": "2026-06-18",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "First Interview On": "2026-06-25",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recFWL62cHiMjCN1w",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-01-12",
+      "Candidate": [
+        "recO7Cwk0okwcrvnC"
+      ],
+      "Closed On": "2026-02-04",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00179",
+      "Interviews": [
+        "recOdFXKRnehtC5Kz",
+        "recX8B4KCe2l0p0MD"
+      ],
+      "Screened On": "2026-01-20",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "First Interview On": "2026-01-25",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recFik2u72cHAviXt",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-15",
+      "Candidate": [
+        "recUgIRmCTh5MvQQx"
+      ],
+      "Closed On": "2026-03-20",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00144",
+      "Screened On": "2026-03-17",
+      "Opening": [
+        "recpCBZeXgyxZLpiR"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recFnaFpEhCywsWwl",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-02",
+      "Candidate": [
+        "recyK7H1fZiP9Z1Yi"
+      ],
+      "Final Interview On": "2026-05-17",
+      "Closed On": "2026-05-18",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00229",
+      "Interviews": [
+        "recLY0SvgSbmv8VCT",
+        "recWQw4ah4bVxYGPS"
+      ],
+      "Screened On": "2026-05-03",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "First Interview On": "2026-05-12",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recGBuBnWhJkCTNIm",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-09",
+      "Candidate": [
+        "recxIC0hGD9S3tgpO"
+      ],
+      "Final Interview On": "2026-04-22",
+      "Closed On": "2026-04-27",
+      "Application ID": "APP-00331",
+      "Offers": [
+        "rec4IxCFtlh2fUaYZ"
+      ],
+      "Offered On": "2026-04-25",
+      "Interviews": [
+        "recjhdBDzpYV943Df"
+      ],
+      "Screened On": "2026-04-12",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "First Interview On": "2026-04-16",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recGLKpHZ7KVqssTG",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-08-18",
+      "Candidate": [
+        "rec0rfFyI6FUhGlWs"
+      ],
+      "Closed On": "2025-08-29",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00219",
+      "Screened On": "2025-08-25",
+      "Opening": [
+        "reczcf1vpwP842uKy"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recGSUwByKNRw5ugN",
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-01-03",
+      "Candidate": [
+        "recPesXb2MJfzC0vQ"
+      ],
+      "Closed On": "2026-01-21",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00005",
+      "Screened On": "2026-01-13",
+      "Opening": [
+        "recyPRmJP1t1CyDer"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recGT7c3ISkPwUCXK",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-22",
+      "Candidate": [
+        "recz38B0e1RnuUfJf"
+      ],
+      "Closed On": "2026-05-01",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00123",
+      "Screened On": "2026-04-28",
+      "Opening": [
+        "recGF2PfXhqx2M1QC"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recGTDvp2zzBM7qHY",
+    "createdTime": "2026-08-27T16:39:47.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-08-20",
+      "Candidate": [
+        "recbf7UE5ZefYBkno"
+      ],
+      "Application ID": "APP-00294",
+      "Opening": [
+        "recpCBZeXgyxZLpiR"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recGWXPKFf1e4y3wV",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-03",
+      "Candidate": [
+        "recn6hRZXXzj7bdoF"
+      ],
+      "Closed On": "2026-03-17",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00317",
+      "Screened On": "2026-03-09",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recGdC91TC4ICTdyu",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-09",
+      "Candidate": [
+        "recE3ct3XgoljNoAy"
+      ],
+      "Closed On": "2026-05-02",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00078",
+      "Interviews": [
+        "recR3yIVKGYmWIWu5"
+      ],
+      "Screened On": "2026-04-16",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "First Interview On": "2026-04-30",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recGiyWJy2C8lOufo",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-06-06",
+      "Candidate": [
+        "rec3IukqDk7vMclQl"
+      ],
+      "Closed On": "2025-06-22",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00050",
+      "Screened On": "2025-06-08",
+      "Opening": [
+        "recfo8MJvxipPru33"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recGmP6tLajPeKMGj",
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-09",
+      "Candidate": [
+        "recYBZ7f5H1rG3LzK"
+      ],
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00008",
+      "Interviews": [
+        "recYkOt2cyPyzNxGh"
+      ],
+      "Screened On": "2026-06-11",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "First Interview On": "2026-06-23",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recGx1pbjZZ6qQkDI",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-07-04",
+      "Candidate": [
+        "rec8KIOBM1v1qhXWi"
+      ],
+      "Closed On": "2026-07-10",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00203",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recH5dTJ9BzdKYvc1",
+    "createdTime": "2026-08-27T16:39:32.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-24",
+      "Candidate": [
+        "recuSMtMxT2H9SIuQ"
+      ],
+      "Closed On": "2026-06-22",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00038",
+      "Interviews": [
+        "recPisFoFDz06MQxK",
+        "recmimte8WtB0uTkH"
+      ],
+      "Screened On": "2026-06-02",
+      "Opening": [
+        "recmpkDQ1pbmq0mWx"
+      ],
+      "First Interview On": "2026-06-12",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recHCW92od1abvBX5",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-08-13",
+      "Candidate": [
+        "rec7ub2gLlx36RBCC"
+      ],
+      "Application ID": "APP-00048",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recHDyuTBwroN2WBm",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-11",
+      "Candidate": [
+        "recXDguoCrQwBMvgW"
+      ],
+      "Closed On": "2026-07-06",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00105",
+      "Interviews": [
+        "recbEWiROvQFH1j6g"
+      ],
+      "Screened On": "2026-06-13",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-06-23",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recHlHHOMl1lKNj9P",
+    "createdTime": "2026-08-27T16:39:42.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-10",
+      "Candidate": [
+        "recw2f4WLBjYTLjpC"
+      ],
+      "Closed On": "2026-06-02",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00209",
+      "Interviews": [
+        "recie0BLE8NTJkTDn"
+      ],
+      "Screened On": "2026-05-16",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-05-20",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recIk3vpbSowGSQVI",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-11-23",
+      "Candidate": [
+        "rec0o9aI0EnMVBMro"
+      ],
+      "Application ID": "APP-00096",
+      "Screened On": "2025-11-27",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recJ9qRWl1tCTNUjR",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-05-02",
+      "Candidate": [
+        "recOsspjU4Dn0xoKA"
+      ],
+      "Closed On": "2026-05-20",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00244",
+      "Interviews": [
+        "recIrprBZmYXKvoXi"
+      ],
+      "Screened On": "2026-05-12",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "First Interview On": "2026-05-18",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recJApodnyMN0npnS",
+    "createdTime": "2026-08-27T16:39:50.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-02-07",
+      "Candidate": [
+        "recZKXCKVGO1SN75y"
+      ],
+      "Closed On": "2026-03-28",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00344",
+      "Screened On": "2026-03-18",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recJfZ72KW3jKtN1F",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-18",
+      "Candidate": [
+        "recXHGObVomLpteuM"
+      ],
+      "Closed On": "2026-05-03",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00227",
+      "Screened On": "2026-04-25",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recJlSS5dXchVubxO",
+    "createdTime": "2026-08-27T16:39:47.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-15",
+      "Candidate": [
+        "recn67JUtfLFSUmiU"
+      ],
+      "Application ID": "APP-00289",
+      "Interviews": [
+        "recG8QQKiRoLY2O9Y",
+        "recZ0dIpeZp8HXXKw"
+      ],
+      "Screened On": "2026-05-19",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-05-25",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recKWSoAgLTGK1MB1",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-11-18",
+      "Candidate": [
+        "recn6hRZXXzj7bdoF"
+      ],
+      "Closed On": "2025-11-29",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00017",
+      "Interviews": [
+        "recdtT8sKQgUTb1Yi"
+      ],
+      "Screened On": "2025-11-19",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "First Interview On": "2025-11-28",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recKf6QR0hCR0JH7k",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2025-12-30",
+      "Candidate": [
+        "recjaxoh87oMOUvzI"
+      ],
+      "Closed On": "2026-01-15",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00113",
+      "Interviews": [
+        "recylJ9CFLa5Lyh1n"
+      ],
+      "Screened On": "2025-12-31",
+      "Opening": [
+        "rec38ScPLVzASwBYL"
+      ],
+      "First Interview On": "2026-01-08",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recKopXFAihwvSumv",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-07-22",
+      "Candidate": [
+        "recEJw9Lfc4aQ3ewI"
+      ],
+      "Closed On": "2025-07-31",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00116",
+      "Screened On": "2025-07-27",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recKtJZtnIkqZ5GIc",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-04-12",
+      "Candidate": [
+        "recFNTNmDysjsA498"
+      ],
+      "Final Interview On": "2026-05-02",
+      "Closed On": "2026-05-03",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00110",
+      "Interviews": [
+        "rec3ziD2BAPJxC0o6"
+      ],
+      "Screened On": "2026-04-14",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "First Interview On": "2026-04-26",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recL8moeE29ECbYtl",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-07-23",
+      "Candidate": [
+        "recSQDwl6FwnU1krS"
+      ],
+      "Closed On": "2025-08-03",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00133",
+      "Screened On": "2025-07-24",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recLDjEcOw0gL5Ew0",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-09",
+      "Candidate": [
+        "recoPkAT011ZUNBx2"
+      ],
+      "Final Interview On": "2026-07-19",
+      "Closed On": "2026-08-08",
+      "Application ID": "APP-00193",
+      "Offers": [
+        "recg8Zm1zfplQE1Hd"
+      ],
+      "Offered On": "2026-07-27",
+      "Interviews": [
+        "recW7i1NK3DssVjMi"
+      ],
+      "Screened On": "2026-06-16",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "First Interview On": "2026-06-28",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recLNdKwi9zNyzj65",
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-12",
+      "Candidate": [
+        "recbcICkKL6Tyqt1h"
+      ],
+      "Closed On": "2026-05-05",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00314",
+      "Screened On": "2026-04-21",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recLPgOyLL4AYm7cH",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-04-25",
+      "Candidate": [
+        "rec7C3vB3OK73xHPF"
+      ],
+      "Closed On": "2026-05-07",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00323",
+      "Screened On": "2026-04-29",
+      "Opening": [
+        "recpCBZeXgyxZLpiR"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recLkeaaxIpCVp0oV",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-30",
+      "Candidate": [
+        "rec8WvAKYiqpXuSyP"
+      ],
+      "Application ID": "APP-00120",
+      "Screened On": "2026-07-07",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recLnQGV8yGxclzmQ",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-04-29",
+      "Candidate": [
+        "recXyASGjLq4Ik0DU"
+      ],
+      "Closed On": "2026-04-30",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00061",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recM987VNlQ0cKbu3",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-16",
+      "Candidate": [
+        "recv9CDLQUvl5XERG"
+      ],
+      "Closed On": "2026-05-11",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00321",
+      "Referred By": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Interviews": [
+        "rec6oVXx4yzxz45Dw"
+      ],
+      "Screened On": "2026-04-18",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "First Interview On": "2026-04-30",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recMBzp7YysYXWeKE",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-12-14",
+      "Candidate": [
+        "recXeM9SooZOkEOac"
+      ],
+      "Final Interview On": "2025-12-28",
+      "Closed On": "2026-01-09",
+      "Application ID": "APP-00336",
+      "Offers": [
+        "reccQC9VH02L1Jobf"
+      ],
+      "Offered On": "2026-01-02",
+      "Interviews": [
+        "recZqHwa3noPgRHo7"
+      ],
+      "Screened On": "2025-12-17",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "First Interview On": "2025-12-20",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recMHJDflYx9jlHv8",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-09-20",
+      "Candidate": [
+        "recUpRtC3AE49van8"
+      ],
+      "Closed On": "2025-10-09",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00046",
+      "Screened On": "2025-09-26",
+      "Opening": [
+        "reczcf1vpwP842uKy"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recMJeC1woaF55azF",
+    "createdTime": "2026-08-27T16:39:32.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-22",
+      "Candidate": [
+        "recz1vUl2BPha8i30"
+      ],
+      "Closed On": "2026-05-04",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00042",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recMLNhmKjNLJiJ2F",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-13",
+      "Candidate": [
+        "recfTxyb76x3rY2U3"
+      ],
+      "Closed On": "2026-07-01",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00225",
+      "Interviews": [
+        "rectmKQOu6Coab9qk"
+      ],
+      "Screened On": "2026-06-14",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "First Interview On": "2026-06-23",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recMPnksVuLfh6zI6",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-01",
+      "Candidate": [
+        "recuSMtMxT2H9SIuQ"
+      ],
+      "Application ID": "APP-00338",
+      "Screened On": "2026-06-07",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recMQNh6TlP4ciHoT",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-04-16",
+      "Candidate": [
+        "rec9oVAVFxd5E6eth"
+      ],
+      "Final Interview On": "2026-05-01",
+      "Closed On": "2026-05-06",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00153",
+      "Interviews": [
+        "recZyszZfQLO9Ilwm"
+      ],
+      "Screened On": "2026-04-19",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2026-04-23",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recMgwlyGZU1qnkFh",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-12-10",
+      "Candidate": [
+        "recTSco1YA0ce37A3"
+      ],
+      "Application ID": "APP-00062",
+      "Screened On": "2025-12-20",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recMioqGRdCfPs4jI",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-09-16",
+      "Candidate": [
+        "recoPrEjTApeJWUnl"
+      ],
+      "Application ID": "APP-00246",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recMqSRAMZjteipsn",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-06-18",
+      "Candidate": [
+        "recoxIkl0QHAOgvKl"
+      ],
+      "Application ID": "APP-00324",
+      "Screened On": "2026-06-26",
+      "Opening": [
+        "recpCBZeXgyxZLpiR"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recNgih4faJbKDtQE",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-01-25",
+      "Candidate": [
+        "recJYEsd93C0FgfMW"
+      ],
+      "Closed On": "2026-03-10",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00301",
+      "Interviews": [
+        "rec9XmjERM9wSD5Vc"
+      ],
+      "Screened On": "2026-03-02",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "First Interview On": "2026-03-09",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recOALDnO1WuE6WpN",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-10",
+      "Candidate": [
+        "rec7Iz8z4Yub5PTlV"
+      ],
+      "Application ID": "APP-00309",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recOQKvwlqxac6vRX",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-09-21",
+      "Candidate": [
+        "rec40qlITVvfTqKUW"
+      ],
+      "Final Interview On": "2025-10-09",
+      "Closed On": "2025-10-22",
+      "Application ID": "APP-00310",
+      "Offers": [
+        "recgaQea5mqnAKiQS"
+      ],
+      "Offered On": "2025-10-14",
+      "Referred By": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Interviews": [
+        "rechMNUDtUcqmaTY4"
+      ],
+      "Screened On": "2025-09-26",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "First Interview On": "2025-10-03",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recOhPAo3U9UBylfw",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-05-13",
+      "Candidate": [
+        "reck25zU2aLRSqvjI"
+      ],
+      "Final Interview On": "2026-06-12",
+      "Closed On": "2026-06-21",
+      "Application ID": "APP-00248",
+      "Offers": [
+        "recQmK7bhmt2EAguh"
+      ],
+      "Offered On": "2026-06-16",
+      "Interviews": [
+        "recnfshJLnoGWSEcD"
+      ],
+      "Screened On": "2026-05-21",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "First Interview On": "2026-05-25",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recOw5S3niDaulLoE",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-01-02",
+      "Candidate": [
+        "recG1wDJo01kpVk3C"
+      ],
+      "Final Interview On": "2026-01-31",
+      "Closed On": "2026-02-20",
+      "Application ID": "APP-00278",
+      "Offers": [
+        "recqSQGDhvKAm9p6E"
+      ],
+      "Offered On": "2026-02-07",
+      "Interviews": [
+        "recMUAgaQlM5vbA8a"
+      ],
+      "Screened On": "2026-01-03",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "First Interview On": "2026-01-15",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recOzmo9c4MVbxT7E",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-04-09",
+      "Candidate": [
+        "recmlwhriKbrFnIqy"
+      ],
+      "Application ID": "APP-00178",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recP47ZJ2xJ54FFWg",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-08-29",
+      "Candidate": [
+        "recbfiRDcPwB95vOk"
+      ],
+      "Closed On": "2025-10-02",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00016",
+      "Referred By": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Interviews": [
+        "recgXEUVzEOX2YYhS"
+      ],
+      "Screened On": "2025-09-08",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2025-09-19",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recPA80lrTW7Zbfa4",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-07-20",
+      "Candidate": [
+        "recipOp6z8LvuMPE2"
+      ],
+      "Closed On": "2026-08-03",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00111",
+      "Screened On": "2026-07-28",
+      "Opening": [
+        "recGF2PfXhqx2M1QC"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recPKXgzmuoBaSLui",
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-03-18",
+      "Candidate": [
+        "rec7Iz8z4Yub5PTlV"
+      ],
+      "Closed On": "2026-04-03",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00007",
+      "Screened On": "2026-03-25",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recPbK7TgsHhA1YyW",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-20",
+      "Candidate": [
+        "recpNzgE290RTLKU2"
+      ],
+      "Closed On": "2026-06-18",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00325",
+      "Interviews": [
+        "recdivecL3P3z874D"
+      ],
+      "Screened On": "2026-05-30",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-06-13",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recPpd93vTUyron7j",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-20",
+      "Candidate": [
+        "recxVqJ1Fm4rYwzyC"
+      ],
+      "Closed On": "2026-06-10",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00167",
+      "Interviews": [
+        "recpOyxXP2ehJFwm8"
+      ],
+      "Screened On": "2026-05-27",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "First Interview On": "2026-06-09",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recQNbHZfvfDfzy1U",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-12-06",
+      "Candidate": [
+        "recxyn8S4bK5KktOu"
+      ],
+      "Application ID": "APP-00069",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recQp4f5XGxaRr4JX",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-11-21",
+      "Candidate": [
+        "recohvue9eLXnuBir"
+      ],
+      "Application ID": "APP-00186",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recR1niNYMyJyqA66",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-08-16",
+      "Candidate": [
+        "recMuNTnatijrhaTz"
+      ],
+      "Closed On": "2025-09-04",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00300",
+      "Screened On": "2025-08-23",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recR6FwMI5fDU7lxu",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-03-31",
+      "Candidate": [
+        "recAmgOyJ50cGhN5I"
+      ],
+      "Closed On": "2026-04-15",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00247",
+      "Screened On": "2026-04-03",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recRAyDBrdQqQOVyP",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-03-30",
+      "Candidate": [
+        "recIPZ2h6RA4Asws8"
+      ],
+      "Final Interview On": "2026-04-14",
+      "Closed On": "2026-05-02",
+      "Application ID": "APP-00019",
+      "Offers": [
+        "recXLjOhQeRS6ds3g"
+      ],
+      "Offered On": "2026-04-20",
+      "Interviews": [
+        "recgPL6VStZdLdCnP"
+      ],
+      "Screened On": "2026-04-03",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "First Interview On": "2026-04-08",
+      "Stage": "Offer",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recRH8DAS5RSerTzr",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-08-22",
+      "Candidate": [
+        "recqsp2odNDIN0AFu"
+      ],
+      "Application ID": "APP-00060",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recRJlOzMRsQxa9lV",
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-01",
+      "Candidate": [
+        "recq2zqNF0hNQ1xBE"
+      ],
+      "Application ID": "APP-00232",
+      "Referred By": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Screened On": "2026-06-08",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recRmWbRbxcPOUxrC",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-28",
+      "Candidate": [
+        "recP0qvR3N6gMwKYI"
+      ],
+      "Closed On": "2026-05-13",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00170",
+      "Interviews": [
+        "recN7IXU1MJKqC4Tc"
+      ],
+      "Screened On": "2026-05-08",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-05-12",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recRwuf2cADpE3C96",
+    "createdTime": "2026-08-27T16:39:39.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-08-02",
+      "Candidate": [
+        "recU4nMoPspKrplf7"
+      ],
+      "Closed On": "2026-08-12",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00156",
+      "Screened On": "2026-08-03",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recRzgmLBhnZfiQgx",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-11-30",
+      "Candidate": [
+        "recoxIkl0QHAOgvKl"
+      ],
+      "Closed On": "2025-12-17",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00024",
+      "Screened On": "2025-12-05",
+      "Opening": [
+        "recyPRmJP1t1CyDer"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recShkIbK2nW4OAU1",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-14",
+      "Candidate": [
+        "rec0fsVrfn2FFP0cX"
+      ],
+      "Closed On": "2026-06-03",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00258",
+      "Interviews": [
+        "rec0yYjYwNgfxH1Bg"
+      ],
+      "Screened On": "2026-05-18",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-05-24",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recSviugwQ3oGfCf1",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-27",
+      "Candidate": [
+        "recEjNwF3LisTGR1Q"
+      ],
+      "Final Interview On": "2026-06-21",
+      "Closed On": "2026-06-30",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00077",
+      "Interviews": [
+        "recmV1Ppbrustofau"
+      ],
+      "Screened On": "2026-06-02",
+      "Opening": [
+        "recpCBZeXgyxZLpiR"
+      ],
+      "First Interview On": "2026-06-13",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recT3q7hCKZ3uIIFj",
+    "createdTime": "2026-08-27T16:39:50.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-07-07",
+      "Candidate": [
+        "rec3IukqDk7vMclQl"
+      ],
+      "Application ID": "APP-00350",
+      "Screened On": "2026-07-14",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recT8sPMEmWR2Jw3h",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-01-05",
+      "Candidate": [
+        "recwn8RRuADmW6k0k"
+      ],
+      "Application ID": "APP-00059",
+      "Screened On": "2026-01-09",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recTAML9ojeuFSdoF",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-23",
+      "Candidate": [
+        "recDMsloHhdiI7n5E"
+      ],
+      "Closed On": "2026-06-22",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00238",
+      "Interviews": [
+        "rec4LubWi3xgMrVHc"
+      ],
+      "Screened On": "2026-05-28",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-06-09",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recTHBLAPFfk9476y",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-11",
+      "Candidate": [
+        "recUxiOWDe1JS6ZOe"
+      ],
+      "Closed On": "2026-03-19",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00084",
+      "Screened On": "2026-03-17",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recTuo7BwM8gORZ7a",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-01-19",
+      "Candidate": [
+        "recz1vUl2BPha8i30"
+      ],
+      "Closed On": "2026-03-12",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00342",
+      "Interviews": [
+        "receGctXFEoKHCLcu"
+      ],
+      "Screened On": "2026-02-21",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "First Interview On": "2026-03-06",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recTv8A8ZyAHi3TAa",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-05",
+      "Candidate": [
+        "recy0CPdctsgCLZA7"
+      ],
+      "Application ID": "APP-00333",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recTvWfsyXelUDsiC",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-02-22",
+      "Candidate": [
+        "recv7uOyRrigld7Fd"
+      ],
+      "Closed On": "2026-04-09",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00273",
+      "Screened On": "2026-03-26",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recU7X60PAopuJfji",
+    "createdTime": "2026-08-27T16:39:42.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-11-01",
+      "Candidate": [
+        "recDAjeMPvDy1TvLy"
+      ],
+      "Closed On": "2025-12-01",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00213",
+      "Interviews": [
+        "recfXhcBRxgTZ436k"
+      ],
+      "Screened On": "2025-11-10",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2025-11-23",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recUG5BEPoPgyzx34",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-19",
+      "Candidate": [
+        "receDJXANx2sv0IOJ"
+      ],
+      "Closed On": "2026-06-01",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00083",
+      "Referred By": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Screened On": "2026-05-28",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recUGi7o6GyGhSDwG",
+    "createdTime": "2026-08-27T16:39:42.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-04",
+      "Candidate": [
+        "recr4UPkoROOmZ1Vk"
+      ],
+      "Closed On": "2026-05-12",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00207",
+      "Screened On": "2026-05-05",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recUTm4vFe46Ns02w",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-10-02",
+      "Candidate": [
+        "recBDWWy4fF0Tp7ip"
+      ],
+      "Final Interview On": "2025-10-28",
+      "Closed On": "2025-11-18",
+      "Application ID": "APP-00327",
+      "Offers": [
+        "recTD5beFbLZItf39"
+      ],
+      "Offered On": "2025-11-06",
+      "Interviews": [
+        "rec20altZurBKlPm8"
+      ],
+      "Screened On": "2025-10-07",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2025-10-20",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recUbsYKcVPEqayT9",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-09-10",
+      "Candidate": [
+        "recFIKVpKicnBvS0p"
+      ],
+      "Application ID": "APP-00085",
+      "Opening": [
+        "recyPRmJP1t1CyDer"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recUmLNLg8ijNksvd",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-06-26",
+      "Candidate": [
+        "recfBXdNAJZj2sYRD"
+      ],
+      "Application ID": "APP-00271",
+      "Interviews": [
+        "recirXOmz46H1xViY"
+      ],
+      "Screened On": "2026-06-27",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "First Interview On": "2026-07-09",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recVDJutcT64hUFk4",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-09",
+      "Candidate": [
+        "recArdofv6MKV33V6"
+      ],
+      "Application ID": "APP-00130",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recVKZzX2XFyw8zOA",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-17",
+      "Candidate": [
+        "rec5nO1RuHd5yjICb"
+      ],
+      "Closed On": "2026-04-08",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00112",
+      "Screened On": "2026-03-27",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recVOaqH7l4n3vlCj",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-07-07",
+      "Candidate": [
+        "recZ8tbv9ppph2Vv5"
+      ],
+      "Closed On": "2026-07-21",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00255",
+      "Screened On": "2026-07-12",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recVRICfbNWTgRfnw",
+    "createdTime": "2026-08-27T16:39:47.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-09",
+      "Candidate": [
+        "recL1XYqkcLaRjd5X"
+      ],
+      "Closed On": "2026-06-23",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00295",
+      "Interviews": [
+        "reclHZMtWqHvCtikW"
+      ],
+      "Screened On": "2026-06-12",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "First Interview On": "2026-06-20",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recVYakzO3k2eH1q8",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-10",
+      "Candidate": [
+        "recapW8scP5EncYWq"
+      ],
+      "Application ID": "APP-00132",
+      "Screened On": "2026-06-14",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recVsaVVlqFDz06hx",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-23",
+      "Candidate": [
+        "rec0hawReCGXfRRK8"
+      ],
+      "Closed On": "2026-05-05",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00288",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recVtnBaKjmrOhGtm",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-25",
+      "Candidate": [
+        "recp7rsnyEO2PpMKk"
+      ],
+      "Closed On": "2026-06-16",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00189",
+      "Screened On": "2026-06-02",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recWIthKyUBxG1Iw2",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-03-02",
+      "Candidate": [
+        "recd3Bn1Ss5F3Pn8v"
+      ],
+      "Application ID": "APP-00143",
+      "Screened On": "2026-03-05",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recWSyX6zpp2z2jeU",
+    "createdTime": "2026-08-27T16:39:50.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-07-13",
+      "Candidate": [
+        "recUpRtC3AE49van8"
+      ],
+      "Closed On": "2026-08-09",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00346",
+      "Interviews": [
+        "rec056WQB9R3OBalD"
+      ],
+      "Screened On": "2026-07-17",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-07-30",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recWW3UtH3mzTAYgU",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-05-16",
+      "Candidate": [
+        "rec6BKJZcBt830leX"
+      ],
+      "Application ID": "APP-00068",
+      "Interviews": [
+        "recicYY0DdfWaSwgQ"
+      ],
+      "Screened On": "2026-05-23",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "First Interview On": "2026-06-05",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recWZy57TjJYkmsOT",
+    "createdTime": "2026-08-27T16:39:39.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-07-22",
+      "Candidate": [
+        "recyWVk3xu2xFxIxC"
+      ],
+      "Application ID": "APP-00161",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recWi8p4AWAdYNPYQ",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-10-12",
+      "Candidate": [
+        "recdvATjI7fTpH3AJ"
+      ],
+      "Closed On": "2025-10-22",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00270",
+      "Screened On": "2025-10-21",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recWkQURRyBHR5rjj",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-19",
+      "Candidate": [
+        "recViHlqNtpFnokLM"
+      ],
+      "Closed On": "2026-07-12",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00343",
+      "Screened On": "2026-06-28",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recWmki3TDt0I68sB",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-19",
+      "Candidate": [
+        "recTf2aBxzPWT6zXB"
+      ],
+      "Closed On": "2026-06-29",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00332",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recWuMiP1az688KUe",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-15",
+      "Candidate": [
+        "recom4UxNexPHqMdO"
+      ],
+      "Closed On": "2026-06-03",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00169",
+      "Screened On": "2026-05-21",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recWxgJFdyMJoe101",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-09",
+      "Candidate": [
+        "recYnqNBEdf0MCRdN"
+      ],
+      "Closed On": "2026-05-12",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00220",
+      "Interviews": [
+        "recfV0hWUeHpP2d1C",
+        "recCEW4SFK0b2KN7C"
+      ],
+      "Screened On": "2026-04-18",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-04-29",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recXD3bchspEJMPgF",
+    "createdTime": "2026-08-27T16:39:39.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-06",
+      "Candidate": [
+        "recATg3241DKrWRa4"
+      ],
+      "Application ID": "APP-00162",
+      "Interviews": [
+        "recHi00FWyvCEhASD"
+      ],
+      "Screened On": "2026-06-08",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "First Interview On": "2026-06-17",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recXJEKMnH7RABgyV",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-09-27",
+      "Candidate": [
+        "recaqZqEsFF2ghvn5"
+      ],
+      "Application ID": "APP-00026",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recXmd9qCH1puDGaE",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-07-16",
+      "Candidate": [
+        "rec025p5ExyDDgMqo"
+      ],
+      "Application ID": "APP-00108",
+      "Referred By": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Screened On": "2026-07-20",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recY4SWOsQMbijTsg",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-25",
+      "Candidate": [
+        "recqoSEs5xb3PkAqb"
+      ],
+      "Closed On": "2026-05-02",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00168",
+      "Screened On": "2026-04-27",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recY5fy2hGQT06YVz",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-01",
+      "Candidate": [
+        "recToarU1uUOzeyvv"
+      ],
+      "Application ID": "APP-00053",
+      "Referred By": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recY65PmkuY7qx3uA",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-05-17",
+      "Candidate": [
+        "recm2RXSL7iivNTpi"
+      ],
+      "Application ID": "APP-00180",
+      "Interviews": [
+        "reclG8XNK2woIOeQm"
+      ],
+      "Screened On": "2026-05-19",
+      "Opening": [
+        "recjRbE4mAhXi7Q6P"
+      ],
+      "First Interview On": "2026-06-02",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recYRQvQj9F8HaAxC",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-25",
+      "Candidate": [
+        "recuXSFp8W63Vaxki"
+      ],
+      "Application ID": "APP-00175",
+      "Screened On": "2026-06-28",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recYd9lQ2uQpvtNqo",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-05-30",
+      "Candidate": [
+        "rec8v1V35Qxg2qsjL"
+      ],
+      "Application ID": "APP-00312",
+      "Screened On": "2026-06-04",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recZKgvnqrieblhZ8",
+    "createdTime": "2026-08-27T16:39:35.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-10-02",
+      "Candidate": [
+        "recrqpPSjRQbNAmoJ"
+      ],
+      "Closed On": "2025-10-24",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00095",
+      "Interviews": [
+        "recRVHJVPfuqzdraL"
+      ],
+      "Screened On": "2025-10-04",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2025-10-12",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recZX0JdwUU14z5kJ",
+    "createdTime": "2026-08-27T16:39:39.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-07-31",
+      "Candidate": [
+        "recyqM8A81lOfPFNg"
+      ],
+      "Closed On": "2026-08-17",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00165",
+      "Screened On": "2026-08-06",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recZYhkHKu9pWgPhM",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-08-06",
+      "Candidate": [
+        "reczsReFqnRS35O6T"
+      ],
+      "Closed On": "2026-08-15",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00150",
+      "Screened On": "2026-08-12",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recZhULRett5ltIvH",
+    "createdTime": "2026-08-27T16:39:50.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-06-06",
+      "Candidate": [
+        "recVJAKq9esFSYRnG"
+      ],
+      "Application ID": "APP-00347",
+      "Referred By": [
+        "recSmhAn12okM8IqT"
+      ],
+      "Interviews": [
+        "recRAMhy7gBahR6cD"
+      ],
+      "Screened On": "2026-06-14",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "First Interview On": "2026-06-23",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recZtyzN0mSmVl67k",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-06-23",
+      "Candidate": [
+        "recy0CPdctsgCLZA7"
+      ],
+      "Closed On": "2026-07-06",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00033",
+      "Screened On": "2026-06-24",
+      "Opening": [
+        "recV2H1SKNmiSgGah"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recZuz7sr2fpSPd5U",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-16",
+      "Candidate": [
+        "rec7X8gIFvgYkg8Yk"
+      ],
+      "Final Interview On": "2026-06-05",
+      "Closed On": "2026-06-09",
+      "Application ID": "APP-00281",
+      "Offers": [
+        "rechyDHcenrqs3jIB"
+      ],
+      "Offered On": "2026-06-08",
+      "Interviews": [
+        "recL2zdQWGVjNA0RZ"
+      ],
+      "Screened On": "2026-05-17",
+      "Opening": [
+        "recpCBZeXgyxZLpiR"
+      ],
+      "First Interview On": "2026-05-31",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recZyltYQdEnLuCjY",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-07-10",
+      "Candidate": [
+        "rec7C3vB3OK73xHPF"
+      ],
+      "Application ID": "APP-00023",
+      "Opening": [
+        "recamYDoZyTqXNmoE"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recaFt6waPJsgv4Ct",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-09-08",
+      "Candidate": [
+        "recC5DkWhivR3MlEW"
+      ],
+      "Final Interview On": "2025-10-06",
+      "Closed On": "2025-10-29",
+      "Application ID": "APP-00334",
+      "Offers": [
+        "recjSHe6DAoPr9X8t"
+      ],
+      "Offered On": "2025-10-16",
+      "Interviews": [
+        "rec4g73EmVlGgvWVe"
+      ],
+      "Screened On": "2025-09-16",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "First Interview On": "2025-09-25",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recaG6zbaZR0e3cG1",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-08-06",
+      "Candidate": [
+        "recnSdGG87uhc4mR3"
+      ],
+      "Application ID": "APP-00154",
+      "Screened On": "2026-08-13",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recaH7FTE4qfk0vtR",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-15",
+      "Candidate": [
+        "recc0FxztoQmgSkGA"
+      ],
+      "Closed On": "2026-05-30",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00079",
+      "Screened On": "2026-05-21",
+      "Opening": [
+        "recmpkDQ1pbmq0mWx"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recaTn55f9iTinexu",
+    "createdTime": "2026-08-27T16:39:45.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-09-18",
+      "Candidate": [
+        "rec82GFgzWiXgsVb4"
+      ],
+      "Closed On": "2025-09-23",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00263",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recaUIrW2aIU4QY0h",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-01-20",
+      "Candidate": [
+        "rec82mTIakMaVnuj2"
+      ],
+      "Application ID": "APP-00128",
+      "Screened On": "2026-01-21",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recaajg01IcH6IEZM",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-04-09",
+      "Candidate": [
+        "rec760uqlzcXa3Pi0"
+      ],
+      "Closed On": "2026-04-23",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00141",
+      "Screened On": "2026-04-18",
+      "Opening": [
+        "recjRbE4mAhXi7Q6P"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recafuUSU75bcGv78",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-14",
+      "Candidate": [
+        "recUW6Au1j53Q8bo5"
+      ],
+      "Closed On": "2026-06-16",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00155",
+      "Opening": [
+        "rec38ScPLVzASwBYL"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recb3UBJcTBRHpdui",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-26",
+      "Candidate": [
+        "rec8sR7XnX3ulgzPF"
+      ],
+      "Closed On": "2026-05-11",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00114",
+      "Screened On": "2026-05-01",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recbNY3B2mWPRFPdB",
+    "createdTime": "2026-08-27T16:39:42.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-02",
+      "Candidate": [
+        "recPEQLypTKqQ9X9n"
+      ],
+      "Final Interview On": "2026-06-06",
+      "Closed On": "2026-06-14",
+      "Application ID": "APP-00210",
+      "Offers": [
+        "recqEzIx5OSWVuwUh"
+      ],
+      "Offered On": "2026-06-13",
+      "Interviews": [
+        "recL6HbKOiEcfK6zh"
+      ],
+      "Screened On": "2026-05-09",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2026-05-22",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recbREVW4oalJ8QXB",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-09-28",
+      "Candidate": [
+        "recx4ndA3SWBtMoEL"
+      ],
+      "Closed On": "2025-10-14",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00303",
+      "Interviews": [
+        "recFe81wmXCtcl687",
+        "rec2mRYMmurdljSLU"
+      ],
+      "Screened On": "2025-10-01",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2025-10-04",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reccFP4j1zyMydygx",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-07-21",
+      "Candidate": [
+        "rec2atIiA18GrFXjS"
+      ],
+      "Closed On": "2026-08-12",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00063",
+      "Screened On": "2026-07-31",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reccN3z84lRYFX3HM",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-29",
+      "Candidate": [
+        "recAlHbskpqKNTrlz"
+      ],
+      "Closed On": "2026-06-27",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00124",
+      "Interviews": [
+        "recubeVmxAk2yqmNu"
+      ],
+      "Screened On": "2026-06-06",
+      "Opening": [
+        "recpCBZeXgyxZLpiR"
+      ],
+      "First Interview On": "2026-06-18",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reccPhC7vgbocR943",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-08-23",
+      "Candidate": [
+        "recVJAKq9esFSYRnG"
+      ],
+      "Closed On": "2025-09-12",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00047",
+      "Referred By": [
+        "recYShpGj81ML92G1"
+      ],
+      "Interviews": [
+        "recsEA7oyfYHoooxr"
+      ],
+      "Screened On": "2025-08-28",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "First Interview On": "2025-09-05",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recceue60IpVHFgqR",
+    "createdTime": "2026-08-27T16:39:47.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-01-03",
+      "Candidate": [
+        "rec3n6EdujMW1JHgw"
+      ],
+      "Application ID": "APP-00291",
+      "Screened On": "2026-01-07",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recd2eVyZHDSLJj2f",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-07-23",
+      "Candidate": [
+        "recCwFPGy8YHgmnzp"
+      ],
+      "Closed On": "2026-08-01",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00205",
+      "Screened On": "2026-07-29",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recdRVWLR1wpfKcGW",
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-01-15",
+      "Candidate": [
+        "recY2oL9jE7i5hCgV"
+      ],
+      "Closed On": "2026-03-06",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00304",
+      "Screened On": "2026-02-21",
+      "Opening": [
+        "reczcf1vpwP842uKy"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recdU1YZ0aiKIlL0K",
+    "createdTime": "2026-08-27T16:39:42.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-07",
+      "Candidate": [
+        "recO7pPRq3YBvA1ad"
+      ],
+      "Closed On": "2026-06-16",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00208",
+      "Screened On": "2026-06-15",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recdrBzbvcakTvKmH",
+    "createdTime": "2026-08-27T16:39:32.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-01-05",
+      "Candidate": [
+        "recXeM9SooZOkEOac"
+      ],
+      "Closed On": "2026-01-15",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00036",
+      "Opening": [
+        "recpCBZeXgyxZLpiR"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rece8czyn8bH6nvZO",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-26",
+      "Candidate": [
+        "recTEmrGQU75jVxBo"
+      ],
+      "Closed On": "2026-07-11",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00172",
+      "Screened On": "2026-06-28",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "receDhoBOhG7nhCmz",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-01-15",
+      "Candidate": [
+        "rec73LxWTkoeGkKyE"
+      ],
+      "Closed On": "2026-02-20",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00109",
+      "Screened On": "2026-02-15",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "receTg6LaCev39dRp",
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-02",
+      "Candidate": [
+        "rec8v1V35Qxg2qsjL"
+      ],
+      "Final Interview On": "2026-06-29",
+      "Closed On": "2026-07-03",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00012",
+      "Interviews": [
+        "recwOLmkyNUx8771C"
+      ],
+      "Screened On": "2026-06-04",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "First Interview On": "2026-06-14",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recehLHHRQFMedbRJ",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-07-10",
+      "Candidate": [
+        "recTfb93bpDVzDEI5"
+      ],
+      "Application ID": "APP-00218",
+      "Screened On": "2026-07-20",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "receoLsZYU1qm4tPS",
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-11-07",
+      "Candidate": [
+        "recCHwuvmFEnREk0M"
+      ],
+      "Application ID": "APP-00010",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "receq8MaHCS7ccJ6p",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-09",
+      "Candidate": [
+        "rec1ZO83Ql6dd29RL"
+      ],
+      "Closed On": "2026-06-18",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00129",
+      "Screened On": "2026-06-13",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recf4k6ym9Cl8Cz6O",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-01",
+      "Candidate": [
+        "recx16izKMDD3St88"
+      ],
+      "Final Interview On": "2026-04-09",
+      "Closed On": "2026-04-21",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00052",
+      "Interviews": [
+        "recYzvk2knYy17PR9"
+      ],
+      "Screened On": "2026-03-08",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2026-03-22",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recf8O1BQgvvjHp8D",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-04-28",
+      "Candidate": [
+        "recjEcNg6D8lJwiOA"
+      ],
+      "Closed On": "2026-05-12",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00254",
+      "Screened On": "2026-05-03",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recfIzMbPJUFmMG8U",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-13",
+      "Candidate": [
+        "recITTx52LUc6H3Zw"
+      ],
+      "Closed On": "2026-07-03",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00237",
+      "Screened On": "2026-06-19",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recfTaOlRbflMgEDZ",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-02-23",
+      "Candidate": [
+        "recNvqjP4AafZ4qeN"
+      ],
+      "Closed On": "2026-04-20",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00330",
+      "Referred By": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Interviews": [
+        "rec96hJkgvN1UZueg"
+      ],
+      "Screened On": "2026-03-30",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "First Interview On": "2026-04-06",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recfdsNqShSkDpMw7",
+    "createdTime": "2026-08-27T16:39:35.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-09-16",
+      "Candidate": [
+        "recdsqbUXYAaTVImF"
+      ],
+      "Application ID": "APP-00089",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recg6iNZK2tnZpzPv",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-05-09",
+      "Candidate": [
+        "rectbmWOpjzwbPdN3"
+      ],
+      "Closed On": "2026-05-21",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00236",
+      "Screened On": "2026-05-11",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recgBIfd9Cs8a3WsD",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-28",
+      "Candidate": [
+        "recyLHo5Dz0x6HKZS"
+      ],
+      "Closed On": "2026-05-04",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00299",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recgQKatztTQFAtLe",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-08-08",
+      "Candidate": [
+        "recbfiRDcPwB95vOk"
+      ],
+      "Application ID": "APP-00316",
+      "Referred By": [
+        "recSmhAn12okM8IqT"
+      ],
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recgpzPd3FeSLRSpw",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-02",
+      "Candidate": [
+        "recpFTHWI2gqQz0XG"
+      ],
+      "Application ID": "APP-00194",
+      "Interviews": [
+        "rec9wLhXEjl01moAo"
+      ],
+      "Screened On": "2026-06-09",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "First Interview On": "2026-06-18",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recgrME10OXKxRXqT",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-23",
+      "Candidate": [
+        "recEnWiKTmCGT90oS"
+      ],
+      "Application ID": "APP-00142",
+      "Referred By": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Interviews": [
+        "rec2H0X11D99A2N0W"
+      ],
+      "Screened On": "2026-06-02",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "First Interview On": "2026-06-05",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rech159sdjSC54aSA",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-08-10",
+      "Candidate": [
+        "recLd4fUMpXZ0K6Mv"
+      ],
+      "Closed On": "2026-08-17",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00197",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rech4jLUzvzTgROFK",
+    "createdTime": "2026-08-27T16:39:39.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-10-21",
+      "Candidate": [
+        "recLIQcoNTWz9SwEA"
+      ],
+      "Closed On": "2025-11-04",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00159",
+      "Screened On": "2025-10-23",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rechMutCGiow0kYsV",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-19",
+      "Candidate": [
+        "recphk7ka4nT4Wtvd"
+      ],
+      "Closed On": "2026-07-12",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00204",
+      "Interviews": [
+        "rec3ot9nNVBv0TIKh"
+      ],
+      "Screened On": "2026-06-21",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "First Interview On": "2026-07-03",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rechjveyMBOFeKDr3",
+    "createdTime": "2026-08-27T16:39:35.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2025-12-26",
+      "Candidate": [
+        "recjTxsd6y3HYrPha"
+      ],
+      "Closed On": "2026-01-17",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00088",
+      "Screened On": "2026-01-05",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rechnInK82XF4MJmq",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-06-29",
+      "Candidate": [
+        "recFxocXQU3L60bwN"
+      ],
+      "Closed On": "2026-07-23",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00029",
+      "Interviews": [
+        "rec9V1QdYSKZTL4jE"
+      ],
+      "Screened On": "2026-07-09",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "First Interview On": "2026-07-15",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rechzU39BX1VZbMQu",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-06-28",
+      "Candidate": [
+        "recAOPmX5RBDvfRMQ"
+      ],
+      "Final Interview On": "2026-07-26",
+      "Application ID": "APP-00231",
+      "Offers": [
+        "rec5GeU3frNNkZrws"
+      ],
+      "Offered On": "2026-08-04",
+      "Interviews": [
+        "recHIDB6leK2VlW5H"
+      ],
+      "Screened On": "2026-07-07",
+      "Opening": [
+        "recjRbE4mAhXi7Q6P"
+      ],
+      "First Interview On": "2026-07-18",
+      "Stage": "Offer",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rechzVTcYuPj1B76S",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-03-22",
+      "Candidate": [
+        "rechxOV0nyLq18M5Y"
+      ],
+      "Closed On": "2026-03-23",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00275",
+      "Opening": [
+        "recV2H1SKNmiSgGah"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reciNqlMlx5mYgt5N",
+    "createdTime": "2026-08-27T16:39:50.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2025-10-28",
+      "Candidate": [
+        "recyRCSer7xBH1pe3"
+      ],
+      "Final Interview On": "2025-12-05",
+      "Closed On": "2025-12-12",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00002",
+      "Offers": [
+        "rechC6yLXnUv4oXCD"
+      ],
+      "Offered On": "2025-12-07",
+      "Interviews": [
+        "rec7qVu8f3RaIBtSW"
+      ],
+      "Screened On": "2025-11-06",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "First Interview On": "2025-11-14",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recii4XbhYCb37Hvn",
+    "createdTime": "2026-08-27T16:39:39.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-02-24",
+      "Candidate": [
+        "rec8bNWHWUZfVefeu"
+      ],
+      "Application ID": "APP-00164",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "reciuG6OiDYMSnuRd",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-02",
+      "Candidate": [
+        "recZF1Rljz6e3U3Ik"
+      ],
+      "Closed On": "2026-06-18",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00200",
+      "Interviews": [
+        "recqzOWKa4gFqTumc"
+      ],
+      "Screened On": "2026-06-05",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-06-16",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recj7PAXWCs9DN0f7",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-01-08",
+      "Candidate": [
+        "recJKUw4NSV0PeEhA"
+      ],
+      "Closed On": "2026-01-30",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00228",
+      "Screened On": "2026-01-18",
+      "Opening": [
+        "recV2H1SKNmiSgGah"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recjENzuhpcxqL4ud",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-01-18",
+      "Candidate": [
+        "recG6UapbdgI4GK2W"
+      ],
+      "Closed On": "2026-03-08",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00201",
+      "Interviews": [
+        "recWO79CXUsFf4YP8"
+      ],
+      "Screened On": "2026-02-21",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2026-02-25",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recjFFqK9KHos3R03",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-05-06",
+      "Candidate": [
+        "rec4hMBejUd6B3XJK"
+      ],
+      "Closed On": "2025-05-20",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00028",
+      "Screened On": "2025-05-08",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recjFOcJfpRHNvxTY",
+    "createdTime": "2026-08-27T16:39:50.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-31",
+      "Candidate": [
+        "recee1S9HfzJwmhxp"
+      ],
+      "Application ID": "APP-00345",
+      "Screened On": "2026-06-09",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recjYDboyd1p56Gx1",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-07-11",
+      "Candidate": [
+        "recoPfQtFFbwNOhC6"
+      ],
+      "Closed On": "2026-07-24",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00122",
+      "Screened On": "2026-07-16",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recjfFVstbeasHk24",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-11-24",
+      "Candidate": [
+        "recUMQJ3oTbpO4suM"
+      ],
+      "Application ID": "APP-00216",
+      "Screened On": "2025-11-29",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recjqevDefQTd1YgU",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-07-04",
+      "Candidate": [
+        "recLgLkua5p2iEjnU"
+      ],
+      "Application ID": "APP-00305",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "reck4USSuCcjq355n",
+    "createdTime": "2026-08-27T16:39:45.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-02-20",
+      "Candidate": [
+        "rec79pxVt8FKQKtVg"
+      ],
+      "Closed On": "2026-04-09",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00262",
+      "Screened On": "2026-03-27",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reck6Q8cKZCFcG1dx",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-07-11",
+      "Candidate": [
+        "recOm8aEdGPpTCnFJ"
+      ],
+      "Closed On": "2026-07-25",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00051",
+      "Interviews": [
+        "recqX5pEP2bRmspAS"
+      ],
+      "Screened On": "2026-07-13",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-07-19",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reck8WjCRyGgD71rs",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-02-12",
+      "Candidate": [
+        "rec8Wm4NnZtqQyL9Y"
+      ],
+      "Application ID": "APP-00280",
+      "Screened On": "2026-02-16",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "reckCcrFYbLgERpDO",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-01-04",
+      "Candidate": [
+        "recNXTPBeW9ai2snZ"
+      ],
+      "Closed On": "2026-01-27",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00277",
+      "Interviews": [
+        "recJhqjixPXdmxQgy"
+      ],
+      "Screened On": "2026-01-05",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "First Interview On": "2026-01-15",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reckINb6DMDSmbe2Y",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-08",
+      "Candidate": [
+        "recsvqHLLOYW2OxCG"
+      ],
+      "Closed On": "2026-06-21",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00269",
+      "Screened On": "2026-06-15",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reckKPw0f6RVy2xyO",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-11-28",
+      "Candidate": [
+        "recLHXvTmYzrhFWfw"
+      ],
+      "Closed On": "2025-12-14",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00181",
+      "Interviews": [
+        "recu3vBoEHoHNFPJ4",
+        "recCo5HU1SbFu6uZv"
+      ],
+      "Screened On": "2025-11-30",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2025-12-08",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reckLPXA8xRgWsC1l",
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-01-02",
+      "Candidate": [
+        "recx4ndA3SWBtMoEL"
+      ],
+      "Final Interview On": "2026-01-18",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00001",
+      "Offers": [
+        "recUzh2Vj5NyAPwRO"
+      ],
+      "Offered On": "2026-01-24",
+      "Interviews": [
+        "rec4ut1NFvwq5AiNs"
+      ],
+      "Screened On": "2026-01-03",
+      "Opening": [
+        "recamYDoZyTqXNmoE"
+      ],
+      "First Interview On": "2026-01-11",
+      "Stage": "Offer",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "reckSqJuXoisAAC9h",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-07-16",
+      "Candidate": [
+        "recfQvJuQGaNmWdfD"
+      ],
+      "Application ID": "APP-00240",
+      "Screened On": "2026-07-17",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "reckvX05sMDvHHmGd",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-13",
+      "Candidate": [
+        "recfTlyWkJLMACX5x"
+      ],
+      "Application ID": "APP-00073",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "reclMghrkElLbrFAk",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-10-01",
+      "Candidate": [
+        "recp3mu35HkRrtqeK"
+      ],
+      "Closed On": "2025-10-20",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00337",
+      "Interviews": [
+        "recVV9VxNXmpWxxNp",
+        "recV7R9AJQ2743YBu"
+      ],
+      "Screened On": "2025-10-08",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2025-10-11",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reclRucrAH5sJJpTb",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-30",
+      "Candidate": [
+        "recnPLysjbYkJeEbx"
+      ],
+      "Closed On": "2026-06-18",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00098",
+      "Interviews": [
+        "recPO7rDD2RaicVGc"
+      ],
+      "Screened On": "2026-06-02",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-06-10",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reclcNbf9SnO98Vbi",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-08",
+      "Candidate": [
+        "recazi5Qo7Js85Uza"
+      ],
+      "Closed On": "2026-04-01",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00106",
+      "Interviews": [
+        "recGgUIlFvgQyKtzd"
+      ],
+      "Screened On": "2026-03-17",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2026-03-31",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reclcw4IRlbRnh0j2",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-06-07",
+      "Candidate": [
+        "recSGwZ0YGfSdpOjx"
+      ],
+      "Closed On": "2025-06-09",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00279",
+      "Opening": [
+        "recfo8MJvxipPru33"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reclkeeZCve9HMAWx",
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-01-30",
+      "Candidate": [
+        "recykIELP765EIWgr"
+      ],
+      "Final Interview On": "2026-03-14",
+      "Closed On": "2026-03-30",
+      "Application ID": "APP-00315",
+      "Offers": [
+        "recSCvGZZ0IpBjqt5"
+      ],
+      "Offered On": "2026-03-20",
+      "Interviews": [
+        "reco5lb794OnycxxL"
+      ],
+      "Screened On": "2026-03-02",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "First Interview On": "2026-03-06",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reclknN0dV51IQY7K",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-04",
+      "Candidate": [
+        "rectTKjKbRDr2x5W4"
+      ],
+      "Application ID": "APP-00274",
+      "Interviews": [
+        "recQUGOeYfZjz4zTE"
+      ],
+      "Screened On": "2026-04-11",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-04-24",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "reclvmFsKkhQ8xGyW",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-01-19",
+      "Candidate": [
+        "recLkpYNu60AzLEmk"
+      ],
+      "Final Interview On": "2026-03-04",
+      "Closed On": "2026-03-18",
+      "Application ID": "APP-00103",
+      "Offers": [
+        "recNeOhJnVRDl1ePH"
+      ],
+      "Offered On": "2026-03-09",
+      "Referred By": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Interviews": [
+        "recNiAvP05JxuHS9J"
+      ],
+      "Screened On": "2026-02-24",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "First Interview On": "2026-02-28",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recmQozSPHQsfsGLa",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-05-13",
+      "Candidate": [
+        "rec2NZD4mvzgDmOiN"
+      ],
+      "Final Interview On": "2026-05-30",
+      "Closed On": "2026-06-06",
+      "Application ID": "APP-00174",
+      "Offers": [
+        "recYKkt6k6hHTt6Qt"
+      ],
+      "Offered On": "2026-06-02",
+      "Interviews": [
+        "recWxNIVFhjgZK46e"
+      ],
+      "Screened On": "2026-05-16",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "First Interview On": "2026-05-21",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recmXb8MbeTw1s5yg",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-03-20",
+      "Candidate": [
+        "recbE4DZoIPbZO6np"
+      ],
+      "Final Interview On": "2026-04-24",
+      "Application ID": "APP-00235",
+      "Offers": [
+        "rec0bHaqPWKwbh666"
+      ],
+      "Offered On": "2026-05-02",
+      "Interviews": [
+        "recZH4vRoVpGUZIPA"
+      ],
+      "Screened On": "2026-03-29",
+      "Opening": [
+        "recyPRmJP1t1CyDer"
+      ],
+      "First Interview On": "2026-04-11",
+      "Stage": "Offer",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recmdsFvBgi2bOtiB",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-18",
+      "Candidate": [
+        "recsG7FETOlQ8IzQ5"
+      ],
+      "Closed On": "2026-06-27",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00230",
+      "Screened On": "2026-06-20",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recmp9OGqDBkzjCDx",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-21",
+      "Candidate": [
+        "recy18LPKdvnmNGcG"
+      ],
+      "Application ID": "APP-00190",
+      "Referred By": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Interviews": [
+        "recXXAVZEgWy4Kxeq"
+      ],
+      "Screened On": "2026-06-30",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "First Interview On": "2026-07-08",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recmpmJRqVU7AMHJ2",
+    "createdTime": "2026-08-27T16:39:35.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-08-26",
+      "Candidate": [
+        "recBtFP37UKEpj020"
+      ],
+      "Closed On": "2025-09-14",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00090",
+      "Interviews": [
+        "recL8ub1iPRexGDV3"
+      ],
+      "Screened On": "2025-08-29",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "First Interview On": "2025-09-12",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recmxYppqpVBvVxmV",
+    "createdTime": "2026-08-27T16:39:47.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-05-29",
+      "Candidate": [
+        "recCRHQTvuz8ZXaBS"
+      ],
+      "Closed On": "2026-06-15",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00297",
+      "Screened On": "2026-06-05",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recmyjffFgYrNv4aR",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-10-26",
+      "Candidate": [
+        "recI8Nx3KwHJzrGGR"
+      ],
+      "Closed On": "2025-11-07",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00101",
+      "Screened On": "2025-10-29",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recnLNeX29cpXbGAQ",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-12-01",
+      "Candidate": [
+        "recQjaHutWos14npj"
+      ],
+      "Closed On": "2025-12-06",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00020",
+      "Screened On": "2025-12-03",
+      "Opening": [
+        "recyPRmJP1t1CyDer"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recnPKdhvQjakaFXo",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-08-18",
+      "Candidate": [
+        "rechpPXb9HiGwrynB"
+      ],
+      "Final Interview On": "2025-09-11",
+      "Closed On": "2025-09-22",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00056",
+      "Referred By": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Interviews": [
+        "recYXB654IcxxrH5D"
+      ],
+      "Screened On": "2025-08-19",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "First Interview On": "2025-08-29",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recnbPvxEbyi8T3cy",
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-23",
+      "Candidate": [
+        "recDUysdny9plc4sA"
+      ],
+      "Application ID": "APP-00242",
+      "Referred By": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Interviews": [
+        "receT1BjObIirFEzb"
+      ],
+      "Screened On": "2026-05-26",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "First Interview On": "2026-06-01",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recnwsgD6X7kfOw6F",
+    "createdTime": "2026-08-27T16:39:45.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-10-21",
+      "Candidate": [
+        "recerJ6UCrZGJ3C6O"
+      ],
+      "Application ID": "APP-00267",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "reco1dBPY3V06iepx",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-03-07",
+      "Candidate": [
+        "reccXDSS3RZhUIm5d"
+      ],
+      "Closed On": "2026-03-30",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00195",
+      "Screened On": "2026-03-16",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reco35zsSjc2VUwWd",
+    "createdTime": "2026-08-27T16:39:48.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-08-28",
+      "Candidate": [
+        "recPesXb2MJfzC0vQ"
+      ],
+      "Closed On": "2025-09-08",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00306",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recoQ4eljmgHiNlaT",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-01-27",
+      "Candidate": [
+        "recKaHu52gOXysW0I"
+      ],
+      "Closed On": "2026-03-23",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00137",
+      "Interviews": [
+        "recK1boLMvk7gLcXI"
+      ],
+      "Screened On": "2026-03-07",
+      "Opening": [
+        "recfo8MJvxipPru33"
+      ],
+      "First Interview On": "2026-03-21",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recp4qmI5WoemWcKL",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-10-03",
+      "Candidate": [
+        "rec2PoJK2uHkb5Fpe"
+      ],
+      "Closed On": "2025-10-11",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00082",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recpBfTMRAETV6Oxa",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-03-18",
+      "Candidate": [
+        "recdtwjcu9H2PLP3g"
+      ],
+      "Application ID": "APP-00283",
+      "Screened On": "2026-03-26",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recpFoECf76f8X1K3",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-03-28",
+      "Candidate": [
+        "rec9Npcvp6PV9VZLe"
+      ],
+      "Final Interview On": "2026-04-25",
+      "Closed On": "2026-04-26",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00171",
+      "Interviews": [
+        "recsxSb3Q52lrPcvu"
+      ],
+      "Screened On": "2026-03-29",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2026-04-04",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recpGNJZsc5f2jetO",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-10",
+      "Candidate": [
+        "recLYN9bj62e8NvKh"
+      ],
+      "Closed On": "2026-04-27",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00119",
+      "Screened On": "2026-04-13",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recpHm6CNOw9qgIfd",
+    "createdTime": "2026-08-27T16:39:47.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-10-14",
+      "Candidate": [
+        "recPBdVM9GCZx0Fh0"
+      ],
+      "Application ID": "APP-00296",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recpKJZQnjVow01jU",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-24",
+      "Candidate": [
+        "rec67yPYHVjNNI6i5"
+      ],
+      "Application ID": "APP-00286",
+      "Screened On": "2026-05-26",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recpM4mTuHZO6rsoO",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-07-05",
+      "Candidate": [
+        "recg8Y7triAB8hQIP"
+      ],
+      "Closed On": "2026-08-03",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00217",
+      "Interviews": [
+        "recgcHZjCMTeBgzMq"
+      ],
+      "Screened On": "2026-07-13",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-07-23",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recpQl3R8bicv29dH",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-07-14",
+      "Candidate": [
+        "recksgfX3vlh1FSyY"
+      ],
+      "Closed On": "2026-07-27",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00064",
+      "Screened On": "2026-07-20",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recpTfLaxtqwd6Zml",
+    "createdTime": "2026-08-27T16:39:35.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-07",
+      "Candidate": [
+        "recGpKkvkARmT6S7s"
+      ],
+      "Final Interview On": "2026-04-22",
+      "Closed On": "2026-05-10",
+      "Application ID": "APP-00087",
+      "Offers": [
+        "recC08X4FeIURnTSC"
+      ],
+      "Offered On": "2026-04-30",
+      "Interviews": [
+        "recVeLFh0Ztq9Qfar"
+      ],
+      "Screened On": "2026-04-09",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "First Interview On": "2026-04-16",
+      "Stage": "Offer",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recpZYuX5EuNkP6KX",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-02-07",
+      "Candidate": [
+        "recmzwiMr3HPRBJ6B"
+      ],
+      "Closed On": "2026-03-09",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00251",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recpeZdjBUH64D1fV",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-07-11",
+      "Candidate": [
+        "recFxocXQU3L60bwN"
+      ],
+      "Closed On": "2026-07-16",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00329",
+      "Screened On": "2026-07-13",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recpgUKDzHrCaSRdv",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-06-10",
+      "Candidate": [
+        "recU38Erki4M21mfC"
+      ],
+      "Closed On": "2026-06-23",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00176",
+      "Interviews": [
+        "recxA8u9kOtDKXyDB"
+      ],
+      "Screened On": "2026-06-13",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "First Interview On": "2026-06-20",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recpvsRrkR3AdZL76",
+    "createdTime": "2026-08-27T16:39:42.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-07-27",
+      "Candidate": [
+        "recJ7uFoEAJZaLzG6"
+      ],
+      "Closed On": "2026-08-12",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00211",
+      "Screened On": "2026-08-06",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recq2BWf9QUTLKL72",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-01-26",
+      "Candidate": [
+        "recNvqjP4AafZ4qeN"
+      ],
+      "Final Interview On": "2026-03-26",
+      "Closed On": "2026-04-06",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00030",
+      "Referred By": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Interviews": [
+        "recoHPPTIlrS6jglf"
+      ],
+      "Screened On": "2026-03-03",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2026-03-17",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recqNTRxap8Wr4Gm6",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-04-11",
+      "Candidate": [
+        "rec21D0wtMApDTES6"
+      ],
+      "Closed On": "2026-05-04",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00253",
+      "Interviews": [
+        "recmiyZapefKnLbe5"
+      ],
+      "Screened On": "2026-04-15",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "First Interview On": "2026-04-29",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recr1FjDoXlTNKcpl",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-05-31",
+      "Candidate": [
+        "recSGb4GDdVqeUtdu"
+      ],
+      "Final Interview On": "2026-06-12",
+      "Closed On": "2026-06-14",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00192",
+      "Interviews": [
+        "recC38c85AnZPOa1L",
+        "rec2gpiVrsvM5vGCu"
+      ],
+      "Screened On": "2026-06-02",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "First Interview On": "2026-06-08",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recr6RgGJM6mh14gM",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2025-11-08",
+      "Candidate": [
+        "recVTaw5IGcdhvygu"
+      ],
+      "Final Interview On": "2025-11-26",
+      "Closed On": "2025-12-14",
+      "Application ID": "APP-00134",
+      "Offers": [
+        "recuvzZDRm9zKIkuA"
+      ],
+      "Offered On": "2025-12-04",
+      "Interviews": [
+        "reciD25s5L0504u0T"
+      ],
+      "Screened On": "2025-11-13",
+      "Opening": [
+        "recamYDoZyTqXNmoE"
+      ],
+      "First Interview On": "2025-11-20",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recr9pwKyMqCoD9fm",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-11-15",
+      "Candidate": [
+        "recFVTgfFZtOY7uCL"
+      ],
+      "Closed On": "2025-12-07",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00188",
+      "Screened On": "2025-11-24",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recrBwdVmntyzIwtK",
+    "createdTime": "2026-08-27T16:39:41.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-24",
+      "Candidate": [
+        "recbQPq5iB15kcS4x"
+      ],
+      "Closed On": "2026-04-02",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00187",
+      "Screened On": "2026-03-30",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recrCOYOF6KWpUmqW",
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-01-14",
+      "Candidate": [
+        "rec4TPTco4kDfU2DJ"
+      ],
+      "Final Interview On": "2026-01-29",
+      "Closed On": "2026-02-11",
+      "Application ID": "APP-00035",
+      "Offers": [
+        "recbd2PLIv6QZxIx2"
+      ],
+      "Offered On": "2026-02-01",
+      "Interviews": [
+        "recNXbAlWs1NmBBAT"
+      ],
+      "Screened On": "2026-01-16",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "First Interview On": "2026-01-23",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recrExbwNJXiaDN4b",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-03-29",
+      "Candidate": [
+        "recAgC7aZIG2QqcLF"
+      ],
+      "Closed On": "2026-04-13",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00221",
+      "Screened On": "2026-04-06",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recrNeLrrH4vGNQAe",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-05-10",
+      "Candidate": [
+        "recW5nAJXOu7dQtfi"
+      ],
+      "Closed On": "2026-05-23",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00239",
+      "Screened On": "2026-05-16",
+      "Opening": [
+        "recjRbE4mAhXi7Q6P"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recrctja21PuZSaCN",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-07-03",
+      "Candidate": [
+        "recIiTgeWZQAic5tA"
+      ],
+      "Application ID": "APP-00121",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recrrfZqvvgi2GjpB",
+    "createdTime": "2026-08-27T16:39:32.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-29",
+      "Candidate": [
+        "recZKXCKVGO1SN75y"
+      ],
+      "Closed On": "2026-07-16",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00044",
+      "Interviews": [
+        "recL86le4vtE35fpn"
+      ],
+      "Screened On": "2026-07-06",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-07-13",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recryJuaBpPNMp6I6",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-10-19",
+      "Candidate": [
+        "recA0eouL811yPUtC"
+      ],
+      "Closed On": "2025-11-21",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00049",
+      "Referred By": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Interviews": [
+        "recyHT2cuAC4voDQ8"
+      ],
+      "Screened On": "2025-10-28",
+      "Opening": [
+        "recfo8MJvxipPru33"
+      ],
+      "First Interview On": "2025-11-10",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recs01tp6SviaKp8S",
+    "createdTime": "2026-08-27T16:39:33.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-08-27",
+      "Candidate": [
+        "recpuz1BTtiNaBgsh"
+      ],
+      "Application ID": "APP-00054",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recsR2Y6HZo9GiSb7",
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-08-02",
+      "Candidate": [
+        "recLjmGxXiilpV6n8"
+      ],
+      "Closed On": "2026-08-08",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00007",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recsWENinZHkh9BBS",
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-05-31",
+      "Candidate": [
+        "recJYEsd93C0FgfMW"
+      ],
+      "Closed On": "2026-06-08",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00001",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recsXHlBWuLQDcVQC",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-04-18",
+      "Candidate": [
+        "rec4XbLmQaQOU321E"
+      ],
+      "Closed On": "2026-05-02",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00145",
+      "Interviews": [
+        "recS98Qq2HETblHsf",
+        "receG09OJI1bsVaY3"
+      ],
+      "Screened On": "2026-04-19",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "First Interview On": "2026-04-26",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recsaQK77orZxyElt",
+    "createdTime": "2026-08-27T16:39:39.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-07-01",
+      "Candidate": [
+        "recpAYo6Ftk5BiwHh"
+      ],
+      "Closed On": "2026-07-21",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00160",
+      "Interviews": [
+        "rec07mjPeN9h2vpHU"
+      ],
+      "Screened On": "2026-07-02",
+      "Opening": [
+        "recRf0sg8Gga7o7w9"
+      ],
+      "First Interview On": "2026-07-16",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recsdeVhzRIUksTkR",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-06-05",
+      "Candidate": [
+        "recXBtCKTpFAeuYZS"
+      ],
+      "Closed On": "2026-06-22",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00152",
+      "Interviews": [
+        "rectwd1L5vZ1JEtwg"
+      ],
+      "Screened On": "2026-06-07",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2026-06-10",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recsf6EmTqvMtB5m9",
+    "createdTime": "2026-08-27T16:39:50.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2025-11-25",
+      "Candidate": [
+        "recY2oL9jE7i5hCgV"
+      ],
+      "Final Interview On": "2025-12-17",
+      "Closed On": "2025-12-29",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00004",
+      "Offers": [
+        "rec9zR8IYJSOcp70l"
+      ],
+      "Offered On": "2025-12-24",
+      "Interviews": [
+        "recx6G0nSe0Ywjk3f"
+      ],
+      "Screened On": "2025-11-27",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "First Interview On": "2025-12-04",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recspd5m3Ua7jScMR",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-06",
+      "Candidate": [
+        "receRD4gcMlpZEG0W"
+      ],
+      "Application ID": "APP-00018",
+      "Interviews": [
+        "reciQu0aUhVUh9gmJ"
+      ],
+      "Screened On": "2026-04-16",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "First Interview On": "2026-04-23",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recstdMclxUXIqGEF",
+    "createdTime": "2026-08-27T16:39:45.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-26",
+      "Candidate": [
+        "recYf0svx5DddsZE1"
+      ],
+      "Closed On": "2026-07-18",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00266",
+      "Screened On": "2026-07-05",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rect4WxvR2TvMdhxV",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-02-07",
+      "Candidate": [
+        "recDsMtXByPsQQY2P"
+      ],
+      "Closed On": "2026-03-31",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00075",
+      "Interviews": [
+        "recJ6HWZk1gxSv1AC"
+      ],
+      "Screened On": "2026-03-16",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "First Interview On": "2026-03-23",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rect8WSJg6q077Ujw",
+    "createdTime": "2026-08-27T16:39:39.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-03-31",
+      "Candidate": [
+        "recafWdebWSNlORMB"
+      ],
+      "Application ID": "APP-00158",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rectAG2A6SMPWH8Wk",
+    "createdTime": "2026-08-27T16:39:39.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-08-12",
+      "Candidate": [
+        "rec5RdZfePRur7pC7"
+      ],
+      "Application ID": "APP-00163",
+      "Opening": [
+        "recjRbE4mAhXi7Q6P"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recteo4spjSG5Kgwd",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-07-06",
+      "Candidate": [
+        "recBDWWy4fF0Tp7ip"
+      ],
+      "Final Interview On": "2026-08-02",
+      "Application ID": "APP-00027",
+      "Offers": [
+        "recQq6ghz7ksCfsKV"
+      ],
+      "Offered On": "2026-08-07",
+      "Interviews": [
+        "rec7SL2jo8M7TwS6x"
+      ],
+      "Screened On": "2026-07-13",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "First Interview On": "2026-07-25",
+      "Stage": "Offer",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "rectk8gojzZ37ZG0g",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-05-30",
+      "Candidate": [
+        "rectUos8ugEMQpmxf"
+      ],
+      "Closed On": "2026-06-02",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00245",
+      "Screened On": "2026-05-31",
+      "Opening": [
+        "recXjrSsLdnbn00zJ"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "rectkjxsh4uGWNykj",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-23",
+      "Candidate": [
+        "recpKr9uys7j0KSm8"
+      ],
+      "Application ID": "APP-00340",
+      "Interviews": [
+        "recDvwqrsOxNp84Ta"
+      ],
+      "Screened On": "2026-05-31",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2026-06-08",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recu5mYbm4uMVFE2O",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-04-14",
+      "Candidate": [
+        "recbqaoIUEoSBopjD"
+      ],
+      "Application ID": "APP-00184",
+      "Interviews": [
+        "rec3QaiKrE9r17ufJ"
+      ],
+      "Screened On": "2026-04-20",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2026-04-30",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recuAEYSg32syGYNn",
+    "createdTime": "2026-08-27T16:39:47.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-12",
+      "Candidate": [
+        "recR18yjOkFM8Ub8A"
+      ],
+      "Final Interview On": "2026-07-07",
+      "Closed On": "2026-07-17",
+      "Application ID": "APP-00298",
+      "Offers": [
+        "recP8nDvozvssXYIz"
+      ],
+      "Offered On": "2026-07-13",
+      "Interviews": [
+        "reckfSE9FEOIfZJJQ"
+      ],
+      "Screened On": "2026-06-18",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-06-27",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recuN0WgaKWYNJIrS",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-01",
+      "Candidate": [
+        "rec7sZygp3FC0xTwc"
+      ],
+      "Closed On": "2026-03-13",
+      "Rejection Reason": "Comp Expectation",
+      "Application ID": "APP-00115",
+      "Screened On": "2026-03-04",
+      "Opening": [
+        "recM0u1crri2cum3o"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recupenJ77lfvWBqr",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-30",
+      "Candidate": [
+        "recYW1jmmvmcqSyJp"
+      ],
+      "Closed On": "2026-06-22",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00224",
+      "Interviews": [
+        "recsLOGBd6c4nded3"
+      ],
+      "Screened On": "2026-06-07",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-06-14",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recuxyKz0iwJXR7pB",
+    "createdTime": "2026-08-27T16:39:42.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-08-13",
+      "Candidate": [
+        "reca6mVOj1B07Dbmq"
+      ],
+      "Application ID": "APP-00214",
+      "Screened On": "2025-08-14",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recv6eHiU4xrWC2zh",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-11-17",
+      "Candidate": [
+        "recLJKZuIVoD6SMBb"
+      ],
+      "Application ID": "APP-00118",
+      "Referred By": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Screened On": "2025-11-25",
+      "Opening": [
+        "recDWPyPdsjzjzYEx"
+      ],
+      "Stage": "Screening",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recvSPJU1KTV2Ym79",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-08-10",
+      "Candidate": [
+        "recjPb9ry1jNjKani"
+      ],
+      "Application ID": "APP-00076",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recvYxw0fYaudKGlO",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-05",
+      "Candidate": [
+        "recp1L9Sm1SDuEhc0"
+      ],
+      "Closed On": "2026-06-02",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00149",
+      "Interviews": [
+        "recy59Q6h8x8e8UT5",
+        "recNisf0nalrAbi6j"
+      ],
+      "Screened On": "2026-05-10",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-05-19",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recvfUmmps3AJ0JXg",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-25",
+      "Candidate": [
+        "recHKTSDos43PZesn"
+      ],
+      "Closed On": "2026-07-08",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00182",
+      "Opening": [
+        "recmpkDQ1pbmq0mWx"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recvrpsc9DxJc1Aem",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-03-18",
+      "Candidate": [
+        "recWEvwyjqwO73vq6"
+      ],
+      "Closed On": "2026-04-06",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00013",
+      "Screened On": "2026-03-23",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recw9UmkHJe1DeHAY",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-07-19",
+      "Candidate": [
+        "recMKqNeqZ8TSywGX"
+      ],
+      "Application ID": "APP-00125",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recwAXxaCZ1UKt60k",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-09",
+      "Candidate": [
+        "reca2NmQ13YhRfZn9"
+      ],
+      "Closed On": "2026-06-26",
+      "Rejection Reason": "Withdrew",
+      "Application ID": "APP-00272",
+      "Screened On": "2026-06-15",
+      "Opening": [
+        "rec38ScPLVzASwBYL"
+      ],
+      "Stage": "Withdrawn",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recwCbFOqNVF09X1Y",
+    "createdTime": "2026-08-27T16:39:35.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-05-15",
+      "Candidate": [
+        "recDxGM7ykDbgx96Q"
+      ],
+      "Final Interview On": "2026-06-09",
+      "Application ID": "APP-00094",
+      "Offers": [
+        "recMJLFhIqQcUh6A9"
+      ],
+      "Offered On": "2026-06-19",
+      "Interviews": [
+        "recdMI952CtVNKsD5"
+      ],
+      "Screened On": "2026-05-21",
+      "Opening": [
+        "recjRbE4mAhXi7Q6P"
+      ],
+      "First Interview On": "2026-06-01",
+      "Stage": "Offer",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recwP2FumcSYmnZP8",
+    "createdTime": "2026-08-27T16:39:43.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2025-11-27",
+      "Candidate": [
+        "recPitDIC9NYV2oaP"
+      ],
+      "Final Interview On": "2025-12-27",
+      "Closed On": "2026-01-06",
+      "Application ID": "APP-00223",
+      "Offers": [
+        "recY88MFVZmfpXKhv"
+      ],
+      "Offered On": "2025-12-31",
+      "Interviews": [
+        "recU6qaPncbF3hmUy"
+      ],
+      "Screened On": "2025-12-03",
+      "Opening": [
+        "rec38ScPLVzASwBYL"
+      ],
+      "First Interview On": "2025-12-17",
+      "Stage": "Offer",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recwPtTP9SQOM03cl",
+    "createdTime": "2026-08-27T16:39:37.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-19",
+      "Candidate": [
+        "rec6JoPQEq6uZlR1E"
+      ],
+      "Closed On": "2026-04-07",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00126",
+      "Screened On": "2026-03-28",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recwPtZ7oX9IMA4xq",
+    "createdTime": "2026-08-27T16:39:35.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-09-02",
+      "Candidate": [
+        "recSyTs8GZqk3F4VG"
+      ],
+      "Application ID": "APP-00091",
+      "Opening": [
+        "recfo8MJvxipPru33"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recwQvsOOtVNFtfd6",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-23",
+      "Candidate": [
+        "recBnBhx1k7YZn5k7"
+      ],
+      "Application ID": "APP-00177",
+      "Interviews": [
+        "rec6eWNBWnSVBcyG1"
+      ],
+      "Screened On": "2026-06-02",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "First Interview On": "2026-06-08",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recwWJd2EICQGDxSK",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-12-01",
+      "Candidate": [
+        "recpNzgE290RTLKU2"
+      ],
+      "Closed On": "2025-12-29",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00025",
+      "Interviews": [
+        "recZW3WdOdZ2DwiRi"
+      ],
+      "Screened On": "2025-12-11",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "First Interview On": "2025-12-25",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recwpRyd6IVVpmjpL",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-12-10",
+      "Candidate": [
+        "receYnK8ffesTY0rx"
+      ],
+      "Closed On": "2025-12-20",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00107",
+      "Opening": [
+        "rec5ZjMzbr1BDZscz"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recwtKmNj2n1Xe36T",
+    "createdTime": "2026-08-27T16:39:31.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-07",
+      "Candidate": [
+        "recv9CDLQUvl5XERG"
+      ],
+      "Application ID": "APP-00021",
+      "Referred By": [
+        "recYShpGj81ML92G1"
+      ],
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recwtxdtzuuo5yxW6",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-04",
+      "Candidate": [
+        "rec3UGGnvgS4eHy1V"
+      ],
+      "Closed On": "2026-03-14",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00140",
+      "Screened On": "2026-03-11",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recwwFHgFJVvqXjbl",
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-08-30",
+      "Candidate": [
+        "recLgLkua5p2iEjnU"
+      ],
+      "Closed On": "2025-09-10",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00005",
+      "Screened On": "2025-09-07",
+      "Opening": [
+        "recN2CRitgJbTxrMs"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recx0Lu59vy664xAT",
+    "createdTime": "2026-08-27T16:39:45.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-05-05",
+      "Candidate": [
+        "recPJJKpsfH3P2pGX"
+      ],
+      "Final Interview On": "2026-05-22",
+      "Closed On": "2026-06-15",
+      "Application ID": "APP-00265",
+      "Offers": [
+        "rec2ZqFzKtzyRhiRw"
+      ],
+      "Offered On": "2026-06-01",
+      "Interviews": [
+        "recCUHcdg22QrX5v5"
+      ],
+      "Screened On": "2026-05-14",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-05-17",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recxHugnjgy4jtR0H",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "recD9kc1IOY9DF6Pn"
+      ],
+      "Applied On": "2026-04-03",
+      "Candidate": [
+        "reclHDuDsLZoCX9Pz"
+      ],
+      "Closed On": "2026-04-17",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00102",
+      "Screened On": "2026-04-13",
+      "Opening": [
+        "recjRbE4mAhXi7Q6P"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recxPVkspAJrZQp25",
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-24",
+      "Candidate": [
+        "rec40qlITVvfTqKUW"
+      ],
+      "Closed On": "2026-04-08",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00010",
+      "Referred By": [
+        "recYShpGj81ML92G1"
+      ],
+      "Screened On": "2026-03-30",
+      "Opening": [
+        "recV2H1SKNmiSgGah"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recxWAKEkpJ1IL4qg",
+    "createdTime": "2026-08-27T16:39:36.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2025-11-25",
+      "Candidate": [
+        "recfWIizV71sChyEP"
+      ],
+      "Closed On": "2025-12-21",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00104",
+      "Interviews": [
+        "recA8aRHHtqhoIUF8"
+      ],
+      "Screened On": "2025-12-01",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "First Interview On": "2025-12-10",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recxk4AzL8ntHG13g",
+    "createdTime": "2026-08-27T16:39:38.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-06-22",
+      "Candidate": [
+        "recFYIY5kHmEsG8GO"
+      ],
+      "Application ID": "APP-00151",
+      "Interviews": [
+        "recTPvSkdvJQlM5KO"
+      ],
+      "Screened On": "2026-06-24",
+      "Opening": [
+        "reczcf1vpwP842uKy"
+      ],
+      "First Interview On": "2026-07-01",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recxs6FshN7Ughb5b",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-13",
+      "Candidate": [
+        "reccs2Ql8Q5G4KgEq"
+      ],
+      "Final Interview On": "2026-07-18",
+      "Closed On": "2026-07-26",
+      "Application ID": "APP-00067",
+      "Offers": [
+        "recv2V6Cfju1dWKmd"
+      ],
+      "Offered On": "2026-07-20",
+      "Interviews": [
+        "recNK238350MhxvUi"
+      ],
+      "Screened On": "2026-06-22",
+      "Opening": [
+        "recolz9ocG5Wv9YGc"
+      ],
+      "First Interview On": "2026-06-28",
+      "Stage": "Hired",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recxsYtqn7jeurtz2",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-02-20",
+      "Candidate": [
+        "recN5xLuy31S2cIod"
+      ],
+      "Application ID": "APP-00257",
+      "Opening": [
+        "recsz6wxHxrxGkre3"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recyET1rOj1gPmIkT",
+    "createdTime": "2026-08-27T16:39:46.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-17",
+      "Candidate": [
+        "rec6LXtDS09NTKZZr"
+      ],
+      "Closed On": "2026-04-27",
+      "Rejection Reason": "Skills Mismatch",
+      "Application ID": "APP-00284",
+      "Interviews": [
+        "recUCCOaylrzzduFW"
+      ],
+      "Screened On": "2026-04-21",
+      "Opening": [
+        "rec810iCfuNrOnIYU"
+      ],
+      "First Interview On": "2026-04-26",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recyX8935MkVr7qxt",
+    "createdTime": "2026-08-27T16:39:42.000Z",
+    "fields": {
+      "Recruiter": [
+        "rec256xpgQkRnXVwj"
+      ],
+      "Applied On": "2026-04-19",
+      "Candidate": [
+        "rec3L2pfrQwhV5QWE"
+      ],
+      "Closed On": "2026-05-01",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00212",
+      "Opening": [
+        "recfHWdP7FhYmzOhw"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recyfzPZDXEhRDbzu",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-05-28",
+      "Candidate": [
+        "recTBQ9WqlRXZZ1uB"
+      ],
+      "Closed On": "2026-06-04",
+      "Rejection Reason": "Position Cancelled",
+      "Application ID": "APP-00072",
+      "Screened On": "2026-05-31",
+      "Opening": [
+        "recVwQPU98RDxJM0q"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recygkO8Y6gYVRXcj",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-04-29",
+      "Candidate": [
+        "recGWvjruBnYbjrYa"
+      ],
+      "Application ID": "APP-00341",
+      "Interviews": [
+        "recfHPUeIKevUpz6T"
+      ],
+      "Screened On": "2026-05-05",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "First Interview On": "2026-05-11",
+      "Stage": "Interview",
+      "Status": "Active"
+    }
+  },
+  {
+    "id": "recyxSeDwnDBZoxrI",
+    "createdTime": "2026-08-27T16:39:44.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-24",
+      "Candidate": [
+        "rechrbkjS6PTgJnh6"
+      ],
+      "Closed On": "2026-07-04",
+      "Rejection Reason": "No Show",
+      "Application ID": "APP-00250",
+      "Screened On": "2026-06-30",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "recyxlSQULfaakULY",
+    "createdTime": "2026-08-27T16:39:49.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2026-02-13",
+      "Candidate": [
+        "rec4hMBejUd6B3XJK"
+      ],
+      "Closed On": "2026-04-13",
+      "Rejection Reason": "Better Candidate",
+      "Application ID": "APP-00328",
+      "Interviews": [
+        "recH8Jl0EnikBkY06"
+      ],
+      "Screened On": "2026-03-23",
+      "Opening": [
+        "recMQPbjDBoBakTk9"
+      ],
+      "First Interview On": "2026-04-06",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reczMtSCSFBNKrqB5",
+    "createdTime": "2026-08-27T16:39:40.000Z",
+    "fields": {
+      "Recruiter": [
+        "recLvBq5rkbRssvuG"
+      ],
+      "Applied On": "2025-08-17",
+      "Candidate": [
+        "recctPo5MuFDsjhjc"
+      ],
+      "Closed On": "2025-09-19",
+      "Rejection Reason": "Culture Fit",
+      "Application ID": "APP-00173",
+      "Interviews": [
+        "rec1kwpwPw7wBOLmV"
+      ],
+      "Screened On": "2025-08-23",
+      "Opening": [
+        "rec1hXVrOPLSyiC6Y"
+      ],
+      "First Interview On": "2025-09-05",
+      "Stage": "Rejected",
+      "Status": "Closed"
+    }
+  },
+  {
+    "id": "reczWAGMInjJYvmsk",
+    "createdTime": "2026-08-27T16:39:34.000Z",
+    "fields": {
+      "Recruiter": [
+        "recb49hLjk0PC5O5P"
+      ],
+      "Applied On": "2026-06-14",
+      "Candidate": [
+        "rec8pnxW9hDaQii3U"
+      ],
+      "Application ID": "APP-00071",
+      "Opening": [
+        "recZHFjeFl5dHlCgF"
+      ],
+      "Stage": "Applied",
+      "Status": "Active"
+    }
+  }
+]

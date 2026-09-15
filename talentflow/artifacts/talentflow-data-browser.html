@@ -1,0 +1,432 @@
+<title>TalentFlow Data Browser</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+  :root {
+    --bg: #f6f4ef;
+    --surface: #ffffff;
+    --surface-raised: #fbfaf7;
+    --border: #e3e0d6;
+    --border-strong: #cfcabb;
+    --ink: #23221d;
+    --ink-dim: #6f6c5f;
+    --ink-faint: #a8a394;
+    --accent: #2f6e6a;
+    --accent-ink: #ffffff;
+    --accent-tint: #e4efee;
+    --good-bg: #e3efe0; --good-ink: #3a6b32;
+    --warn-bg: #f7ecd9; --warn-ink: #8a5f14;
+    --bad-bg: #f6e2df;  --bad-ink: #9c3b2e;
+    --neutral-bg: #eceae3; --neutral-ink: #5c5950;
+    --shadow: 0 1px 2px rgba(35,34,29,0.06), 0 4px 16px rgba(35,34,29,0.05);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #17181a;
+      --surface: #1e2023;
+      --surface-raised: #24262a;
+      --border: #33353a;
+      --border-strong: #45484f;
+      --ink: #eae8e2;
+      --ink-dim: #a3a099;
+      --ink-faint: #706d66;
+      --accent: #5fb3ac;
+      --accent-ink: #10201f;
+      --accent-tint: #1f2f2d;
+      --good-bg: #223224; --good-ink: #8fcf85;
+      --warn-bg: #372f1c; --warn-ink: #e3b95c;
+      --bad-bg: #3a2420;  --bad-ink: #e79185;
+      --neutral-bg: #2a2c30; --neutral-ink: #b7b4ac;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 4px 20px rgba(0,0,0,0.35);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #17181a;
+    --surface: #1e2023;
+    --surface-raised: #24262a;
+    --border: #33353a;
+    --border-strong: #45484f;
+    --ink: #eae8e2;
+    --ink-dim: #a3a099;
+    --ink-faint: #706d66;
+    --accent: #5fb3ac;
+    --accent-ink: #10201f;
+    --accent-tint: #1f2f2d;
+    --good-bg: #223224; --good-ink: #8fcf85;
+    --warn-bg: #372f1c; --warn-ink: #e3b95c;
+    --bad-bg: #3a2420;  --bad-ink: #e79185;
+    --neutral-bg: #2a2c30; --neutral-ink: #b7b4ac;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 4px 20px rgba(0,0,0,0.35);
+  }
+
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 400 14px/1.5 "IBM Plex Sans", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .shell {
+    display: flex;
+    min-height: 100vh;
+  }
+
+  /* --- Sidebar --- */
+  .rail {
+    flex: 0 0 220px;
+    max-width: 220px;
+    border-right: 1px solid var(--border);
+    background: var(--surface-raised);
+    padding: 20px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .brand {
+    padding: 0 8px;
+  }
+  .brand .mark {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 500;
+  }
+  .brand h1 {
+    margin: 4px 0 0;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+  }
+  .brand p {
+    margin: 4px 0 0;
+    font-size: 12px;
+    color: var(--ink-dim);
+  }
+
+  nav.tables { display: flex; flex-direction: column; gap: 2px; }
+  .tab-btn {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 8px;
+    width: 100%;
+    padding: 8px 10px;
+    border: none;
+    background: transparent;
+    color: var(--ink-dim);
+    font: 500 13px "IBM Plex Sans", sans-serif;
+    text-align: left;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .tab-btn:hover { background: var(--border); color: var(--ink); }
+  .tab-btn.active { background: var(--accent); color: var(--accent-ink); }
+  .tab-btn .count {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11px;
+    font-variant-numeric: tabular-nums;
+    opacity: 0.75;
+  }
+
+  .rail-foot {
+    margin-top: auto;
+    padding: 10px 8px 0;
+    border-top: 1px solid var(--border);
+    font-size: 11px;
+    color: var(--ink-faint);
+    font-family: "IBM Plex Mono", monospace;
+    line-height: 1.6;
+  }
+
+  /* --- Main --- */
+  .main {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  .topbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 24px;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+    flex-wrap: wrap;
+  }
+  .topbar h2 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+    flex: 0 0 auto;
+  }
+  .topbar .sub {
+    color: var(--ink-faint);
+    font-size: 12px;
+    font-family: "IBM Plex Mono", monospace;
+  }
+  .search-wrap {
+    margin-left: auto;
+    position: relative;
+    flex: 0 1 280px;
+  }
+  .search-wrap input {
+    width: 100%;
+    padding: 7px 10px 7px 30px;
+    border: 1px solid var(--border-strong);
+    border-radius: 7px;
+    background: var(--surface-raised);
+    color: var(--ink);
+    font: 400 13px "IBM Plex Sans", sans-serif;
+  }
+  .search-wrap input:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: -1px;
+  }
+  .search-wrap svg {
+    position: absolute;
+    left: 9px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 14px;
+    height: 14px;
+    stroke: var(--ink-faint);
+  }
+
+  .table-scroll {
+    flex: 1;
+    overflow: auto;
+    padding: 0 24px 24px;
+  }
+  table {
+    border-collapse: collapse;
+    width: max-content;
+    min-width: 100%;
+    font-size: 12.5px;
+  }
+  thead th {
+    position: sticky;
+    top: 0;
+    background: var(--surface-raised);
+    text-align: left;
+    padding: 8px 12px;
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--ink-dim);
+    border-bottom: 1px solid var(--border-strong);
+    white-space: nowrap;
+    cursor: pointer;
+    user-select: none;
+  }
+  thead th:hover { color: var(--ink); }
+  thead th .arrow { font-size: 10px; margin-left: 3px; opacity: 0.6; }
+  tbody td {
+    padding: 7px 12px;
+    border-bottom: 1px solid var(--border);
+    white-space: nowrap;
+    max-width: 360px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: var(--ink);
+  }
+  tbody tr:hover td { background: var(--accent-tint); }
+  td.num, th.num { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; text-align: right; }
+  td.id, th.id { font-family: "IBM Plex Mono", monospace; color: var(--ink-dim); font-size: 11.5px; }
+
+  .pill {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 100px;
+    font-size: 11px;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .pill.good { background: var(--good-bg); color: var(--good-ink); }
+  .pill.warn { background: var(--warn-bg); color: var(--warn-ink); }
+  .pill.bad  { background: var(--bad-bg);  color: var(--bad-ink); }
+  .pill.neutral { background: var(--neutral-bg); color: var(--neutral-ink); }
+
+  .empty-state {
+    padding: 60px 24px;
+    text-align: center;
+    color: var(--ink-faint);
+    font-size: 13px;
+  }
+
+  @media (max-width: 720px) {
+    .shell { flex-direction: column; }
+    .rail { flex: 0 0 auto; max-width: none; flex-direction: row; align-items: center; overflow-x: auto; padding: 12px; }
+    .brand { display: none; }
+    nav.tables { flex-direction: row; }
+    .rail-foot { display: none; }
+    .topbar { padding: 12px 16px; }
+    .table-scroll { padding: 0 16px 16px; }
+  }
+</style>
+
+<div class="shell">
+  <aside class="rail">
+    <div class="brand">
+      <div class="mark">Airtable · appYePRAI75PMbQNQ</div>
+      <h1>TalentFlow Data Browser</h1>
+      <p>Acme Corp — recruiting ops, read-only pull</p>
+    </div>
+    <nav class="tables" id="tableNav"></nav>
+    <div class="rail-foot" id="railFoot"></div>
+  </aside>
+
+  <main class="main">
+    <div class="topbar">
+      <h2 id="tableTitle">—</h2>
+      <span class="sub" id="tableSub"></span>
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input id="search" type="text" placeholder="Filter rows…" />
+      </div>
+    </div>
+    <div class="table-scroll" id="tableScroll"></div>
+  </main>
+</div>
+
+<script src="viewer_data.json" type="application/json" id="__unused"></script>
+<script>
+  const STATUS_COLS = new Set([
+    "Status", "Stage", "Outcome", "Recommendation", "Rejection Reason", "Role"
+  ]);
+  const PILL_MAP = {
+    // Applications.Status / Stage
+    "Open": "good", "Closed": "neutral", "Rejected": "bad", "Hired": "good", "Withdrawn": "neutral",
+    "Applied": "neutral", "Screened": "neutral", "Interviewing": "warn", "Offer": "warn",
+    // Job Openings.Status
+    "Filled": "good", "On Hold": "warn", "Cancelled": "bad",
+    // Interviews.Outcome / Recommendation
+    "Completed": "good", "Scheduled": "warn", "Cancelled ": "bad", "No Show": "bad",
+    "Strong Hire": "good", "Hire": "good", "No Hire": "bad", "Strong No Hire": "bad",
+    // Offers.Status
+    "Accepted": "good", "Pending": "warn", "Declined": "bad", "Rescinded": "bad", "Expired": "neutral",
+  };
+  const NUM_COLS = new Set([
+    "Expected CTC", "Current CTC", "Notice Period Days", "Years Experience",
+    "Headcount Budget", "Headcount", "Salary Band Min", "Salary Band Max",
+    "Score", "Base CTC", "Joining Bonus"
+  ]);
+  const ID_COLS = new Set(["Record ID", "Candidate ID", "Application ID", "Interview ID", "Offer ID", "Req ID", "Code"]);
+
+  let DATA = null;
+  let currentSlug = null;
+  let sortState = { col: null, dir: 1 };
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function renderNav() {
+    const nav = document.getElementById('tableNav');
+    nav.innerHTML = '';
+    Object.entries(DATA).forEach(([slug, t]) => {
+      const btn = document.createElement('button');
+      btn.className = 'tab-btn' + (slug === currentSlug ? ' active' : '');
+      btn.innerHTML = `<span>${t.display}</span><span class="count">${t.rows.length}</span>`;
+      btn.addEventListener('click', () => selectTable(slug));
+      nav.appendChild(btn);
+    });
+    const total = Object.values(DATA).reduce((a, t) => a + t.rows.length, 0);
+    document.getElementById('railFoot').textContent = `${total} records total · pulled ${new Date().toISOString().slice(0,10)}`;
+  }
+
+  function selectTable(slug) {
+    currentSlug = slug;
+    sortState = { col: null, dir: 1 };
+    document.getElementById('search').value = '';
+    renderNav();
+    renderTable();
+  }
+
+  function cellClass(col) {
+    if (ID_COLS.has(col)) return 'id';
+    if (NUM_COLS.has(col)) return 'num';
+    return '';
+  }
+
+  function formatCell(col, val) {
+    if (val === '' || val === null || val === undefined) return '<span style="color:var(--ink-faint)">—</span>';
+    if (STATUS_COLS.has(col)) {
+      const kind = PILL_MAP[val] || 'neutral';
+      return `<span class="pill ${kind}">${escapeHtml(val)}</span>`;
+    }
+    if (NUM_COLS.has(col) && typeof val === 'number') {
+      return val.toLocaleString('en-IN');
+    }
+    return escapeHtml(val);
+  }
+
+  function renderTable() {
+    const t = DATA[currentSlug];
+    document.getElementById('tableTitle').textContent = t.display;
+    document.getElementById('tableSub').textContent = `${t.rows.length} records · ${t.columns.length} fields`;
+
+    const q = document.getElementById('search').value.trim().toLowerCase();
+    let rows = t.rows;
+    if (q) {
+      rows = rows.filter(r => t.columns.some(c => String(r[c] ?? '').toLowerCase().includes(q)));
+    }
+    if (sortState.col) {
+      const c = sortState.col;
+      rows = [...rows].sort((a, b) => {
+        let av = a[c], bv = b[c];
+        if (typeof av === 'number' && typeof bv === 'number') return (av - bv) * sortState.dir;
+        av = String(av ?? ''); bv = String(bv ?? '');
+        return av.localeCompare(bv) * sortState.dir;
+      });
+    }
+
+    const scroll = document.getElementById('tableScroll');
+    if (t.rows.length === 0) {
+      scroll.innerHTML = `<div class="empty-state">No records in this table. (Findings is the write-back table — expected empty on a read-only pull.)</div>`;
+      return;
+    }
+
+    let html = '<table><thead><tr>';
+    t.columns.forEach(c => {
+      const arrow = sortState.col === c ? (sortState.dir === 1 ? '↑' : '↓') : '';
+      html += `<th class="${cellClass(c)}" data-col="${escapeHtml(c)}">${escapeHtml(c)}<span class="arrow">${arrow}</span></th>`;
+    });
+    html += '</tr></thead><tbody>';
+    rows.forEach(r => {
+      html += '<tr>';
+      t.columns.forEach(c => {
+        html += `<td class="${cellClass(c)}">${formatCell(c, r[c])}</td>`;
+      });
+      html += '</tr>';
+    });
+    html += '</tbody></table>';
+    scroll.innerHTML = html;
+
+    scroll.querySelectorAll('th').forEach(th => {
+      th.addEventListener('click', () => {
+        const col = th.dataset.col;
+        if (sortState.col === col) sortState.dir *= -1;
+        else { sortState.col = col; sortState.dir = 1; }
+        renderTable();
+      });
+    });
+  }
+
+  document.getElementById('search').addEventListener('input', renderTable);
+
+  fetch('viewer_data.json').then(r => r.json()).then(json => {
+    DATA = json;
+    currentSlug = Object.keys(DATA)[0];
+    renderNav();
+    renderTable();
+  });
+</script>

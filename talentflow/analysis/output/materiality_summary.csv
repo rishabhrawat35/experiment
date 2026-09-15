@@ -1,0 +1,8 @@
+Issue,Records Affected,Table Size,Share Affected (%)
+Duplicate candidate records (phone+name match),12,300,4.0
+Application records with a reused Application ID,8,350,2.3
+Declined offers whose Application.Stage still says Offer (not Rejected),5,36,13.9
+Interviews with Completed On before Scheduled On,4,160,2.5
+Offers with Proposed Start Date before Offered On,3,36,8.3
+Job openings marked 'Filled' with no matching Hired application,2,24,8.3
+TOTAL records touched by at least one issue above,34,892,3.8

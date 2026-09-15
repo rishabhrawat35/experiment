@@ -1,0 +1,42 @@
+Department,Source,Applications,Hired,Hire Rate (%)
+Customer Support,Job Board,41,1,2.4
+Customer Support,Agency,6,0,0.0
+Customer Support,LinkedIn,5,0,0.0
+Customer Support,Referral,4,2,50.0
+Customer Support,Career Site,2,0,0.0
+Customer Support,Campus,1,0,0.0
+Data,Job Board,26,0,0.0
+Data,Career Site,8,2,25.0
+Data,LinkedIn,6,0,0.0
+Data,Referral,2,2,100.0
+Data,Campus,2,0,0.0
+Data,Agency,1,1,100.0
+Engineering,Job Board,23,0,0.0
+Engineering,LinkedIn,3,0,0.0
+Engineering,Agency,2,0,0.0
+Engineering,Career Site,2,0,0.0
+Finance,Job Board,16,1,6.2
+Finance,Agency,3,1,33.3
+Finance,Career Site,2,0,0.0
+Finance,Referral,1,1,100.0
+Finance,LinkedIn,1,0,0.0
+Marketing,Job Board,31,3,9.7
+Marketing,Agency,8,1,12.5
+Marketing,Career Site,3,1,33.3
+Marketing,LinkedIn,2,0,0.0
+Marketing,Referral,1,0,0.0
+People Operations,Job Board,17,0,0.0
+People Operations,Agency,5,1,20.0
+People Operations,Career Site,2,1,50.0
+People Operations,Referral,2,0,0.0
+People Operations,LinkedIn,2,0,0.0
+Product,Job Board,32,2,6.2
+Product,Career Site,8,1,12.5
+Product,LinkedIn,4,0,0.0
+Product,Agency,4,0,0.0
+Product,Referral,3,2,66.7
+Sales,Job Board,50,0,0.0
+Sales,LinkedIn,8,3,37.5
+Sales,Agency,6,0,0.0
+Sales,Career Site,4,0,0.0
+Sales,Campus,1,0,0.0

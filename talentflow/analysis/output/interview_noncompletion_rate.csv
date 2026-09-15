@@ -1,0 +1,19 @@
+Dimension,Value,Interviews Scheduled,Non-Completions,Rate (%)
+Department,Data,23,5,21.7
+Department,Finance,16,3,18.8
+Department,Sales,35,5,14.3
+Department,People Operations,14,2,14.3
+Department,Customer Support,18,2,11.1
+Department,Product,27,3,11.1
+Department,Marketing,23,2,8.7
+Department,Engineering,4,0,0.0
+Source,Referral,10,3,30.0
+Source,Agency,17,4,23.5
+Source,Career Site,16,3,18.8
+Source,LinkedIn,13,2,15.4
+Source,Job Board,104,10,9.6
+Round,Bar Raiser,7,2,28.6
+Round,Screen,74,13,17.6
+Round,Hiring Manager,7,1,14.3
+Round,Technical 1,69,6,8.7
+Round,Technical 2,3,0,0.0

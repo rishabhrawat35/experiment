@@ -1,0 +1,152 @@
+[
+  {
+    "id": "rec3xI4BGz8OW6TDz",
+    "createdTime": "2026-08-27T16:39:09.000Z",
+    "fields": {
+      "Location": "Noida",
+      "Headcount Budget": 29,
+      "Job Openings": [
+        "rec38ScPLVzASwBYL",
+        "rec1hXVrOPLSyiC6Y",
+        "recmpkDQ1pbmq0mWx"
+      ],
+      "People": [
+        "recWgT7813zjD5bTB",
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Code": "FIN",
+      "Name": "Finance"
+    }
+  },
+  {
+    "id": "recDASo0u2CmangBD",
+    "createdTime": "2026-08-27T16:39:09.000Z",
+    "fields": {
+      "Location": "Bengaluru",
+      "Headcount Budget": 17,
+      "Job Openings": [
+        "recMQPbjDBoBakTk9",
+        "rec810iCfuNrOnIYU",
+        "reczcf1vpwP842uKy"
+      ],
+      "People": [
+        "recSmhAn12okM8IqT"
+      ],
+      "Code": "PRD",
+      "Name": "Product"
+    }
+  },
+  {
+    "id": "recFqQ09yONZFSRdI",
+    "createdTime": "2026-08-27T16:39:09.000Z",
+    "fields": {
+      "Location": "Noida",
+      "Headcount Budget": 36,
+      "Job Openings": [
+        "recjRbE4mAhXi7Q6P",
+        "recolz9ocG5Wv9YGc",
+        "recGF2PfXhqx2M1QC"
+      ],
+      "People": [
+        "recYShpGj81ML92G1",
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Code": "POP",
+      "Name": "People Operations"
+    }
+  },
+  {
+    "id": "recRTXPBmuEYZDGIi",
+    "createdTime": "2026-08-27T16:39:09.000Z",
+    "fields": {
+      "Location": "Remote",
+      "Headcount Budget": 28,
+      "Job Openings": [
+        "recRf0sg8Gga7o7w9",
+        "recamYDoZyTqXNmoE",
+        "recDWPyPdsjzjzYEx"
+      ],
+      "People": [
+        "recpccWvvQSp0BPb4"
+      ],
+      "Code": "DAT",
+      "Name": "Data"
+    }
+  },
+  {
+    "id": "recddMO9ef7TSCLEo",
+    "createdTime": "2026-08-27T16:39:09.000Z",
+    "fields": {
+      "Location": "Noida",
+      "Headcount Budget": 27,
+      "Job Openings": [
+        "recXjrSsLdnbn00zJ",
+        "recfHWdP7FhYmzOhw",
+        "recsz6wxHxrxGkre3"
+      ],
+      "People": [
+        "rec256xpgQkRnXVwj",
+        "recMQs1GOLeXg16VI"
+      ],
+      "Code": "CS",
+      "Name": "Customer Support"
+    }
+  },
+  {
+    "id": "recl1TDWjsAlV8OHH",
+    "createdTime": "2026-08-27T16:39:09.000Z",
+    "fields": {
+      "Location": "Noida",
+      "Headcount Budget": 35,
+      "Job Openings": [
+        "recV2H1SKNmiSgGah",
+        "recyPRmJP1t1CyDer",
+        "recN2CRitgJbTxrMs"
+      ],
+      "People": [
+        "recb49hLjk0PC5O5P",
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Code": "ENG",
+      "Name": "Engineering"
+    }
+  },
+  {
+    "id": "reco6QBxRfbzEuPsb",
+    "createdTime": "2026-08-27T16:39:09.000Z",
+    "fields": {
+      "Location": "Bengaluru",
+      "Headcount Budget": 7,
+      "Job Openings": [
+        "rec5ZjMzbr1BDZscz",
+        "recVwQPU98RDxJM0q",
+        "recM0u1crri2cum3o"
+      ],
+      "People": [
+        "recLvBq5rkbRssvuG",
+        "recdvkS4V1ArShjWO"
+      ],
+      "Code": "MKT",
+      "Name": "Marketing"
+    }
+  },
+  {
+    "id": "recxdKcFxPXlYKCHw",
+    "createdTime": "2026-08-27T16:39:09.000Z",
+    "fields": {
+      "Location": "Mumbai",
+      "Headcount Budget": 39,
+      "Job Openings": [
+        "recZHFjeFl5dHlCgF",
+        "recpCBZeXgyxZLpiR",
+        "recfo8MJvxipPru33"
+      ],
+      "People": [
+        "recD9kc1IOY9DF6Pn",
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Code": "SLS",
+      "Name": "Sales"
+    }
+  }
+]
